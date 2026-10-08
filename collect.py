@@ -12,7 +12,7 @@ import os
 import sys
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
-from urllib.parse import urljoin
+from urllib.parse import quote, urljoin
 
 import feedparser
 import requests
@@ -20,6 +20,7 @@ import yaml
 from bs4 import BeautifulSoup
 
 DAYS = 7
+MAX_PER_SOURCE = 25   # не больше стольких свежих материалов с одного источника
 TIMEOUT = 20
 HEADERS = {"User-Agent": "Mozilla/5.0 (EduDigest news collector)"}
 COMMON_FEED_PATHS = ["/feed/", "/rss/", "/rss.xml", "/feed.xml", "/atom.xml", "/rss"]
@@ -55,6 +56,12 @@ def find_feed(site_url: str) -> str | None:
     return None
 
 
+def search_feed_url(query: str) -> str:
+    """Лента Google Новостей по запросу за последние DAYS дней."""
+    q = quote(f"{query} when:{DAYS}d")
+    return f"https://news.google.com/rss/search?q={q}&hl=ru&gl=RU&ceid=RU:ru"
+
+
 def entry_date(entry) -> datetime | None:
     for key in ("published_parsed", "updated_parsed"):
         value = entry.get(key)
@@ -64,7 +71,10 @@ def entry_date(entry) -> datetime | None:
 
 
 def collect_source(source: dict, since: datetime) -> tuple[list[dict], str]:
-    feed_url = source.get("rss") or find_feed(source["url"])
+    if source.get("search"):
+        feed_url = search_feed_url(source["search"])
+    else:
+        feed_url = source.get("rss") or find_feed(source["url"])
     if not feed_url:
         return [], "❌ RSS не найден"
 
@@ -82,16 +92,28 @@ def collect_source(source: dict, since: datetime) -> tuple[list[dict], str]:
         date = entry_date(e)
         if date and date < since:
             continue
+        title = e.get("title", "").strip()
+        publisher = source["name"]
         summary = BeautifulSoup(e.get("summary", ""), "html.parser").get_text(" ", strip=True)
+        if source.get("search"):
+            # В Google Новостях заголовок выглядит как «Заголовок - Издание»
+            if " - " in title:
+                title, publisher = title.rsplit(" - ", 1)
+            summary = ""  # в поисковой ленте описание просто повторяет заголовок
         items.append({
-            "source": source["name"],
+            "source": publisher,
+            "via": source["name"],
+            "kind": source.get("kind", ""),
             "region": source.get("region", ""),
-            "title": e.get("title", "").strip(),
+            "title": title,
             "link": e.get("link", ""),
             "date": date.isoformat() if date else None,
             "summary": summary[:600],
         })
-    return items, f"✅ {len(items)} за {DAYS} дн. ({feed_url})"
+    items.sort(key=lambda i: i["date"] or "", reverse=True)
+    items = items[:MAX_PER_SOURCE]
+    where = f"поиск: {source['search']}" if source.get("search") else feed_url
+    return items, f"✅ {len(items)} за {DAYS} дн. ({where})"
 
 
 def main():

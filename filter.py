@@ -63,13 +63,15 @@ def main():
     kept, other, excluded = [], [], []
     for item in items:
         text = f"{item['title']} {item.get('summary', '')}".lower()
-        if matches(text, exclude):
+        if item.get("kind") != "competitor" and matches(text, exclude):
             excluded.append(item)
             continue
         tags = [name for name, patterns in topics.items() if matches(text, patterns)]
         if LAW_TAG in tags and item.get("region") == "RU" and matches(text, regional):
             tags.append(REGIONAL_TAG)
         item["tags"] = tags
+        if item.get("kind") == "competitor":
+            tags.append("У конкурентов")
         (kept if tags else other).append(item)
 
     Path("data").mkdir(exist_ok=True)
@@ -100,9 +102,9 @@ def main():
         f"- Без тегов («Прочее»): {len(other)}",
         f"- **Осталось для сводки: {len(kept)}**\n",
         "| Тег | Новостей |", "|---|---|",
-        *[f"| {tag} | {len(by_tag.get(tag, []))} |" for tag in [*topics, REGIONAL_TAG]],
+        *[f"| {tag} | {len(by_tag.get(tag, []))} |" for tag in [*topics, REGIONAL_TAG, "У конкурентов"]],
     ]
-    for tag in [*topics, REGIONAL_TAG]:
+    for tag in [*topics, REGIONAL_TAG, "У конкурентов"]:
         if by_tag.get(tag):
             lines += [f"\n### {tag}\n", *[line(i) for i in by_tag[tag]]]
     lines += ["\n### Отброшено стоп-словами\n", *[line(i) for i in excluded]]

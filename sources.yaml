@@ -1,16 +1,153 @@
 # Источники для EduDigest.
-# Чтобы добавить источник, скопируй блок из трёх-четырёх строк и поменяй значения.
-# rss указывать не обязательно: если его нет, приложение найдёт ленту по адресу сайта.
+#
+# Два вида источников:
+#
+# 1) Сайт с RSS-лентой — достаточно адреса сайта, ленту приложение найдёт само:
+#    - name: Учительская газета
+#      url: https://ug.ru
+#      region: RU
+#      enabled: true
+#
+# 2) Поиск по новостям — для компаний, ведомств и изданий без удобной ленты.
+#    Пишешь запрос, как в поисковике; приложение берёт новости за неделю:
+#    - name: Учи.ру
+#      search: '"Учи.ру" OR "Uchi.ru"'
+#      kind: competitor        # пометка «конкурент» (необязательно)
+#      region: RU
+#      enabled: true
+#
+#    Подсказки для запроса: фраза в кавычках ищется целиком; OR — «или»;
+#    site:kommersant.ru — только этот сайт.
+#
 # enabled: false временно отключает источник.
 
-# ---------- Россия ----------
-- name: Минпросвещения России
-  url: https://edu.gov.ru/press/news/
+# ================= Конкуренты =================
+- name: Онлайн-школа №1
+  search: '"Онлайн-школа №1" OR "Онлайн школа №1" OR "Онлайн-школа № 1"'
+  kind: competitor
   region: RU
   enabled: true
 
+- name: БИТ
+  search: '"онлайн-школа БИТ" OR "онлайн школа БИТ"'
+  kind: competitor
+  region: RU
+  enabled: true
+
+- name: ИнтернетУрок
+  search: '"ИнтернетУрок" OR "InternetUrok" OR "Интернет-урок"'
+  kind: competitor
+  region: RU
+  enabled: true
+
+- name: 100балльный репетитор
+  search: '"100балльный репетитор" OR "Стобалльный репетитор" OR "100-балльный репетитор"'
+  kind: competitor
+  region: RU
+  enabled: true
+
+- name: Учи.ру
+  search: '"Учи.ру" OR "Uchi.ru"'
+  kind: competitor
+  region: RU
+  enabled: true
+
+- name: Тетрика
+  search: '"Тетрика" OR "Tetrika"'
+  kind: competitor
+  region: RU
+  enabled: true
+
+- name: Умназия
+  search: '"Умназия"'
+  kind: competitor
+  region: RU
+  enabled: true
+
+- name: Skysmart
+  search: '"Skysmart" OR "Скайсмарт"'
+  kind: competitor
+  region: RU
+  enabled: true
+
+- name: Онлайн-гимназия №1
+  search: '"Онлайн-гимназия №1" OR "Онлайн гимназия №1" OR "Онлайн-гимназия № 1"'
+  kind: competitor
+  region: RU
+  enabled: true
+
+- name: Наши пенаты
+  search: '"Наши пенаты" школа'
+  kind: competitor
+  region: RU
+  enabled: true
+
+- name: Феникс
+  search: '"онлайн-школа Феникс" OR "школа Феникс" семейное'
+  kind: competitor
+  region: RU
+  enabled: true
+
+# ================= Россия: ведомства =================
+- name: Минпросвещения России (поиск)
+  search: '"Минпросвещения" OR "Министерство просвещения"'
+  region: RU
+  enabled: true
+
+- name: Рособрнадзор (поиск)
+  search: '"Рособрнадзор"'
+  region: RU
+  enabled: true
+
+- name: Департамент образования и науки Москвы
+  search: '"Департамент образования и науки" Москвы'
+  region: RU
+  enabled: true
+
+- name: Комитет по образованию Санкт-Петербурга
+  search: '"Комитет по образованию" Петербург'
+  region: RU
+  enabled: true
+
+- name: Минобразования Краснодарского края
+  search: '"Министерство образования" "Краснодарского края" OR "минобрнауки Кубани"'
+  region: RU
+  enabled: true
+
+- name: Минобрнауки Татарстана
+  search: '"Министерство образования и науки" Татарстан OR "Минобрнауки РТ"'
+  region: RU
+  enabled: true
+
+# Прямые сайты ведомств: у первых двух RSS не нашлось, оставлены выключенными
+- name: Минпросвещения России
+  url: https://edu.gov.ru/press/news/
+  region: RU
+  enabled: false
+
 - name: Рособрнадзор
   url: https://obrnadzor.gov.ru/news/
+  region: RU
+  enabled: false
+
+# ================= Россия: издательства и СМИ =================
+- name: Просвещение (сайт)
+  url: https://prosv.ru
+  region: RU
+  enabled: true
+
+- name: Просвещение (поиск)
+  search: '"группа компаний «Просвещение»" OR "ГК «Просвещение»" OR "издательство «Просвещение»"'
+  region: RU
+  enabled: true
+
+- name: Коммерсантъ — образование
+  search: 'site:kommersant.ru (школа OR школьники OR образование OR ЕГЭ OR учителя OR EdTech)'
+  region: RU
+  enabled: true
+
+- name: Ведомости — образование
+  search: 'site:vedomosti.ru (школа OR школьники OR образование OR ЕГЭ OR учителя OR EdTech)'
   region: RU
   enabled: true
 
@@ -22,7 +159,7 @@
 - name: Интерфакс-Академия
   url: https://academia.interfax.ru
   region: RU
-  enabled: true
+  enabled: false   # RSS не нашёлся
 
 - name: Педсовет
   url: https://pedsovet.org
@@ -34,7 +171,7 @@
   region: RU
   enabled: true
 
-# ---------- Мир: K-12 политика и практика ----------
+# ================= Мир: K-12 политика и практика =================
 - name: Education Week
   url: https://www.edweek.org
   region: WORLD
@@ -63,9 +200,9 @@
 - name: Schools Week (UK)
   url: https://schoolsweek.co.uk
   region: WORLD
-  enabled: true
+  enabled: false   # RSS не нашёлся
 
-# ---------- Мир: EdTech, рынок, исследования ----------
+# ================= Мир: EdTech, рынок, исследования =================
 - name: EdSurge
   url: https://www.edsurge.com
   region: WORLD
@@ -74,7 +211,7 @@
 - name: HolonIQ
   url: https://www.holoniq.com/notes
   region: WORLD
-  enabled: true
+  enabled: false   # RSS не нашёлся
 
 - name: OECD Education and Skills Today
   url: https://oecdedutoday.com
