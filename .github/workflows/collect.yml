@@ -1,10 +1,10 @@
-name: 1. Сбор новостей (проверка источников)
+name: 1. Сбор и фильтр новостей
 
 on:
   workflow_dispatch:   # кнопка «Run workflow» на вкладке Actions
 
 permissions:
-  contents: write      # разрешаем сохранять отчёт обратно в репозиторий
+  contents: write      # разрешаем сохранять отчёты обратно в репозиторий
 
 jobs:
   collect:
@@ -15,15 +15,19 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install -r requirements.txt
-      - run: python collect.py
+      - name: Сбор
+        run: python collect.py
+      - name: Фильтр и теги
+        run: python filter.py
       - uses: actions/upload-artifact@v4
         with:
-          name: items
-          path: data/items.json
-      - name: Сохранить отчёт в репозиторий
+          name: news
+          path: data/
+      - name: Сохранить отчёты в репозиторий
         run: |
           git config user.name "edu-digest-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add reports/sources.md
-          git commit -m "Отчёт о сборе: $(date -u +%Y-%m-%d)" || echo "нет изменений"
+          git add reports/
+          git commit -m "Отчёты о сборе: $(date -u +%Y-%m-%d)" || echo "нет изменений"
+          git pull --rebase
           git push
