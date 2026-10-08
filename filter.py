@@ -92,7 +92,8 @@ def main():
 
     def line(i: dict) -> str:
         tags = f" `{', '.join(i['tags'])}`" if i.get("tags") else ""
-        return f"- **{i['source']}**: [{i['title']}]({i['link']}){tags}"
+        via = f" _(через: {i['via']})_" if i.get("via") and i["via"] != i["source"] else ""
+        return f"- **{i['source']}**{via}: [{i['title']}]({i['link']}){tags}"
 
     lines = [
         "## Фильтр новостей\n",
