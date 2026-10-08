@@ -1,4 +1,4 @@
-## Сбор новостей: 411 материалов за 7 дней
+## Сбор новостей: 410 материалов за 7 дней
 
 | Источник | Статус |
 |---|---|
@@ -13,7 +13,7 @@
 | Онлайн-гимназия №1 | ⚠️ лента пустая (https://news.google.com/rss/search?q=%22%D0%9E%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-%D0%B3%D0%B8%D0%BC%D0%BD%D0%B0%D0%B7%D0%B8%D1%8F%20%E2%84%961%22%20OR%20%22%D0%9E%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD%20%D0%B3%D0%B8%D0%BC%D0%BD%D0%B0%D0%B7%D0%B8%D1%8F%20%E2%84%961%22%20OR%20%22%D0%9E%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-%D0%B3%D0%B8%D0%BC%D0%BD%D0%B0%D0%B7%D0%B8%D1%8F%20%E2%84%96%201%22%20when%3A7d&hl=ru&gl=RU&ceid=RU:ru) |
 | Наши пенаты | ⚠️ лента пустая (https://news.google.com/rss/search?q=%22%D0%9D%D0%B0%D1%88%D0%B8%20%D0%BF%D0%B5%D0%BD%D0%B0%D1%82%D1%8B%22%20%D1%88%D0%BA%D0%BE%D0%BB%D0%B0%20when%3A7d&hl=ru&gl=RU&ceid=RU:ru) |
 | Феникс | ⚠️ лента пустая (https://news.google.com/rss/search?q=%22%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-%D1%88%D0%BA%D0%BE%D0%BB%D0%B0%20%D0%A4%D0%B5%D0%BD%D0%B8%D0%BA%D1%81%22%20OR%20%22%D1%88%D0%BA%D0%BE%D0%BB%D0%B0%20%D0%A4%D0%B5%D0%BD%D0%B8%D0%BA%D1%81%22%20%D1%81%D0%B5%D0%BC%D0%B5%D0%B9%D0%BD%D0%BE%D0%B5%20when%3A7d&hl=ru&gl=RU&ceid=RU:ru) |
-| Учи.ру (Telegram) | ✅ 9 за 7 дн. (Telegram: @uchi_ru_official) |
+| Учи.ру (Telegram) | ✅ 8 за 7 дн. (Telegram: @uchi_ru_official) |
 | Skysmart для родителей (Telegram) | ✅ 2 за 7 дн. (Telegram: @Skysmart_for_parents) |
 | БИТ (Telegram) | ✅ 5 за 7 дн. (Telegram: @schoolbit) |
 | Умскул (Telegram) | ✅ 9 за 7 дн. (Telegram: @umschool_official) |
@@ -81,4 +81,4 @@
 - **NEWS.ru**: [Стало известно, какой подарок россияне чаще всего дарят учителям](https://news.google.com/rss/articles/CBMikwFBVV95cUxPQ0pXQ2FvSVZNUGJqcHFVdEY4S1E0aWtmNThSR2tGR2V1UjM1dmxxay1vWkswNG42aml3RGZYSFBuRUtrTS0tcHRnT3JTWTFoekxwczd4SU5yWXpKQzB2MERzd1ZrSFlNc2xiWW1NUm5kYWFoUGFoRzR4MlAwOGRiVnlOZVJmd1F6N3N3WGJPN2xoOEHSAZgBQVVfeXFMUFRJNHlXUnN4WGw2OTdkNl9Ea3pXZjU4VXJlNklPSXFuV190MnM4UFZVdlNpbVplbDdBazJ5NS1DcHJMbzZUcW1rVDFaVWxQazFzZm5VbVNsY1g0dXFIaHY2WkwyOUFpNkRySXpfek42SFJHZUJIQnp4VFR1dWxFLXNTYUpwbmsxYUllaENKZFM3RWJpVl9Vak4?oc=5)
 - **REGIONS.ru**: [Юмор, справедливость или знания: что важнее для школьников](https://news.google.com/rss/articles/CBMilgFBVV95cUxPR2lHanNTVGtLaHJYVFlfTnhLOTMzUTFwZlp6TkVQeFQwbHl2MVdCZnhVMjNOZi1iQTRlRVNjc1ZaV1NoV1NQd05VaFZRRUVBZHM5WGR1dHRPY3RJMGpNN1ZuUXhtZnRqX0xNcTFBdUtzdWRVdkZRUzEtVUZJaGduX0xlZ1BjYTlTdnJCNEFHTzFscnkwUHc?oc=5)
 - **NEWS.ru**: [Стало известно, за что российские школьники ценят любимых учителей](https://news.google.com/rss/articles/CBMimAFBVV95cUxNaGN2aHhUSkx6WHR3ZXhuVUZDSnRXNm43cHM0NG94MWxvNVpCeE1FRl9Ua1dhcjFScTBSbkQ5WXM3WkZiVWw1ZjBsN1AyTnU5d0w4RHFOMU94TDhXTk5jaTlTR0hILXFpbXFPdWV0cFRYTVJIbXc1dGg0RkZULTg2WnZQY0xXdmRZNHdyclRrbDU3QmFJSXU1SNIBngFBVV95cUxPMFBETHk0V2k1bk83dF9KTXR6d1AxTzJUWEVJXzZ6Y2pKQzhkLXZVdm5sRVBuMC03clJWVG9CSElwR0lnSDVncElqczk0Rnh5ZkFjbWFzZGhVRC1aank1UkxkNDlOQUpNNVFyVjNnbnZHaENhLWpDcU1QQXVjQlNJSWtVVU9ISDVqR05TcGNaODNUd292OUJWWlhtcUV2QQ?oc=5)
-- **Учи.ру (Telegram)**: [Учи.ру для родителей pinned a photo](https://t.me/uchi_ru_official/2935)
+- **Учи.ру (Telegram)**: [😁 Напевать: «Я тебя могну» 🥲 Не закатывать глаза, когда это говорит ребенок Детям нужен надежный взрослый рядом, который их принимает и…](https://t.me/uchi_ru_official/2934)

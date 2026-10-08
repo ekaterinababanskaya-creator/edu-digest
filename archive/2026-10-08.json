@@ -1,10 +1,10 @@
 {
-  "headline": "Рособрнадзор опубликовал сроки ВПР-2027 (19 апреля – 21 мая) и объявил, что в ЕГЭ-2027 по истории и профильной математике станет больше заданий. Среди конкурентов главное — исследование Mail и «Учи.ру», по которому спрос на онлайн-обучение школьников за год вырос на 40%.",
+  "headline": "Рособрнадзор назвал даты ВПР-2027 (19 апреля – 21 мая) и добавил по заданию в ЕГЭ по истории и профильной математике. Путин поддержал идею единой нейросети для образования. На рынке спрос на онлайн-обучение вырос на 40%, а онлайн-школы подняли цены на подготовку к ЕГЭ и ОГЭ на 10–30%.",
   "items": [
     {
-      "title": "ВПР-2027 пройдут с 19 апреля по 21 мая; правила проведения могут ужесточить",
-      "summary": "ВПР для 4–8 и 10 классов в 2027 году пройдут с 19 апреля по 21 мая. Даты по предметам школы выбирают сами внутри этого периода. Рособрнадзор утвердил план оценки качества образования на 2026/27 год, а региональное издание пишет, что правила проведения ВПР собираются ужесточить.",
-      "why_it_matters": "Для учеников на семейном обучении ВПР и другие оценочные процедуры идут через школу прикрепления. Нужно заранее проверить, как новые сроки и ужесточение правил сказываются на наших учениках, и подготовить для родителей график и памятки.",
+      "title": "ВПР-2027 пройдут с 19 апреля по 21 мая, Рособрнадзор утвердил план оценки качества на 2026/27 год",
+      "summary": "ВПР для 4–8 и 10 классов пройдут с 19 апреля по 21 мая 2027 года. Конкретные даты по каждому предмету школы выбирают сами в пределах этого периода. Рособрнадзор также утвердил план мероприятий по оценке качества образования в школах и СПО на 2026/27 учебный год.",
+      "why_it_matters": "Окно ВПР нужно заложить в календарь аттестации и коммуникацию с родителями. Стоит уточнить у школ-партнёров, как они организуют ВПР для семейников.",
       "section": "Россия: регулирование и госполитика",
       "tags": [
         "ГИА",
@@ -15,7 +15,7 @@
         {
           "name": "Информационное агентство «Тульская пресса»",
           "title": "Когда тульские школьники напишут ВПР в 2027 году: сроки Рособрнадзора",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQV3lvaEhRanJIQkdRNWxHQjlJYnRobTNvaWpyYlNwLTMzUzdFVEJIaWtNY3FzSDNpSGdRTFdVNDFlakl5Znh0VmV0WVpKaVdzaDlPb2RtUF9lejBISVRSWkJfNXJzMVRGcWQzaDE3My1FZjdwZHc0ZkUwWDJBRGtqR3NOY0s0OUdYbFNKaHBlaE5uRk40enhoUW9pbFBvR3Rq0gGmAUFVX3lxTE5vdy1BbEN3MkVHdE1TaXQ5dDQ0bGZpVVhucFlJdDVXaFdwLWk5bnVDdHhkaURuRGoxUE42N09qVmVxeFRjWnJob1Vwa2M5QjBweEtfV3pyMWx6a010dTlNbXN6LWc0NWQ5UXZPa29yY0JSbUdsR2NmMERUZ3BQZy1PRlUyQnQzWE05d2RXVXpicXc0dzJRZGdrVnBmbU1NTEpXaHBRRVE?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOb3ctQWxDdzJFR3RNU2l0OXQ0NGxmaVVYbnBZSXQ1V2hXcC1pOW51Q3R4ZGlEbkRqMVBONjdPalZlcXhUY1pyaG9VcGtjOUIwcHhLX1d6cjFsemtNdHU5TW1zei1nNDVkOVF2T2tvcmNCUm1HbEdjZjBEVGdwUGctT0ZVMkJ0M1hNOXdkV1V6YnF3NHcyUWRna1ZwZm1NTUxKV2hwUUVR0gGmAUFVX3lxTE5vdy1BbEN3MkVHdE1TaXQ5dDQ0bGZpVVhucFlJdDVXaFdwLWk5bnVDdHhkaURuRGoxUE42N09qVmVxeFRjWnJob1Vwa2M5QjBweEtfV3pyMWx6a010dTlNbXN6LWc0NWQ5UXZPa29yY0JSbUdsR2NmMERUZ3BQZy1PRlUyQnQzWE05d2RXVXpicXc0dzJRZGdrVnBmbU1NTEpXaHBRRVE?oc=5"
         },
         {
           "name": "Интернет-журнал",
@@ -43,6 +43,16 @@
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbHhJNm9GdTJERG1rUjgzNVlDX2xhWnRpTWZfQldJc2ZOVE13bW1wX2VWSGEzYzA1bVIyVnJTVTZ1cXM4MC04OWZUZEs3amhHNi1jbXZ2blNjeFcyQmpKd25obVkwX2ZlWXA2Zl9DOWIxX2IyeHJrV3J6eEQ4YWZiZzAxd2M5d3BBaXdwa3p0V3QwUEQ5TVN3ZTFjR1JqQlZzc1dTVmJuS0dOTnJZbVVxMUNWc9IBswFBVV95cUxPbHhJNm9GdTJERG1rUjgzNVlDX2xhWnRpTWZfQldJc2ZOVE13bW1wX2VWSGEzYzA1bVIyVnJTVTZ1cXM4MC04OWZUZEs3amhHNi1jbXZ2blNjeFcyQmpKd25obVkwX2ZlWXA2Zl9DOWIxX2IyeHJrV3J6eEQ4YWZiZzAxd2M5d3BBaXdwa3p0V3QwUEQ5TVN3ZTFjR1JqQlZzc1dTVmJuS0dOTnJZbVVxMUNWcw?oc=5"
         },
         {
+          "name": "РИА «Стрела",
+          "title": "Рособрнадзор утвердил план оценок качества образования на 2026-2027 год",
+          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE92V2tEYWdzV1Y4NDM0bGs1U1A3YlFpdmhWanFveG9uMlNQOTJvTldmeVVoUG1mS2RLR3A5Wkd6UlZqTmhw?oc=5"
+        },
+        {
+          "name": "| ФЕДЕРАЛЬНАЯ СЛУЖБА ПО НАДЗОРУ В СФЕРЕ ОБРАЗОВАНИЯ И НАУКИ",
+          "title": "Рособрнадзор рассказал о проведении мероприятий по оценке качества образования в школах и организациях СПО в 2026/2027 учебном году",
+          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPY2kxV2lkdmtzT3NudWFFSnlHallYeU1CZ2g1N19WQWprT3JIT0hIVVB1UTEwTUM1Q0pjTFlrT3FDY2Nsc01CcW9UYWJqVklMbXdJUWZDWHRrVlIzV0EyZlJnMlRSWDFXNkxIejNrWjh5b1lSZlhvbEZaa1RFNDZoQkM5a0d2R1FYMlFCdnpLMUlBNkRWMk9JX2E3cGt1Z0ZXUUJ2SUlCbG1ac2pCRm41MktjYmItN3RyVFBHQUpFUnZDWGthbFZucGNFS3hCZHlaLVl4aW8zTzQwVUpERnhybkVONVhnY0RFU00tQ3Zfb1l6dnBxd0YtbnkyNkdkTXp2VUZFTE82UGlYY1E?oc=5"
+        },
+        {
           "name": "Мел",
           "title": "Рособрнадзор объявил сроки ВПР на 2027 год и рассказал об изменениях в системе оценки. Контрольные пройдут пройдут с 19 апреля по 21 мая",
           "link": "https://mel.fm/novosti/317584-rosobrnadzor-obyavil-sroki-vpr-na-2027-god-i-rasskazal-ob-izmeneniyakh-v-sisteme-otsenki"
@@ -63,37 +73,55 @@
           "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GRFhCdzNITHR4T2lhS2dGZUdZdy1nRHFvRDdDemh2MmRpU0JKSmk5aTZ5WGcwVHVqUGtwbkVFSFhGNXdHODVsVVJBZGhqOEU?oc=5"
         },
         {
-          "name": "ПензаИнформ",
-          "title": "Правила проведения ВПР в школах собираются ужесточить",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNW1zU0pRNWt5QVRHVmc3aWJNOWt2cTBIRThYb0VCV05XRWtBa2NnUXd3dHRQZGRpLXlQV0JrdFF0VU9kOG5rbUQ4MGU2UzQ0UHRmYkk5bnRwNFZmaVJoRkZSRnUwMmo1cDdyT2g1aXFOOEVCTC0zcVlpM2JRTGVnMkpkMkhfR21yQU5xMW9ZckstRllKUnpKMVl1RnAwTWxTcUdyU2h2czN5NWttVFc1N283eFp2Zw?oc=5"
+          "name": "Первый Тульский",
+          "title": "С 19 апреля в тульских школах пройдут всероссийские проверочные работы",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQck9BM0FfRWFDckQwUXB4OXc4NFo0OUpxRDk0Um1wSjQyS0FKVlFYbkMwcnZYNjVRWjJtZHdsamRTN1B0UklZMUVUN3lMZ3phdzhDNUxTaFhMdHkzMEc0aGJWZnp5S0J0alR6WjkwS2VndEQ3Nko4eXlmZURad0EwQ0daVWtwM2w3WFR5LWtyN29zZTNSNkVvRDdCYTc3N1ZTaG1Dem9MaWJUa1NPY2VMX9IBtgFBVV95cUxPa1dGYnNkTjJaQ2NYa0NaMDNPeUg4cVJ5TmN5WDlEdVZRU1ZjOUZWcGN3WUVpTlZzWHhmOVNBeFpHeVJCWDFDbXNlLS1oZkdOa2tXbUtTY2huVmgxd2lSM1FfcXVSRG5ZMk4xT1dJOUxyU1pITDhXZjlzTTZwMGxFaEdRcm9tamU1UG9kdm8zV1BYaHhobUhPZzU1SVNnSlZ1X0xqbHhmSWtWd3dtbXc4cnNuZlJiZw?oc=5"
         },
         {
           "name": "Интерфакс",
           "title": "Школьники напишут Всероссийские проверочные работы с 19 апреля по 21 мая 2027 г.",
           "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5sTUF5RG10VjB3Nl9FRG9JUFRXR2hwWjlDTlhvTHBpX3h0cEF2Z2hfNEhReFVlaVBmOXI0bEY2TXQwTnNoODNjekJRWdIBS0FVX3lxTE5sTUF5RG10VjB3Nl9FRG9JUFRXR2hwWjlDTlhvTHBpX3h0cEF2Z2hfNEhReFVlaVBmOXI0bEY2TXQwTnNoODNjekJRWQ?oc=5"
-        },
-        {
-          "name": "РИА «Стрела",
-          "title": "Рособрнадзор утвердил план оценок качества образования на 2026-2027 год",
-          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE92V2tEYWdzV1Y4NDM0bGs1U1A3YlFpdmhWanFveG9uMlNQOTJvTldmeVVoUG1mS2RLR3A5Wkd6UlZqTmhw?oc=5"
-        },
-        {
-          "name": "| ФЕДЕРАЛЬНАЯ СЛУЖБА ПО НАДЗОРУ В СФЕРЕ ОБРАЗОВАНИЯ И НАУКИ",
-          "title": "Рособрнадзор рассказал о проведении мероприятий по оценке качества образования в школах и организациях СПО в 2026/2027 учебном году",
-          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPY2kxV2lkdmtzT3NudWFFSnlHallYeU1CZ2g1N19WQWprT3JIT0hIVVB1UTEwTUM1Q0pjTFlrT3FDY2Nsc01CcW9UYWJqVklMbXdJUWZDWHRrVlIzV0EyZlJnMlRSWDFXNkxIejNrWjh5b1lSZlhvbEZaa1RFNDZoQkM5a0d2R1FYMlFCdnpLMUlBNkRWMk9JX2E3cGt1Z0ZXUUJ2SUlCbG1ac2pCRm41MktjYmItN3RyVFBHQUpFUnZDWGthbFZucGNFS3hCZHlaLVl4aW8zTzQwVUpERnhybkVONVhnY0RFU00tQ3Zfb1l6dnBxd0YtbnkyNkdkTXp2VUZFTE82UGlYY1E?oc=5"
         }
       ]
     },
     {
-      "title": "В ЕГЭ-2027 по истории и профильной математике добавят по одному заданию",
-      "summary": "По сообщениям региональных СМИ, в ЕГЭ 2027 года в истории и профильной математике станет больше заданий: в каждом предмете добавят по одному.",
-      "why_it_matters": "Структура экзамена меняется, значит нужно обновить программы подготовки к ЕГЭ по истории и профильной математике, пробные варианты и коммуникацию с родителями выпускников. Стоит проверить, как это сказывается на нашем продукте для 10–11 классов.",
+      "title": "Заявлено о планах ужесточить правила проведения ВПР и обновить правила оценки качества образования",
+      "summary": "Региональные и федеральные издания пишут, что правила проведения ВПР собираются ужесточить, а в России готовят новые правила оценки качества образования. В материалах только заголовки, без деталей.",
+      "why_it_matters": "Детали пока неизвестны. Нужно следить за проектом документа: новые требования могут затронуть порядок проведения работ для учеников на семейном обучении.",
+      "section": "Россия: регулирование и госполитика",
+      "tags": [
+        "ГИА",
+        "Законодательство"
+      ],
+      "importance": 2,
+      "sources": [
+        {
+          "name": "ПензаИнформ",
+          "title": "Правила проведения ВПР в школах собираются ужесточить",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNW1zU0pRNWt5QVRHVmc3aWJNOWt2cTBIRThYb0VCV05XRWtBa2NnUXd3dHRQZGRpLXlQV0JrdFF0VU9kOG5rbUQ4MGU2UzQ0UHRmYkk5bnRwNFZmaVJoRkZSRnUwMmo1cDdyT2g1aXFOOEVCTC0zcVlpM2JRTGVnMkpkMkhfR21yQU5xMW9ZckstRllKUnpKMVl1RnAwTWxTcUdyU2h2czN5NWttVFc1N283eFp2Zw?oc=5"
+        },
+        {
+          "name": "Рамблер",
+          "title": "В России готовят новые правила оценки качества образования",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNODJNbUhKY0o0UzVVeVZULVQ0ZTFfdnBoRk42M1BJWlVqUVROZWZWYUNRcHV5VnZUREk5NHgwU1J5SGxYMVUybUZiNHJQNVZHdUlscmhnblFGWFpieUVla0F0MU5KVFlUSURUQlUxdE0zY0NrMTBjdjl1b3JNd3BNbGRkQWttX2xkbGpDWURWZ2IwQW4zUnlReFV2aWI5ZlZNYl9rY212TUtqQUFNcFHSAa4BQVVfeXFMTTgyTW1ISmNKNFM1VXlWVC1UNGUxX3ZwaEZONjNQSVpValFUTmVmVmFDUXB1eVZ2VERJOTR4MFNSeUhsWDFVMm1GYjRyUDVWR3VJbHJoZ25RRlhaYnlFZWtBdDFOSlRZVElEVEJVMXRNM2NDazEwY3Y5dW9yTXdwTWxkZEFrbV9sZGxqQ1lEVmdiMEFuM1J5UXhVdmliOWZWTWJfa2Ntdk1LakFBTXBR?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "В ЕГЭ-2027 по истории и профильной математике появится по дополнительному заданию",
+      "summary": "Выпускникам на ЕГЭ-2027 добавят задания: по одному дополнительному в экзамены по истории и профильной математике. Отдельно сообщили, какие задания ЕГЭ по истории вызвали наибольшие трудности.",
+      "why_it_matters": "Меняется структура двух массовых экзаменов, и нужно обновить программы подготовки, тренировочные варианты и диагностику для 10–11 классов.",
       "section": "Россия: регулирование и госполитика",
       "tags": [
         "ГИА"
       ],
       "importance": 3,
       "sources": [
+        {
+          "name": "Газета",
+          "title": "Стало известно, какие задания ЕГЭ по истории вызвали наибольшие трудности",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rZTY5ZTc0dGN0dU5qQ0phVzVBS3YxRWMxeUNQY1dNdllvYjNDd1hReE9iaFc0ZDRtVi0xZ3FGWDlEVUFFRVdnaVg1Nno0UlBSWkw2TEtNQjhIV1czTHdOdXpvMm5BMVBOMGRvb2RSb0fSAXZBVV95cUxNZkRiZC1LbE80LWZrcXVCdjRvaVlHRWVCOWNtN2hPdTlDVG1WYWRPYUNDSnUxSFJON2o0WS05WmpiZ09xejdYT3ZmWTc1YVNMNUdqTGphRnhac3J5eFNGRERnS3U2dHZ3UmUzQmo5MlVCcmY4cUF3?oc=5"
+        },
         {
           "name": "Новости Твери и Тверской области",
           "title": "Российским выпускникам на ЕГЭ-2027 добавят задания",
@@ -118,23 +146,13 @@
           "name": "TverNews",
           "title": "В ЕГЭ по истории и профильной математике станет больше заданий",
           "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9sT3ljcmhzN1NOSlBSdG1KMTEwbC1ZRUxGeXNZSko0Qkx0NmxleDJsaHVVTVRPVlhJckFHeGdtVk42Vk9EaDFB?oc=5"
-        },
-        {
-          "name": "kirov-portal.ru",
-          "title": "В ЕГЭ-2027 по двум предметам добавят по заданию",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObmo2SUFJZDdJcFJUenl2Mk1MYjRPb25nUHVRLVFxTmUzQU1COHZRdUkxVEVIejZvR09vbGFvY0RKdnVYa0t1THU5alNYTDJQZWlKbnI5MlBHU0Nzc2toM2d2eVdNdUpqSl9uaWtjUy1VemFST0RiSVRIQlVIQjF3T1VuSW5ndWktbmNqM1BtS1E3QVVkRnhud29xdWpscjY4Z3c?oc=5"
-        },
-        {
-          "name": "Мойка78.ру",
-          "title": "Двум экзаменам ЕГЭ добавят заданий в 2027 году",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTUxzcGFxbDBJS0plRFhGQWx6UVZkRThhczFNTWtaOVRYZ0ExdmVBdHNYeUd0bXRnZXRsbmNLM2cwTWVHTTBuS3ZpM29mNnRISE14WWFyR2s0OWllMHZQaExWUFJOdU9vaWNvZHA5YXNYbjJiRUhfRDNNTGp1YWZ1SzdlR2loNDVGOC05M21KSVdxWUdzVWc?oc=5"
         }
       ]
     },
     {
-      "title": "Рособрнадзор ответил на предложения отменить ЕГЭ и проверочные работы",
-      "summary": "Ведомство прокомментировало идеи об отмене ЕГЭ и контрольных работ и назвало последствия такой отмены.",
-      "why_it_matters": "Пока это позиция регулятора, а не решение. Но дискуссия об отмене ЕГЭ напрямую затрагивает продукт по подготовке к ГИА, поэтому тему стоит держать на мониторинге.",
+      "title": "Рособрнадзор прокомментировал предложения отменить ЕГЭ и проверочные работы",
+      "summary": "Ведомство ответило на идеи об отмене ЕГЭ и контрольных работ и назвало последствия такой отмены. В материалах только заголовки.",
+      "why_it_matters": "Это сигнал, что ведомство держит текущую модель оценки и не планирует отказываться от ЕГЭ и ВПР. Для продукта по подготовке к ГИА риски сохраняются низкими.",
       "section": "Россия: регулирование и госполитика",
       "tags": [
         "ГИА"
@@ -154,9 +172,59 @@
       ]
     },
     {
-      "title": "Минпросвещения запускает «Школьное телевидение»",
-      "summary": "Единое школьное телевидение будет показывать на экранах в школах короткие беззвучные ролики (меньше минуты) о науке, спорте, культуре и безопасности. Пилот начался в регионах: источники называют 15 и 30 регионов, в Подмосковье проект уже апробировали. «Ведомости» пишут, что с 2027 года ТВ появится во всех школах.",
-      "why_it_matters": "Это ещё один канал государственного контента внутри очной школы, и семейных учеников он напрямую не затрагивает. Сигнал тренда: государство усиливает воспитательный и информационный контур школы, и дальше он может влиять на требования к школам прикрепления.",
+      "title": "Путин поддержал идею создать единую нейросеть для сферы образования",
+      "summary": "Идею на встрече с педагогами в День учителя предложил победитель конкурса «Учитель года России» 2026 Алексей Морозов. Нейросеть должна учиться на единых образовательных программах, учебниках и проверенном контенте. Президент поддержал предложение.",
+      "why_it_matters": "Государство может создать собственный ИИ-инструмент для школы, который станет эталоном для частных EdTech-продуктов. Нужно следить за требованиями к контенту и за конкуренцией со стороны госсервисов.",
+      "section": "Россия: регулирование и госполитика",
+      "tags": [
+        "EdTech и ИИ",
+        "Законодательство"
+      ],
+      "importance": 2,
+      "sources": [
+        {
+          "name": "edtexno (Telegram)",
+          "title": "Путин поддержал идею создать нейросеть для образования ⚡️ Владимир Путин поддержал предложение создать единую нейросеть для сферы…",
+          "link": "https://t.me/edtexno/7707"
+        },
+        {
+          "name": "Инновации и образование (Telegram)",
+          "title": "Президент заявил, что образовательной сфере России нужна единая нейросеть Владимир Путин сказал об этом на встрече с педагогами —…",
+          "link": "https://t.me/innovation_and_education/3683"
+        },
+        {
+          "name": "Учительская газета",
+          "title": "Учитель года предложил создать образовательную нейросеть",
+          "link": "https://ug.ru/uchitel-goda-predlozhil-sozdat-obrazovatelnuyu-nejroset/"
+        }
+      ]
+    },
+    {
+      "title": "Ямпольская поддержала использование ИИ в работе учителей",
+      "summary": "Советник президента Елена Ямпольская назвала ИИ в образовании «дополнительным точильным камнем» и поддержала его применение педагогами.",
+      "why_it_matters": "Позиция близкого к президенту чиновника говорит о том, что ИИ в школе будет скорее поощряться, чем запрещаться. Это важно для планов по ИИ-функциям в продукте.",
+      "section": "Россия: регулирование и госполитика",
+      "tags": [
+        "EdTech и ИИ"
+      ],
+      "importance": 2,
+      "sources": [
+        {
+          "name": "Ведомости",
+          "title": "Ямпольская назвала ИИ в образовании «дополнительным точильным камнем»",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPakF2akJVNnl1N25OOGdjQXJYZ2l5ek5jZzl3ZGZ1QkNKNVVRVHdvYnhodGtGYWRxRkRsQm1mTTNBUFBMN3pNUkY3Z255d1FFb09iVjY4b05IUW9uY01pVWlUa05xVldqa0ZwLVMtWEFDc1AxRkJrQ2tpWm5pczRCTTBTZkJJanM?oc=5"
+        },
+        {
+          "name": "Ведомости",
+          "title": "Ямпольская поддержала использование ИИ в работе учителей",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVldBVHc5dTBra1EtVHFEMTNDMkowUW91ZlZDanlraWtnMmp0VXR4OEVGOHJlM3ItbkVNa2FZTVNWMXhhTFJkN0MwbnBtM1lIV1pKank0VXczZDRqck9QQnlvYTBvTEV0M2ZRQUNDSlBvU3Y0TWNKNWlTWmhXSTFoOVpvYVdaRE0?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "«Школьное телевидение»: до конца 2026 года в 30 регионах, с 2027 года во всех школах",
+      "summary": "Проект запустят в 15 пилотных регионах и до конца 2026 года как минимум в 30. С 2027 года его хотят ввести во всех российских школах. Контент будут составлять беззвучные ролики короче минуты о науке, спорте, культуре и безопасности, а также анонсы конкурсов.",
+      "why_it_matters": "Это новый федеральный канал коммуникации со школьниками, где могут появиться анонсы олимпиад и конкурсов. Прямого влияния на семейное обучение нет, это сигнал тренда государственного контроля над школьным медиапространством.",
       "section": "Россия: регулирование и госполитика",
       "tags": [
         "Законодательство"
@@ -194,6 +262,11 @@
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMDU4MlBpYkVWTFZWWHdXSkFCUllKWHJqWjEtcTAxYnJkcG1SMDF0d0RpQzl2V1diN2JMT0JsR2xEMkhSRnRSaC1oMEhSQlc1c2JBWXdGbXpYV0VXOHBVX3ZIdkdEV3pPRWFIMjNFYklaQUdGSUMzZUs3VkR3TkF5WTItU241djc5MVlaUVZ2XzU5MDh5aWpqdTdGaWlLVkJhaHc0SUI2TExhMlE?oc=5"
         },
         {
+          "name": "edtexno (Telegram)",
+          "title": "«Школьное телевидение» до конца года запустят в 30 регионах До конца 2026 года проект «Школьное телевидение» запустят как минимум в 30…",
+          "link": "https://t.me/edtexno/7719"
+        },
+        {
           "name": "Kommersant",
           "title": "В Московской области апробировали проект «Школьное телевидение»",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9KbThWSkJfaDdtQjFzSTVFRlFNaVVlUGJoU1RiYkJxaFoyalI2dkhLeTJBQVNiYXhKYTFRZE9FblpMbWVZNF9LZjU3VGRQQQ?oc=5"
@@ -211,12 +284,29 @@
       ]
     },
     {
-      "title": "Запущена линия психологической помощи «Школа доверия»",
-      "summary": "С 11 сентября 2026 года работает линия психологической помощи для обучающихся, родителей и педагогов. На неё поступило более 1 600 обращений, а главной темой назвали конфликты.",
-      "why_it_matters": "Линия работает для всех школьников, включая семейников. Это можно использовать как справочный ресурс для родителей и сопоставить со своей службой поддержки и психологической помощью.",
+      "title": "Закон допускает лишь три вида школьных дисциплинарных взысканий",
+      "summary": "По словам члена комитета Совета Федерации в интервью ТАСС, учитель не вправе сам выгонять ученика из класса, оставлять после уроков, лишать перемены или наказывать весь класс. Допустимы только замечание, выговор и отчисление.",
+      "why_it_matters": "Тема дисциплины и отношений в школе влияет на выбор родителями семейного обучения. Можно использовать как аргумент в коммуникации и контентe.",
       "section": "Россия: регулирование и госполитика",
       "tags": [
-        "Семейное образование"
+        "Законодательство"
+      ],
+      "importance": 1,
+      "sources": [
+        {
+          "name": "edtexno (Telegram)",
+          "title": "Школьные наказания уложились в три пункта Учитель не вправе самостоятельно выгонять ученика из класса, оставлять его после уроков,…",
+          "link": "https://t.me/edtexno/7721"
+        }
+      ]
+    },
+    {
+      "title": "Минпросвещения запустило линию психологической помощи «Школа доверия»",
+      "summary": "С 11 сентября 2026 года работает круглосуточная линия психологической помощи для учеников, родителей и педагогов. На неё поступило более 1600 обращений.",
+      "why_it_matters": "Государство расширяет психологическую поддержку школьников. Можно сверить с собственной службой поддержки учеников и родителей.",
+      "section": "Россия: регулирование и госполитика",
+      "tags": [
+        "Законодательство"
       ],
       "importance": 1,
       "sources": [
@@ -234,18 +324,13 @@
           "name": "Минпросвещения России",
           "title": "Более 1 600 обращений поступило на линию психологической помощи «Школа доверия",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSW9XSW8tTVZWUjJUXzM3NlJHeUVmQXJDazQ4UnpfVXNKbW9yTHNBN0JFR0NRV1pFS19YV2VuajN3ZU44WjZ0NGNjc2dfZUFfUjlGWEx0WXF5MUZ0TmJZOGVia21XVTJaOVc2ZVowZHJaZS1xVG5ZTWFSOWNENFlvZ1RvSUpGUnJiUG9wZnRVTXVrMlJfMW1NdVYtblotZHhTSmNyTzZwbmM3ek42ODl4cUhyLUh0UTVU?oc=5"
-        },
-        {
-          "name": "Рамблер",
-          "title": "В Минпросвещения назвали конфликты лидирующей темой обращений на горячую линию",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRU9EM0QycXFpVjFheTFYUUhORUtwVXRrdzdza2t5SDhVY1d6SVJkNk9UbENlaDBJd2hHOG9rVzhGeDkxcWVwd1p1WmRSdENjZFNiYmtuY2FUcDA5Zm5UaHFzaGxNa3MyYlNRZGVseUhSODFFeGNsQmJzb2xOYTBMcmhOdzRORWxzc2FJSFhBZ3NxeHM0WFk1OVJVLXllbUxKaGE1V2RWaTVibEdaZkNCWnprVVluWS1qajFQdVpIN011dEYyS3Bacll4VDQxZ9IB0wFBVV95cUxOWmtuSFNRX1MwY1FhQzAtUkU2VF85RlhRQ3RUbUhuTnlBaDd5T1B0a19OamVKdVZBRl8yOVBCV1o0M1Z1UXBvRFJCR003bDBPWDAtRk5OM2x5MGlqSzNNbzJSdTh4MERVaWxUYlZMaGlBeUNORThYLXNjenM2Ukx1NzNXdlNIUFYxQ3pnc0ZzYzFqVUZKUXVJalU1cUM2alJGSExldHNZTUItQ21xQkxKX0gzbEUyZjFFOXdiYXJ4UTZTaEtkWGdvWXQ5cFpvcHI3N3g4?oc=5"
         }
       ]
     },
     {
-      "title": "ФАС добилась снижения цен на учебники «Просвещения»",
-      "summary": "По предписанию ФАС издательство «Просвещение» снизило цены на учебники истории и ещё нескольких предметов. Нарушения выявила антимонопольная служба.",
-      "why_it_matters": "Семьи на семейном обучении часто покупают учебники сами. Снижение цен упрощает им жизнь и показывает внимание регулятора к рынку учебной литературы.",
+      "title": "ФАС вынудила «Просвещение» снизить цены на учебники, в том числе по истории",
+      "summary": "По предписанию ФАС издательство «Просвещение» снизило цены на ряд учебников, и ведомство сообщило о снижении ещё на несколько наименований.",
+      "why_it_matters": "Учебники входят в расходы семей и школ. Для семейного обучения важно, что регулятор давит на цены базовых учебных материалов.",
       "section": "Россия: регулирование и госполитика",
       "tags": [
         "Законодательство"
@@ -270,31 +355,31 @@
       ]
     },
     {
-      "title": "«Сферум» и «Просвещение» меняют формат домашних заданий; в «Сферуме» появился сервис «Олимпиады»",
-      "summary": "«Сферум» и «Просвещение» объявили об изменении формата домашних заданий. Отдельно «Сферум» запустил в MAX сервис «Олимпиады» с навигацией по актуальным олимпиадам.",
-      "why_it_matters": "«Сферум» остаётся государственной образовательной платформой с большим охватом. Стоит выяснить, что именно меняется в домашних заданиях, и оценить, как это влияет на ожидания родителей и конкурентов.",
+      "title": "Сферум запустил сервис «Олимпиады» и вместе с «Просвещением» меняет формат домашних заданий",
+      "summary": "В Сферуме (во вкладке «Сервисы» в MAX) появился сервис, собирающий актуальные олимпиады по предметам и темам. Отдельно сообщают, что «Сферум» и «Просвещение» меняют формат домашних заданий; подробностей в материале нет.",
+      "why_it_matters": "Государственная платформа Сферум становится экосистемой для школ: собирает олимпиады и учебный контент. Нужно следить за её ростом как за конкурентом по каналам вовлечения.",
       "section": "Россия: рынок и EdTech",
       "tags": [
         "EdTech и ИИ"
       ],
-      "importance": 2,
+      "importance": 1,
       "sources": [
-        {
-          "name": "SevastopolMedia",
-          "title": "\"Сферум\" и \"Просвещение\" меняют формат домашних заданий",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91OFdWa2ZSRGZLR1JneU90UDZmV0IybWlNZ2ExYkxnS0s3RU9kRmNaa3h2NVExOUpSVjZsUWdLQ2MxTGNpNHZ2NFF6MGdMTEpvMmc?oc=5"
-        },
         {
           "name": "Учительская газета",
           "title": "Удобный навигатор по олимпиадам: появился новый сервис",
           "link": "https://ug.ru/udobnyj-navigator-po-olimpiadam-poyavilsya-novyj-servis/"
+        },
+        {
+          "name": "SevastopolMedia",
+          "title": "\"Сферум\" и \"Просвещение\" меняют формат домашних заданий",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91OFdWa2ZSRGZLR1JneU90UDZmV0IybWlNZ2ExYkxnS0s3RU9kRmNaa3h2NVExOUpSVjZsUWdLQ2MxTGNpNHZ2NFF6MGdMTEpvMmc?oc=5"
         }
       ]
     },
     {
       "title": "В «Московской электронной школе» появился ИИ-репетитор по математике",
-      "summary": "В МЭШ запущен новый ИИ-репетитор по математике.",
-      "why_it_matters": "Бесплатный ИИ-помощник по математике от государственной платформы задаёт ориентир для родителей и может влиять на их ожидания от платных онлайн-школ. Стоит проверить наши ИИ-функции.",
+      "summary": "В МЭШ запустили нового ИИ-репетитора по математике для школьников.",
+      "why_it_matters": "Крупнейшая государственная платформа предлагает ученикам бесплатный ИИ-репетитор. Это давит на ценность платных ИИ-функций в частных продуктах.",
       "section": "Россия: рынок и EdTech",
       "tags": [
         "EdTech и ИИ"
@@ -309,9 +394,9 @@
       ]
     },
     {
-      "title": "МЭШ: 2,1 млрд обращений к сервисам за год, голосовой ассистент для родителей и разбор диагностик",
-      "summary": "За прошлый учебный год к сервисам МЭШ обратились более 2,1 млрд раз. Родители могут узнавать об успеваемости через голосовой ассистент, а школьники — смотреть разбор независимых диагностик в «Портфолио учащегося».",
-      "why_it_matters": "Московская платформа развивает родительский кабинет и аналитику успеваемости. Это ориентир по функциям для родителей, которые мы могли бы предложить в своём продукте.",
+      "title": "МЭШ: более 2,1 млрд обращений к сервисам за год, голосовой ассистент и разбор диагностик",
+      "summary": "За прошлый учебный год к сервисам МЭШ обратились более 2,1 млрд раз. Родители могут узнавать об успеваемости через голосового ассистента, а школьники смотреть разбор независимых диагностик в «Портфолио учащегося».",
+      "why_it_matters": "Московская госплатформа растёт и добавляет функции для родителей, такие как успеваемость и разбор диагностик. Стоит сверить с ними собственный родительский кабинет.",
       "section": "Россия: рынок и EdTech",
       "tags": [
         "EdTech и ИИ"
@@ -330,93 +415,61 @@
         },
         {
           "name": "Официальный сайт Мэра Москвы",
-          "title": "Родители могут узнать об успеваемости ребенка с помощью голосового ассистента",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1lRVBydEdNOWh5elNWTVhMclo1cl9KYnJ6TTNuZWtZSm1jR2IwaUMyRkh5aWktRzNWakI1NmR0QW1Xc0Q2ZjZPR1hvUG04MGV0?oc=5"
+          "title": "Школьники могут посмотреть разбор результатов независимых диагностик в сервисе «Портфолио учащегося»",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1MRmJkX1dzc0NZOHhwX2JBN2ZXZ0xIc2hhY0tYVm44cWxvaDk2Y250bTAwVDdacHF4ZnR1TmRNNGpJdF9UY0lLUGdvZjRQZFVB?oc=5"
         },
         {
           "name": "Официальный сайт Мэра Москвы",
-          "title": "Школьники могут посмотреть разбор результатов независимых диагностик в сервисе «Портфолио учащегося»",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1MRmJkX1dzc0NZOHhwX2JBN2ZXZ0xIc2hhY0tYVm44cWxvaDk2Y250bTAwVDdacHF4ZnR1TmRNNGpJdF9UY0lLUGdvZjRQZFVB?oc=5"
+          "title": "Родители могут узнать об успеваемости ребенка с помощью голосового ассистента",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1lRVBydEdNOWh5elNWTVhMclo1cl9KYnJ6TTNuZWtZSm1jR2IwaUMyRkh5aWktRzNWakI1NmR0QW1Xc0Q2ZjZPR1hvUG04MGV0?oc=5"
         }
       ]
     },
     {
-      "title": "Ямпольская поддержала использование ИИ в работе учителей",
-      "summary": "Ямпольская назвала ИИ в образовании «дополнительным точильным камнем» и поддержала его использование в работе учителей.",
-      "why_it_matters": "Публичная позиция в пользу ИИ показывает, что регулирование ИИ в школе пока идёт в сторону поддержки, а не запретов. Это снижает риски для ИИ-функций в продукте.",
-      "section": "Россия: регулирование и госполитика",
-      "tags": [
-        "EdTech и ИИ"
-      ],
-      "importance": 2,
-      "sources": [
-        {
-          "name": "Ведомости",
-          "title": "Ямпольская назвала ИИ в образовании «дополнительным точильным камнем»",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPakF2akJVNnl1N25OOGdjQXJYZ2l5ek5jZzl3ZGZ1QkNKNVVRVHdvYnhodGtGYWRxRkRsQm1mTTNBUFBMN3pNUkY3Z255d1FFb09iVjY4b05IUW9uY01pVWlUa05xVldqa0ZwLVMtWEFDc1AxRkJrQ2tpWm5pczRCTTBTZkJJanM?oc=5"
-        },
-        {
-          "name": "Ведомости",
-          "title": "Ямпольская поддержала использование ИИ в работе учителей",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVldBVHc5dTBra1EtVHFEMTNDMkowUW91ZlZDanlraWtnMmp0VXR4OEVGOHJlM3ItbkVNa2FZTVNWMXhhTFJkN0MwbnBtM1lIV1pKank0VXczZDRqck9QQnlvYTBvTEV0M2ZRQUNDSlBvU3Y0TWNKNWlTWmhXSTFoOVpvYVdaRE0?oc=5"
-        }
-      ]
-    },
-    {
-      "title": "Курс по ИИ в донских школах; учитель года предложил образовательную нейросеть",
-      "summary": "В школах Дона со второй четверти запустят курс по искусственному интеллекту. Победитель конкурса «Учитель года России» — 2026 Алексей Морозов предложил создать нейросеть, обученную на единых программах, учебниках и проверенном контенте.",
-      "why_it_matters": "Сигнал тренда: ИИ входит в школьную программу, а идея образовательной нейросети на «единых» материалах показывает вероятное требование к ИИ в школе — опираться на проверенный контент.",
+      "title": "Покупки онлайн-курсов и занятий с репетиторами выросли на 40% за год, спрос смещается в мини-группы",
+      "summary": "По данным исследования «Почта Mail» и «Учи.ру» (электронные чеки в категории «Образование»), в 2026 году число покупок выросло на 40% к тому же периоду прошлого года. Покупателей стало больше примерно на треть. Онлайн-обучение собирается в мини-группы.",
+      "why_it_matters": "Спрос на онлайн-обучение школьников растёт, а формат мини-групп конкурирует с большими потоками. Нужно сверить с этим форматы и тарифы, а исследование использовать как аргумент рынка.",
       "section": "Россия: рынок и EdTech",
       "tags": [
-        "EdTech и ИИ",
-        "Законодательство: регионы"
+        "Исследования и данные",
+        "У конкурентов"
       ],
-      "importance": 1,
+      "importance": 3,
       "sources": [
         {
-          "name": "Ведомости. ЮГ",
-          "title": "Курс по искусственному интеллекту запустят в донских школах со второй четверти",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUUpqZ1lpajBJNzZocTE2VFR4cGFTT2RpMXBYVmxyRlFKM0NiQlluWHVzVC1yMjVGN2liS0NFLXg2UkpxdWtUMmVpYzZmZUJxdlNKMXBXd2ZTR21ydjhqV1RqbGhvVUtXaVd4U1JFVnNRNExnYTdnS2hPR1phLVZhNXAwOWVnVzg3eFE?oc=5"
+          "name": "CNews.ru",
+          "title": "Спрос на онлайн-обучение для школьников вырос на 40% –– исследование Mail и «Учи.ру",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4yZnBGMUR4NUJnRzVvTExKdVp3aENOTmNUODFzOWowVnF6MVNTT09hemd5OVJld0d2aDFnNDBDSHl5OWd2U2tLNndBaDVsSk9sYUlXenR1Vm5Gc3lLVXFxN0hHa213bGZxNDZsZXdqTS1SWDdVVFE?oc=5"
         },
         {
-          "name": "Учительская газета",
-          "title": "Учитель года предложил создать образовательную нейросеть",
-          "link": "https://ug.ru/uchitel-goda-predlozhil-sozdat-obrazovatelnuyu-nejroset/"
+          "name": "ProKazan.ru",
+          "title": "Спрос на онлайн-обучение для школьников вырос на 40%",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOFNjOU8yblRIdFN0NHBJckdrakFYNjdNUklOWlBUZHZHZ0xiS2VuN0RSbXcybVZqcnJEVTN0dlZESmdNYXVxMFViSUVhYUw5WlJuRXNHWjVndC0zOE8xTndDSGRTUHlIX19taldPaC0xcGdpZUJGRlV1NEdfd2w2UTdVeEphOUNxMVpxWg?oc=5"
+        },
+        {
+          "name": "edtexno (Telegram)",
+          "title": "Онлайн-обучение собирается в мини-группы Число покупок онлайн-курсов и занятий с репетиторами в 2026 году выросло на 40% по сравнению с…",
+          "link": "https://t.me/edtexno/7706"
         }
       ]
     },
     {
-      "title": "ИИ-репетиторы и госзакупки образования: Wildberries запустит платформу",
-      "summary": "«Ведомости» разбирают, заменит ли ИИ живого учителя английского. Отдельно издание сообщает, что Wildberries запустит платформу госзакупок в сфере образования.",
-      "why_it_matters": "Сигнал тренда: ИИ-репетиторы массово выходят на рынок, а крупные игроки из других отраслей входят в образовательные закупки. Подробностей в материалах нет, стоит смотреть первоисточники.",
+      "title": "Онлайн-школы за три года подняли цены на подготовку к ЕГЭ и ОГЭ на 10–30%, спрос не упал",
+      "summary": "Августовский опрос РБК Курсов среди 18 лидеров рынка по выручке, включая «100балльный репетитор», «Турбо ЕГЭ» и «99 баллов», показал рост цен на 10–30% за три года без снижения спроса. Хабр отдельно разбирает недорогие курсы ЕГЭ 2027 до 10 000 ₽.",
+      "why_it_matters": "Рынок подтверждает неэластичный спрос на подготовку к ГИА: можно пересмотреть цены. Нужно также учитывать нижний сегмент курсов до 10 000 ₽.",
       "section": "Россия: рынок и EdTech",
       "tags": [
-        "EdTech и ИИ"
+        "ГИА",
+        "Исследования и данные",
+        "У конкурентов"
       ],
-      "importance": 1,
+      "importance": 3,
       "sources": [
         {
-          "name": "Ведомости",
-          "title": "«Умный» репетитор в кармане: заменит ли ИИ живого учителя английского?",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNVNWaFdCNVZRUXZoZDBfa0xiMVB2Mnc3T2FtZjFkdldlY1dzclo2bGdnSnUxX3RmUnJwZWJncTJFU243QUVTWmlKd0FBaVpFdXdBaUVBV1ppbTRTa29pVDFJRmxPYmhpTnlZby13OE8zWENqOGUweEFZcV95Y1B1U2cxY2RhbEIxQ0o1aVJfdTNQdlRrN3J6NUYxNFBOanBKQUxmc25mSlpIcmhsVlFsRHRaSTdUdEJKcnh1QQ?oc=5"
+          "name": "edtexno (Telegram)",
+          "title": "Онлайн-школы стали больше зарабатывать на ЕГЭ Онлайн-школы за три года подняли цены на подготовку к ЕГЭ и ОГЭ на 10–30%, но спрос на…",
+          "link": "https://t.me/edtexno/7715"
         },
-        {
-          "name": "Ведомости",
-          "title": "Wildberries запустит платформу госзакупок в сфере образования",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNlVVM2FaUC1KWElXUWJkcXktSlFRQVRyazNrS1dDU005LVVHVkhCYWloYXQyTmk0M004RThmZENuRWRWY09sODJXVzl4V2JwX05IbzYyZG1rSFBuSFhsNWVqOVFxYlUxQzJ5cklNNVYtQ1YweW1TQmJGZ3FZa2pKNHVha1o?oc=5"
-        }
-      ]
-    },
-    {
-      "title": "Обзор недорогих курсов ЕГЭ 2027 до 10 000 ₽",
-      "summary": "«Хабр» рассказывает, что дают недорогие программы подготовки к ЕГЭ стоимостью до 10 000 ₽.",
-      "why_it_matters": "Сигнал о ценовом сегменте рынка подготовки к ЕГЭ. Стоит сравнить наши тарифы с нижней границей рынка и узнать, кто из конкурентов представлен в обзоре.",
-      "section": "Россия: рынок и EdTech",
-      "tags": [
-        "ГИА"
-      ],
-      "importance": 1,
-      "sources": [
         {
           "name": "Хабр",
           "title": "Курсы ЕГЭ 2027 до 10 000 ₽: что дают недорогие программы",
@@ -425,15 +478,55 @@
       ]
     },
     {
-      "title": "Петербург запускает «Старт в профессию» для девятиклассников, не прошедших ГИА",
+      "title": "GetCourse: опрос 60 тыс. человек о доверии к направлениям онлайн-обучения",
+      "summary": "GetCourse опросил более 60 тыс. человек из разных регионов. Обучение профессии заняло только третье место, хобби и здоровье вместе набрали 52%. Курсам личной эффективности участники доверяют меньше всего.",
+      "why_it_matters": "Опрос не про школьное образование, поэтому прямой связи с продуктом нет. Это сигнал тренда о доверии аудитории к онлайн-обучению.",
+      "section": "Исследования и данные",
+      "tags": [
+        "Исследования и данные"
+      ],
+      "importance": 1,
+      "sources": [
+        {
+          "name": "edtexno (Telegram)",
+          "title": "Курсам личной эффективности отказали в доверии Платформа для онлайн-школ GetCourse проанализировала итоги голосования и выяснила, каким…",
+          "link": "https://t.me/edtexno/7709"
+        },
+        {
+          "name": "edtrends (Telegram)",
+          "title": "GetCourse проанализировал результаты опроса более 60 тыс.",
+          "link": "https://t.me/edtrends/3788"
+        }
+      ]
+    },
+    {
+      "title": "В донских школах со второй четверти запустят курс по искусственному интеллекту",
+      "summary": "В школах Ростовской области со второй четверти начнётся курс по ИИ. Подробностей в материале нет.",
+      "why_it_matters": "Регионы начинают вводить ИИ в программу. Это возможный тренд для дополнительного контента и курсов по ИИ для школьников.",
+      "section": "Россия: регулирование и госполитика",
+      "tags": [
+        "Законодательство: регионы",
+        "EdTech и ИИ"
+      ],
+      "importance": 2,
+      "sources": [
+        {
+          "name": "Ведомости. ЮГ",
+          "title": "Курс по искусственному интеллекту запустят в донских школах со второй четверти",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUUpqZ1lpajBJNzZocTE2VFR4cGFTT2RpMXBYVmxyRlFKM0NiQlluWHVzVC1yMjVGN2liS0NFLXg2UkpxdWtUMmVpYzZmZUJxdlNKMXBXd2ZTR21ydjhqV1RqbGhvVUtXaVd4U1JFVnNRNExnYTdnS2hPR1phLVZhNXAwOWVnVzg3eFE?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "Петербург запустил «Старт в профессию» для девятиклассников, не прошедших ГИА",
       "summary": "В Санкт-Петербурге появились новые возможности профессионального обучения для девятиклассников, не прошедших ГИА.",
-      "why_it_matters": "Региональный пример траектории для не прошедших ГИА. Можно учесть при коммуникации с родителями девятиклассников и при продукте для пересдач.",
+      "why_it_matters": "Регион предлагает альтернативный маршрут для не прошедших ГИА. Для подготовки к ОГЭ это сигнал о растущем внимании к такой категории учеников.",
       "section": "Россия: регулирование и госполитика",
       "tags": [
         "ГИА",
         "Законодательство: регионы"
       ],
-      "importance": 1,
+      "importance": 2,
       "sources": [
         {
           "name": "Metronews.ru",
@@ -443,73 +536,9 @@
       ]
     },
     {
-      "title": "Краснодарский край ввёл «тепловую карту рисков» для школьников",
-      "summary": "По данным РИА «Катюша», Краснодарский край вслед за Татарстаном ввёл «тепловую карту рисков» для школьников и признал детей бойцов СВО потенциально опасными. Информация из одного источника, требует проверки.",
-      "why_it_matters": "Если подтвердится, региональные системы оценки рисков в школах могут затронуть семьи, в том числе перешедшие на семейное обучение. Пока сигнал, который нужно проверить.",
-      "section": "Россия: регулирование и госполитика",
-      "tags": [
-        "Законодательство: регионы",
-        "Семейное образование"
-      ],
-      "importance": 1,
-      "sources": [
-        {
-          "name": "РИА | Катюша",
-          "title": "Дети бойцов СВО признаны потенциально опасными: Краснодарский край вслед за Татарстаном ввел сегрегацию школьников по «тепловой карте рисков",
-          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPVl8tVzZzNXk4UkFJUndEcXBxZEo3d01MRjJSRFQ5N3ZZM0NzUWVmWUdUb2FuSTVWXy0yTGJJb21BSVYteU1XMVJDZ0QwUlJRXzNUaHI2TktmeDUtYjMwVkxISWRTQ3g5aGVGS2NPX3hmTHpiV0pRc3pYbl9xaFlwV01LMUQ4cF8yVUQ4SXp5ZXlLX240OW5ZcnhYX2dfbVZNeE5GdnE3eUdwTnpuazkwRTRob1JPQmttd2IzdTNWcjZVTlV4STc5aWt6MkU0bEExMmtINEE3N0ZkWGVKdGFXcEgxTWJjU3Z6MDJpcXlWaWtxandtcklMMUtHbUF5YzNWMzhiUVdqX1I3X0ZoZUE?oc=5"
-        }
-      ]
-    },
-    {
-      "title": "Данные об образовании появились в цифровом профиле россиян",
-      "summary": "В цифровом профиле россиян появились данные об образовании и автомобилях.",
-      "why_it_matters": "Данные об образовании в госпрофиле могут со временем коснуться и школьных документов. Подробностей мало, стоит следить.",
-      "section": "Россия: регулирование и госполитика",
-      "tags": [
-        "Законодательство"
-      ],
-      "importance": 1,
-      "sources": [
-        {
-          "name": "Первый технический",
-          "title": "Данные об автомобилях и образовании появились в цифровом профиле россиян",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQX2R2Y3EzclozNEVxbVlrajJYNy03MlVXRElaWFQ2UXAtNk5OdzB5QjVQTHZ5Y3pVUnFUS25jSDJXNHcyQkkzbkV4Q3NyWHNCNjFNb2Q0enNOS2Ywczd5Q0JwZXhXZ044dElNcUFBTlZGaERCQUczTFREeklVbG1MN01oTW9UTVZkaFlWeDVjUy0xVnhhLTJVQnFyb2xJWG1Wakl2c1ZEX0dhamE3UjNhOTVkZ0NuQTdUakHSAb8BQVVfeXFMUHVpejJ4ZVhNR09JZ2hXWkdHN3JfcEtXa0pmdVExUWpmek9abEczbFNLamlGS1pQYTRvdDFxRHlYSnExalo2YWQxSHJ3MEFHWlF6X2xWMlpabFZhZDBDUzRVUGxxRU9WMjlQRGY1N010YU91NGwzT2NaUWxpVE9salNZNGRULWhCUC1nM2VlTGNlbXhpTG1YRWdwWC1OUE9fNDJzSHpXTnFKVmJyVWNnYlM3R1p4LVZSTjhhM1kxUGs?oc=5"
-        }
-      ]
-    },
-    {
-      "title": "Mail и «Учи.ру»: спрос на онлайн-обучение школьников вырос на 40%",
-      "summary": "По исследованию Mail и «Учи.ру», спрос на онлайн-обучение для школьников вырос на 40%. Отдельный материал «Дети Mail» сообщает, что 80% россиян доверяют ИИ задачи, связанные с обучением школьников; он найден по запросу «Учи.ру» и, вероятно, из того же исследования.",
-      "why_it_matters": "Подтверждает рост рынка и готовность родителей использовать ИИ в учёбе. Можно использовать данные в аргументации и учесть в планах по ИИ-функциям. Стоит изучить методику исследования.",
-      "section": "Конкуренты",
-      "tags": [
-        "У конкурентов",
-        "Исследования и данные",
-        "EdTech и ИИ"
-      ],
-      "importance": 2,
-      "sources": [
-        {
-          "name": "CNews.ru",
-          "title": "Спрос на онлайн-обучение для школьников вырос на 40% –– исследование Mail и «Учи.ру",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4yZnBGMUR4NUJnRzVvTExKdVp3aENOTmNUODFzOWowVnF6MVNTT09hemd5OVJld0d2aDFnNDBDSHl5OWd2U2tLNndBaDVsSk9sYUlXenR1Vm5Gc3lLVXFxN0hHa213bGZxNDZsZXdqTS1SWDdVVFE?oc=5"
-        },
-        {
-          "name": "Дети Mail",
-          "title": "80% россиян доверяют ИИ задачи, связанные с обучением школьников",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWHZTQ3hYWGVyMkpuTVIwOFNKOWNNZHhrVFNqVm14SVJoWlhfUnRrOGZrMFZMUWg5WVU3cW1paGtXZ3VTRHRIVi1yOUlWZkN4R3dnQ3hyX3FoQ3Y3UWloZlFMNlc2WGFPRTdPdVpkSDJnTUVBaEFqNlJLZjRrSU1ZZm90RkZ3aV9SMGJkbi05eFpfVXRzWDlCaUVjdlFtMWNxaDVxWA?oc=5"
-        },
-        {
-          "name": "ProKazan.ru",
-          "title": "Спрос на онлайн-обучение для школьников вырос на 40%",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOFNjOU8yblRIdFN0NHBJckdrakFYNjdNUklOWlBUZHZHZ0xiS2VuN0RSbXcybVZqcnJEVTN0dlZESmdNYXVxMFViSUVhYUw5WlJuRXNHWjVndC0zOE8xTndDSGRTUHlIX19taldPaC0xcGdpZUJGRlV1NEdfd2w2UTdVeEphOUNxMVpxWg?oc=5"
-        }
-      ]
-    },
-    {
-      "title": "«Учи.ру»: олимпиады «Ближе к Дальнему» и «Безопасные дороги»",
-      "summary": "Региональные СМИ рассказывают об открытии юбилейного сезона олимпиады «Ближе к Дальнему» и о продолжении онлайн-олимпиады по ПДД «Безопасные дороги».",
-      "why_it_matters": "«Учи.ру» продолжает привлекать аудиторию массовыми бесплатными олимпиадами при активной поддержке региональных СМИ. Это канал охвата, а не прямая угроза, но стоит учесть его в маркетинге.",
+      "title": "Учи.ру проводит олимпиады «Безопасные дороги» и «Ближе к Дальнему»",
+      "summary": "Идёт онлайн-олимпиада по ПДД «Безопасные дороги» для школьников, о ней пишут региональные СМИ. Метапредметная олимпиада «Ближе к Дальнему» открыла регистрацию юбилейного сезона для школьников и студентов. В Telegram Учи.ру предлагает родителям квиз по безопасности на дорогах.",
+      "why_it_matters": "Олимпиады дают Учи.ру охват в регионах и бесплатную аудиторию. Можно рассмотреть собственные массовые акции для привлечения семей.",
       "section": "Конкуренты",
       "tags": [
         "У конкурентов"
@@ -555,13 +584,87 @@
           "name": "Иглинские вести",
           "title": "Онлайн-олимпиада «Безопасные дороги» - проверьте знания!",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOW5OOTQwRXJBdGJEaTBEV2hydGdFNG04S0tCakt6VzZ5S01ZU3BRQURKVjRGcV9zbkVlUlFDdEhKV3p4SmsxVDV4NmlNblAzZDNYb2RHbVNYSV9PWlh2enhRYVd1OFdfbUhYNXdsVzBid0hIaC1hVURHTWttT0FVSkV3MGctam04X1A4dFZXekVaSm5FMUpfQ09USW93RUVQVHMzdzk0M2pQdjNBVXFVdWVR?oc=5"
+        },
+        {
+          "name": "Учи.ру (Telegram)",
+          "title": "😋 Предлагаем небольшую разминку!",
+          "link": "https://t.me/uchi_ru_official/2924"
+        },
+        {
+          "name": "Учи.ру (Telegram)",
+          "title": "😯 Личный пример работает лучше лекций, правил и уговоров.",
+          "link": "https://t.me/uchi_ru_official/2923"
         }
       ]
     },
     {
-      "title": "Skysmart: опросы к Дню учителя о подарках и ценностях школьников",
-      "summary": "Skysmart сообщил, что самый популярный подарок учителям на День учителя — букет цветов. Ряд изданий также публикует данные о том, за что школьники ценят любимых учителей: юмор, справедливость или знания.",
-      "why_it_matters": "Skysmart активно использует исследования для охвата в СМИ. Стоит рассмотреть похожие инфоповоды к значимым датам.",
+      "title": "Telegram Учи.ру: опрос с ВШЭ, эфир для родителей 1–4 классов и посты о воспитании",
+      "summary": "Родителям 5–11 классов предлагают пройти совместный опрос Учи.ру и НИУ ВШЭ о онлайн-образовании и получить промокод на серебряную подвеску в Sunlight. Для родителей 1–4 классов анонсирован бесплатный эфир «Плохие оценки не приговор: как понять, что мешает ребенку учиться». Остальные посты за неделю — материалы о воспитании и подростковом сленге, шуточные грамоты родителям и мемы к Дню учителя.",
+      "why_it_matters": "Учи.ру собирает данные о родителях через опрос с научным партнёром и использует бесплатные эфиры для привлечения аудитории. Стоит подумать об аналогичных механиках лидогенерации.",
+      "section": "Конкуренты",
+      "tags": [
+        "У конкурентов"
+      ],
+      "importance": 1,
+      "sources": [
+        {
+          "name": "Учи.ру (Telegram)",
+          "title": "😁 Напевать: «Я тебя могну» 🥲 Не закатывать глаза, когда это говорит ребенок Детям нужен надежный взрослый рядом, который их принимает и…",
+          "link": "https://t.me/uchi_ru_official/2934"
+        },
+        {
+          "name": "Учи.ру (Telegram)",
+          "title": "❗️ Родители учеников 5–11 классов , предложение для вас!",
+          "link": "https://t.me/uchi_ru_official/2933"
+        },
+        {
+          "name": "Учи.ру (Telegram)",
+          "title": "Первый месяц школы — это марафон 😅 Поздравляем!",
+          "link": "https://t.me/uchi_ru_official/2927"
+        },
+        {
+          "name": "Учи.ру (Telegram)",
+          "title": "💭 «Мы же вчера всё разобрали…» А сегодня снова двойка.",
+          "link": "https://t.me/uchi_ru_official/2926"
+        },
+        {
+          "name": "Учи.ру (Telegram)",
+          "title": "🤔 Мы не знаем, что будет через десять лет.",
+          "link": "https://t.me/uchi_ru_official/2925"
+        },
+        {
+          "name": "Учи.ру (Telegram)",
+          "title": "Не ждали?",
+          "link": "https://t.me/uchi_ru_official/2920"
+        }
+      ]
+    },
+    {
+      "title": "Skysmart для родителей: встреча с методистом со скидкой до 50% и бесплатный комикс для изучения английского",
+      "summary": "Skysmart приглашает на бесплатную встречу с методистом: проверят уровень знаний ребёнка, подберут репетитора по школьным предметам и дадут скидку до 50% на уроки. Также предлагают скачать бесплатный комикс, с которым можно выучить 300 английских слов.",
+      "why_it_matters": "Конкурент использует бесплатную диагностику и скидку до 50% как воронку в платные занятия. Нужно проверить, насколько сильна наша диагностика в первом касании.",
+      "section": "Конкуренты",
+      "tags": [
+        "У конкурентов"
+      ],
+      "importance": 2,
+      "sources": [
+        {
+          "name": "Skysmart для родителей (Telegram)",
+          "title": "Приглашаем на бесплатную встречу с методистом нашей онлайн-школы: проверим уровень знаний ребёнка, подберём репетитора по школьным…",
+          "link": "https://t.me/Skysmart_for_parents/7712"
+        },
+        {
+          "name": "Skysmart для родителей (Telegram)",
+          "title": "Если ребёнок может часами смотреть аниме и читать мангу, но английский учить не хочет, попробуйте подойти хитрее.",
+          "link": "https://t.me/Skysmart_for_parents/7705"
+        }
+      ]
+    },
+    {
+      "title": "Skysmart опубликовал исследования ко Дню учителя: самый популярный подарок и что школьники ценят в учителях",
+      "summary": "По данным Skysmart, чаще всего учителям дарят букет цветов. Школьники ценят в любимых педагогах юмор, справедливость и знания. Материалы широко разошлись по СМИ.",
+      "why_it_matters": "Skysmart получает широкий охват через PR-исследования. Для нас это пример недорогого способа продвижения бренда на поводе.",
       "section": "Конкуренты",
       "tags": [
         "У конкурентов"
@@ -596,9 +699,130 @@
       ]
     },
     {
-      "title": "Онлайн-школа №1: публикации о нагрузке и мнении школьников об учителях",
-      "summary": "Найдены публикации по запросу об Онлайн-школе №1: о перегрузке детей расписанием, забавных вопросах школьников и их мнении об учителях. На om1.ru вышел материал с опросом школьников.",
-      "why_it_matters": "Онлайн-школа №1 развивает контент-маркетинг для родителей на темы нагрузки и отношений с учителями. Тема перегрузки может быть полезна и нам.",
+      "title": "БИТ запустил родительские встречи «БИТ о главном» и собрал благодарности ко Дню учителя",
+      "summary": "2 октября прошла первая встреча с родителями в проекте «БИТ о главном», тема встречи — ценности современных школьников. Школа публикует видео с итогами. Остальные посты: советы о подготовке к диктанту, сбор благодарностей для учителей, тьюторов и психологов ко Дню учителя.",
+      "why_it_matters": "БИТ строит очное и онлайн-комьюнити родителей вокруг ценностей, а не только учёбы. Это стоит учесть при развитии коммуникации с нашими семьями.",
+      "section": "Конкуренты",
+      "tags": [
+        "У конкурентов"
+      ],
+      "importance": 2,
+      "sources": [
+        {
+          "name": "БИТ (Telegram)",
+          "title": "2 октября состоялась наша первая встреча с родителями в рамках проекта «БИТ о главном».",
+          "link": "https://t.me/schoolbit/2331"
+        },
+        {
+          "name": "БИТ (Telegram)",
+          "title": "Ребенок знает правила, но в диктанте все равно делает ошибки?",
+          "link": "https://t.me/schoolbit/2330"
+        },
+        {
+          "name": "БИТ (Telegram)",
+          "title": "💭 Школа заканчивается, но некоторые привычки остаются с нами надолго.",
+          "link": "https://t.me/schoolbit/2324"
+        },
+        {
+          "name": "БИТ (Telegram)",
+          "title": "С Днем учителя!",
+          "link": "https://t.me/schoolbit/2316"
+        },
+        {
+          "name": "БИТ (Telegram)",
+          "title": "До Дня учителя осталось совсем немного 💌 Мы уже собираем ваши теплые слова для учителей, психологов и тьюторов школы «БИТ».",
+          "link": "https://t.me/schoolbit/2315"
+        }
+      ]
+    },
+    {
+      "title": "Умскул запустил «нейрокуратора» Умку для проверки домашних заданий",
+      "summary": "Умскул представил нейрокуратора, который проверяет домашние задания в среднем за 5 минут и присылает разбор ошибок.",
+      "why_it_matters": "Конкурент встроил ИИ в ключевой процесс обратной связи и обещает ускорение проверки. Нужно оценить, есть ли у нас сопоставимая автоматизация и как её сравнивать по качеству.",
+      "section": "Конкуренты",
+      "tags": [
+        "EdTech и ИИ",
+        "У конкурентов"
+      ],
+      "importance": 2,
+      "sources": [
+        {
+          "name": "Умскул (Telegram)",
+          "title": "домашку задаём в любом случае, тут уж извините — без повторения изученного прогресса не будет 😈 тем более, что теперь в Умскул она…",
+          "link": "https://t.me/umschool_official/14123"
+        }
+      ]
+    },
+    {
+      "title": "Умскул: сбой платформы по внешней причине, контент про итоговое сочинение и ОГЭ",
+      "summary": "Умскул сообщил о неполадках на платформе по причине на внешней стороне и о переносе информации об уроках на закрытые каналы преподавателей. Остальные посты: карточки про итоговое сочинение (до него меньше двух месяцев), опрос девятиклассников о подготовке к ОГЭ, тесты по предметам и финал сериала «ЕГЭ по физре».",
+      "why_it_matters": "Сбой во внешнем сервисе показывает риск зависимости от сторонних платформ. Умскул продвигает подготовку к итоговому сочинению и ОГЭ как отдельные продукты.",
+      "section": "Конкуренты",
+      "tags": [
+        "ГИА",
+        "У конкурентов"
+      ],
+      "importance": 1,
+      "sources": [
+        {
+          "name": "Умскул (Telegram)",
+          "title": "видим сообщения про неполадки с платформой — сейчас ожидаем исправления ошибки, проблема с внешней стороны 🙏🏼 я сообщу инфо, как только…",
+          "link": "https://t.me/umschool_official/14141"
+        },
+        {
+          "name": "Умскул (Telegram)",
+          "title": "ВЫШЛА ПОСЛЕДНЯЯ СЕРИЯ СЕРИАЛА «ЕГЭ ПО ФИЗРЕ» 🏀 без спойлеров!!!",
+          "link": "https://t.me/umschool_official/14140"
+        },
+        {
+          "name": "Умскул (Telegram)",
+          "title": "рассказывайте, каких блогеров вы любите смотреть после учёбы?",
+          "link": "https://t.me/umschool_official/14138"
+        },
+        {
+          "name": "Умскул (Telegram)",
+          "title": "ВСЁ ПРО ИТОГОВОЕ СОЧИНЕНИЕ ✍️ • что ждёт вас на экзамене • какие темы могут попасться • как правильно готовиться • как получить…",
+          "link": "https://t.me/umschool_official/14129"
+        },
+        {
+          "name": "Умскул (Telegram)",
+          "title": "до итогового сочинения меньше двух месяцев....",
+          "link": "https://t.me/umschool_official/14128"
+        },
+        {
+          "name": "Умскул (Telegram)",
+          "title": "9-классники, как вы считаете, стоит ли вообще усердно готовиться к ОГЭ?",
+          "link": "https://t.me/umschool_official/14124"
+        },
+        {
+          "name": "Умскул (Telegram)",
+          "title": "я вас поняла 🫡 ловите тестики по русскому - t.me/QuizBot?start=HyAK0Uc4 по математике - t.me/QuizBot?start=7nfHgg9z по физике -…",
+          "link": "https://t.me/umschool_official/14122"
+        }
+      ]
+    },
+    {
+      "title": "eurogymonline анонсировал форум-практикум «Школа без страха: диалог и выбор»",
+      "summary": "Канал рассказал о форуме-практикуме, который организуют партнёры из сообщества, о доверии вместо страха в образовании и диалоге семьи, школы и ребёнка.",
+      "why_it_matters": "Конкурент продвигает тему психологического комфорта и диалога с семьёй, то есть работает с аудиторией, выбирающей альтернативу массовой школе.",
+      "section": "Конкуренты",
+      "tags": [
+        "У конкурентов",
+        "Семейное образование"
+      ],
+      "importance": 1,
+      "sources": [
+        {
+          "name": "eurogymonline (Telegram)",
+          "title": "💡 Как сделать образование пространством доверия, а не страха?",
+          "link": "https://t.me/eurogymonline/853"
+        }
+      ]
+    },
+    {
+      "title": "Онлайн-школа №1 попала в СМИ с материалами о школьниках и учителях",
+      "summary": "По запросу найдены публикации о плотном расписании ребёнка, забавных вопросах школьников и их отношении к учителям. Новых продуктов, тарифов или партнёрств в этих материалах нет.",
+      "why_it_matters": "Это присутствие бренда в массовых СМИ и на родительских порталах. Прямых угроз нет.",
       "section": "Конкуренты",
       "tags": [
         "У конкурентов"
@@ -623,9 +847,9 @@
       ]
     },
     {
-      "title": "«100балльный репетитор» показывает клиентскую поддержку в VK Клипах",
-      "summary": "100балльный репетитор публикует в VK Клипах ролик о клиентской поддержке.",
-      "why_it_matters": "Конкурент использует короткие видео для демонстрации сервиса. Можно проверить, работает ли такой формат для нас.",
+      "title": "100балльный репетитор публикует в VK Клипах ролик про клиентскую поддержку",
+      "summary": "В VK Клипах вышел ролик «Клиентская поддержка» от 100балльного репетитора. Подробностей в материале нет.",
+      "why_it_matters": "Конкурент использует короткие видео в VK для показа сервиса. Каналы продвижения стоит учитывать в нашем медиаплане.",
       "section": "Конкуренты",
       "tags": [
         "У конкурентов"
@@ -640,64 +864,67 @@
       ]
     },
     {
-      "title": "США: федеральная программа налоговых стипендий может покрывать расходы на домашнее обучение",
-      "summary": "Минфин США опубликовал проект правил первой национальной программы школьных стипендий. По ним средства могут идти на домашнее обучение в некоторых штатах, репетиторство и спецтерапии. Спор идёт о том, кому выгодна программа, а школьные группы в Колорадо готовятся ею воспользоваться.",
-      "why_it_matters": "Сигнал тренда: государство начинает косвенно финансировать семейное обучение и репетиторов. В России такой модели нет, но это пример того, как рынок альтернативного образования может получить поддержку.",
-      "section": "Мир: K-12 политика и практика",
-      "tags": [
-        "Семейное образование"
-      ],
-      "importance": 2,
-      "sources": [
-        {
-          "name": "The 74",
-          "title": "Opinion: ‘We’re Not Who You Think We Are’: Homeschooling Goes Purple",
-          "link": "https://www.the74million.org/article/were-not-who-you-think-we-are-homeschooling-goes-purple/"
-        },
-        {
-          "name": "K-12 Dive",
-          "title": "Rules fuel debate over who benefits from the federal school choice plan",
-          "link": "https://www.k12dive.com/news/rules-fuel-debate-over-who-benefits-from-the-federal-school-choice-plan/831997/"
-        },
-        {
-          "name": "Chalkbeat",
-          "title": "Colorado public school groups are jumping in on Trump-backed tax-credit scholarship program",
-          "link": "https://www.chalkbeat.org/colorado/2026/10/06/colorado-public-school-groups-jump-on-tax-credit-scholarship-program/"
-        }
-      ]
-    },
-    {
-      "title": "США: «подростковый режим» ChatGPT признан небезопасным для школьников",
-      "summary": "По отчёту исследователей, подростковый режим ChatGPT не уведомлял родителей о небезопасных диалогах вовремя. Education Week напоминает, что регулирование соцсетей запоздало для детей, и ставит вопрос, будет ли безопасность ИИ устроена иначе.",
-      "why_it_matters": "Сигнал тренда: растёт внимание к безопасности детей при работе с ИИ. Если такие требования придут в Россию, нужно заранее продумать родительский контроль и безопасность в наших ИИ-функциях.",
-      "section": "Мир: EdTech и инвестиции",
-      "tags": [
-        "EdTech и ИИ"
-      ],
-      "importance": 2,
-      "sources": [
-        {
-          "name": "Education Week",
-          "title": "ChatGPT's 'Teen Mode' Is Unsafe for Students, Report Concludes",
-          "link": "https://www.edweek.org/technology/chatgpts-teen-mode-is-unsafe-for-students-report-concludes/2026/10"
-        },
-        {
-          "name": "Education Week",
-          "title": "A Reckoning on Social Media Addiction Came Late for Kids. Will AI Safety Be Different?",
-          "link": "https://www.edweek.org/technology/a-reckoning-on-social-media-addiction-came-late-for-kids-will-ai-safety-be-different/2026/10"
-        }
-      ]
-    },
-    {
-      "title": "Обзор в The Lancet: избыточное экранное время ухудшает психическое здоровье молодёжи",
-      "summary": "Крупный обзор исследований в The Lancet связывает чрезмерное использование цифровых медиа с ухудшением психического здоровья детей и подростков. Потери оценили в 2,8 млн лет здоровой жизни.",
-      "why_it_matters": "Растёт обеспокоенность экранным временем, что может повлиять на отношение родителей к онлайн-формату и потребовать от нас аргументов о качестве и режиме онлайн-обучения.",
+      "title": "Исследование: короткая помощь ИИ заставляет люди чаще бросать задачи",
+      "summary": "Учёные из MIT, Оксфорда и других вузов провели три эксперимента и обнаружили, что после работы с ИИ-ассистентом люди хуже решают задачи самостоятельно и чаще не пытаются справиться.",
+      "why_it_matters": "Данные важны для дизайна ИИ-помощников для школьников. Нужно проверить, не учим ли мы ученика отказываться от самостоятельного решения.",
       "section": "Исследования и данные",
       "tags": [
+        "EdTech и ИИ",
         "Исследования и данные"
+      ],
+      "importance": 2,
+      "sources": [
+        {
+          "name": "edtexno (Telegram)",
+          "title": "Даже небольшая помощь ИИ заставляет чаще бросать задачи После короткой работы с ИИ-ассистентом люди хуже решают задачи самостоятельно и…",
+          "link": "https://t.me/edtexno/7718"
+        }
+      ]
+    },
+    {
+      "title": "Нейросети меняют школу: подростки не видят смысла в домашке, проверка знаний уходит офлайн, появился калькулятор с ИИ",
+      "summary": "Психологи связывают отказ подростков делать домашние задания с блогерами и доступностью нейросетей. «Ъ-Наука» пишет, что школы меняют распределение времени учителей и способы проверки знаний. В продаже появился калькулятор Kaerda fx-991ES PLUS со скрытой камерой и ИИ для списывания.",
+      "why_it_matters": "Дистанционная проверка знаний и аттестация становятся уязвимее. Нужно продумать контроль самостоятельности ученика при промежуточной аттестации и онлайн-экзаменах.",
+      "section": "Россия: рынок и EdTech",
+      "tags": [
+        "EdTech и ИИ",
+        "ГИА"
+      ],
+      "importance": 2,
+      "sources": [
+        {
+          "name": "edtexno (Telegram)",
+          "title": "Учёба проигрывает блогерам и нейросетям Подростки всё чаще отказываются делать домашние задания, потому что не видят смысла в учёбе.",
+          "link": "https://t.me/edtexno/7720"
+        },
+        {
+          "name": "edtexno (Telegram)",
+          "title": "Проверка знаний уходит в офлайн из-за нейросетей Учитель перестаёт быть главным источником знаний, ответ на любой вопрос школьник…",
+          "link": "https://t.me/edtexno/7714"
+        },
+        {
+          "name": "edtexno (Telegram)",
+          "title": "Нейросети добрались и до калькуляторов В инженерный калькулятор Kaerda fx-991ES PLUS встроили нейросеть и скрытую камеру.",
+          "link": "https://t.me/edtexno/7703"
+        }
+      ]
+    },
+    {
+      "title": "Сигналы о вреде цифровых технологий для детей: тезисы Horvath и обзор Lancet",
+      "summary": "Нейробиолог Jared Cooney Horvath в книге The Digital Delusion призывает ограничивать цифровые технологии и в самом обучении. Обзор в The Lancet показал, что чрезмерное использование цифровых медиа связано с ухудшением психического здоровья детей и подростков, потери оцениваются в 2,8 млн лет здоровой жизни.",
+      "why_it_matters": "Растёт аргументация против экранов в школе и дома. Это сигнал тренда, который может повлиять на запросы родителей к экранному времени в онлайн-формате.",
+      "section": "Исследования и данные",
+      "tags": [
+        "Исследования и данные",
+        "EdTech и ИИ"
       ],
       "importance": 1,
       "sources": [
+        {
+          "name": "edtrends (Telegram)",
+          "title": "Нейробиолог и бывший учитель Jared Cooney Horvath, автор книги The Digital Delusion , призывает вслед за ограничением смартфонов и…",
+          "link": "https://t.me/edtrends/3786"
+        },
         {
           "name": "Мел",
           "title": "Ученые впервые оценили глобальные потери лет здоровой жизни из-за экранного времени у молодежи. И приравняли это 2,8 млн лет",
@@ -706,14 +933,14 @@
       ]
     },
     {
-      "title": "Франция: массовые протесты школьников из-за финансирования школ",
-      "summary": "Старшеклассники во Франции протестуют против ветхих зданий, отсутствия кондиционеров и неравенства между школами. По данным «Коммерсанта», пострадало более тысячи человек, а премьер пообещал пересмотреть образовательный бюджет.",
-      "why_it_matters": "Прямой связи с Домашней школой нет. Сигнал тренда: недовольство состоянием очных школ — аргумент в пользу альтернативных форматов, но российские СМИ подают тему и в политическом ключе.",
+      "title": "Во Франции школьные протесты: более 1 тыс. пострадавших, правительство обещает пересмотреть бюджет образования",
+      "summary": "Старшеклассники во Франции вышли на протесты из-за ветхих зданий, отсутствия кондиционеров и неравенства между школами. Пострадало более 1 тыс. человек. Премьер пообещал пересмотреть образовательный бюджет.",
+      "why_it_matters": "Это сигнал тренда о массовом недовольстве качеством условий в школах. Прямого влияния на российский рынок нет.",
       "section": "Мир: K-12 политика и практика",
       "tags": [
-        "Исследования и данные"
+        "Законодательство"
       ],
-      "importance": 1,
+      "importance": 2,
       "sources": [
         {
           "name": "Kommersant",
@@ -731,13 +958,79 @@
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE92VXpVV0NTazA1MUQzV0RRVDdTalgwZHIzZkFtS25ZQXVKQWM0Q3FYSFhlQ3Etay1XQ3RjamFNUTdLQ094Vk9QWEJ1TFlsQQ?oc=5"
         },
         {
+          "name": "Ведомости",
+          "title": "В Кремле отреагировали на протесты школьников во Франции",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa2tmd2hHbHZlekk5YVlxZFNqVl9CU1dLZW5sUjBFUi00RmVlUkF2RHVDZTdZZjB4Q1RFTnFnQ180LVpTT2lidTFGR1ZHOWwwLU03c1VYcnRpNVBDcWxSeHdZRGlIMTFpbk54WnhhMGlIX18yb3VGbDRGS3Z5bTROQlVvcw?oc=5"
+        },
+        {
+          "name": "Ведомости",
+          "title": "Маск назвал протесты школьников во Франции медленным вторжением",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOUZ1ODRqSmJxYnRKdTJFWjZUN1ZWZ1lNSFpqa3Z3cWV4QmJwZVhWNEFucUxlTWctN0xVNjRHSm9UeUNyeWZtRDBXeTVpR085NnNyLWVsMkNzRktiUDB4N0ZkMUxrYzlzcC0tZzJTbDAxbjdtWVU0bUZWWHNtXzk3NWxiNDM?oc=5"
+        },
+        {
           "name": "Education Week",
           "title": "School Funding at the Heart of Massive Protests in France",
           "link": "https://www.edweek.org/policy-politics/school-funding-at-the-heart-of-massive-protests-in-france/2026/10"
         }
       ]
+    },
+    {
+      "title": "США: Минфин опубликовал проект правил федеральной программы налоговых кредитов на стипендии для школьников",
+      "summary": "Минфин США 1 октября представил проект правил Federal Scholarship Tax Credit, где налогоплательщики жертвуют средства организациям, а те финансируют образовательные услуги семей. В некоторых штатах деньги можно будет тратить на домашнее обучение, репетиторов и терапии для детей с особыми потребностями. В Колорадо государственные школьные организации тоже готовятся подключиться. Идёт спор о том, кому программа выгоднее.",
+      "why_it_matters": "Это один из самых заметных примеров государственной поддержки домашнего образования и частного сектора. Для России это сигнал тренда о возможном направлении финансирования семейного образования.",
+      "section": "Мир: K-12 политика и практика",
+      "tags": [
+        "Семейное образование",
+        "Законодательство"
+      ],
+      "importance": 3,
+      "sources": [
+        {
+          "name": "The 74",
+          "title": "Opinion: ‘We’re Not Who You Think We Are’: Homeschooling Goes Purple",
+          "link": "https://www.the74million.org/article/were-not-who-you-think-we-are-homeschooling-goes-purple/"
+        },
+        {
+          "name": "The 74",
+          "title": "Opinion: Now That Federal Tax Credit Rules Are Out, What States & Philanthropy Should Do",
+          "link": "https://www.the74million.org/article/now-that-federal-tax-credit-rules-are-out-what-states-philanthropy-should-do/"
+        },
+        {
+          "name": "Chalkbeat",
+          "title": "Colorado public school groups are jumping in on Trump-backed tax-credit scholarship program",
+          "link": "https://www.chalkbeat.org/colorado/2026/10/06/colorado-public-school-groups-jump-on-tax-credit-scholarship-program/"
+        },
+        {
+          "name": "K-12 Dive",
+          "title": "Rules fuel debate over who benefits from the federal school choice plan",
+          "link": "https://www.k12dive.com/news/rules-fuel-debate-over-who-benefits-from-the-federal-school-choice-plan/831997/"
+        }
+      ]
+    },
+    {
+      "title": "Отчёт: «подростковый режим» ChatGPT небезопасен для школьников",
+      "summary": "Исследователи пришли к выводу, что чат-бот вовремя не сообщал родителям о небезопасных взаимодействиях. Education Week отдельно сравнивает позднюю реакцию на зависимость от соцсетей с задачей обеспечить безопасность ИИ для детей.",
+      "why_it_matters": "Требования к безопасности ИИ для детей будут ужесточаться. Если в продукте будут ИИ-функции для школьников, нужно заранее продумать оповещения родителей и фильтры.",
+      "section": "Мир: EdTech и инвестиции",
+      "tags": [
+        "EdTech и ИИ",
+        "Исследования и данные"
+      ],
+      "importance": 2,
+      "sources": [
+        {
+          "name": "Education Week",
+          "title": "ChatGPT's 'Teen Mode' Is Unsafe for Students, Report Concludes",
+          "link": "https://www.edweek.org/technology/chatgpts-teen-mode-is-unsafe-for-students-report-concludes/2026/10"
+        },
+        {
+          "name": "Education Week",
+          "title": "A Reckoning on Social Media Addiction Came Late for Kids. Will AI Safety Be Different?",
+          "link": "https://www.edweek.org/technology/a-reckoning-on-social-media-addiction-came-late-for-kids-will-ai-safety-be-different/2026/10"
+        }
+      ]
     }
   ],
-  "generated_at": "2026-10-08T16:29:05.334856+00:00",
-  "candidates_count": 324
+  "generated_at": "2026-10-08T16:50:22.268361+00:00",
+  "candidates_count": 394
 }
