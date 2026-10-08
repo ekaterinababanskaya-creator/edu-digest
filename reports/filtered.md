@@ -1,8 +1,8 @@
 ## Фильтр новостей
 
-- Всего собрано: 238
+- Всего собрано: 239
 - Дублей убрано: 1
-- Отброшено стоп-словами: 12
+- Отброшено стоп-словами: 13
 - Без тегов («Прочее»): 155
 - **Осталось для сводки: 70**
 
@@ -123,6 +123,7 @@
 
 ### Отброшено стоп-словами
 
+- **Учительская газета**: [Гуманитарный институт НовГУ отметил свой юбилей](https://ug.ru/gumanitarnyj-institut-novgu-otmetil-svoj-yubilej/)
 - **Учительская газета**: [Сергей Кожевников: «Амбассадоры «Профессионалитета» – живой голос системы СПО»](https://ug.ru/sergej-kozhevnikov-ambassadory-professionaliteta-zhivoj-golos-sistemy-spo/)
 - **Учительская газета**: [В Москве прошёл первый инклюзивный кинофестиваль «Глубина резкости»](https://ug.ru/v-moskve-proshyol-pervyj-inklyuzivnyj-kinofestival-glubina-rezkosti/)
 - **Учительская газета**: [VIII Международные Тургеневские чтения: открыт приём работ на конкурс «Слово, которое объединяет»](https://ug.ru/viii-mezhdunarodnye-turgenevskie-chteniya-otkryt-priyom-rabot-na-konkurs-slovo-kotoroe-obedinyaet/)
