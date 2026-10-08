@@ -4,14 +4,14 @@
 |---|---|
 | Минпросвещения России | ❌ RSS не найден |
 | Рособрнадзор | ❌ RSS не найден |
-| Учительская газета | ✅ 64 за 7 дн. (https://ug.ru/feed/) |
+| Учительская газета | ✅ 65 за 7 дн. (https://ug.ru/feed/) |
 | Интерфакс-Академия | ❌ RSS не найден |
 | Педсовет | ✅ 5 за 7 дн. (https://pedsovet.org/rss/) |
 | Мел | ✅ 50 за 7 дн. (https://mel.fm/rss/default-news) |
 | Education Week | ✅ 27 за 7 дн. (https://www.edweek.org/index.rss) |
 | K-12 Dive | ✅ 10 за 7 дн. (https://www.k12dive.com/feeds/news/) |
 | The 74 | ✅ 25 за 7 дн. (https://www.the74million.org/feed/) |
-| Chalkbeat | ✅ 49 за 7 дн. (https://www.chalkbeat.org/arc/outboundfeeds/rss/) |
+| Chalkbeat | ✅ 48 за 7 дн. (https://www.chalkbeat.org/arc/outboundfeeds/rss/) |
 | The Hechinger Report | ✅ 5 за 7 дн. (https://hechingerreport.org/feed/) |
 | Schools Week (UK) | ❌ RSS не найден |
 | EdSurge | ✅ 4 за 7 дн. (https://www.edsurge.com/feed/) |
@@ -20,6 +20,7 @@
 
 ### Первые 30 заголовков
 
+- **Учительская газета**: [Сергей Кожевников: «Амбассадоры «Профессионалитета» – живой голос системы СПО»](https://ug.ru/sergej-kozhevnikov-ambassadory-professionaliteta-zhivoj-golos-sistemy-spo/)
 - **Учительская газета**: [Школьники 12–18 лет могут стать участниками VIII Статистического диктанта](https://ug.ru/shkolniki-ot-12-do-18-let-mogut-stat-uchastnikami-viii-statisticheskogo-diktanta/)
 - **Учительская газета**: [В России отмечают День работника дополнительного образования](https://ug.ru/v-rossii-otmechayut-den-rabotnika-dopolnitelnogo-obrazovaniya/)
 - **Учительская газета**: [В Новом Уренгое вручили спецприз имени Симона Соловейчика от «Учительской газеты»](https://ug.ru/v-novom-urengoe-vruchili-speczpriz-imeni-simona-solovejchika-ot-uchitelskoj-gazety/)
@@ -49,4 +50,3 @@
 - **Учительская газета**: [Бесплатный курс «Учительская»: старт ко Дню учителя](https://ug.ru/besplatnyj-kurs-uchitelskaya-start-ko-dnyu-uchitelya/)
 - **Учительская газета**: [Минобрнауки сократило список школьных олимпиад на 2026/27 учебный год почти на треть](https://ug.ru/minobrnauki-sokratilo-spisok-shkolnyh-olimpiad-na-2026-27-uchebnyj-god-pochti-na-tret/)
 - **Учительская газета**: [Президент РФ поддержал предложение перевести личные дела школьников в электронный вид](https://ug.ru/prezident-rf-podderzhal-predlozhenie-perevesti-lichnye-dela-shkolnikov-v-elektronnyj-vid/)
-- **Учительская газета**: [Президентская библиотека представляет просветительские проекты для учителей](https://ug.ru/prezidentskaya-biblioteka-predstavlyaet-prosvetitelskie-proekty-dlya-uchitelej/)
