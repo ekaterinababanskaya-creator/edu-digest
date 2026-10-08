@@ -9,6 +9,7 @@
 
 import json
 import os
+import re
 import sys
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
@@ -70,7 +71,52 @@ def entry_date(entry) -> datetime | None:
     return None
 
 
+def collect_telegram(source: dict, since: datetime) -> tuple[list[dict], str]:
+    """Публичный Telegram-канал: читаем веб-версию t.me/s/<канал>."""
+    channel = source["telegram"].lstrip("@").strip()
+    url = f"https://t.me/s/{channel}"
+    try:
+        page = requests.get(url, headers=HEADERS, timeout=TIMEOUT)
+    except requests.RequestException as e:
+        return [], f"❌ ошибка загрузки: {type(e).__name__}"
+
+    soup = BeautifulSoup(page.text, "html.parser")
+    posts = soup.select(".tgme_widget_message")
+    if not posts:
+        return [], f"⚠️ нет открытой ленты постов ({url}) — возможно, это бот или закрытый канал"
+
+    items = []
+    for post in posts:
+        text_el = post.select_one(".tgme_widget_message_text")
+        time_el = post.select_one("time[datetime]")
+        link_el = post.select_one("a.tgme_widget_message_date")
+        if not text_el or not time_el:
+            continue  # пост без текста (только фото/видео)
+        date = datetime.fromisoformat(time_el["datetime"]).astimezone(timezone.utc)
+        if date < since:
+            continue
+        text = text_el.get_text(" ", strip=True)
+        # У поста нет заголовка: берём первую фразу, остальное — описание
+        first = re.split(r"(?<=[.!?…])\s|\n", text, maxsplit=1)[0]
+        title = first if len(first) <= 140 else first[:137].rsplit(" ", 1)[0] + "…"
+        items.append({
+            "source": source["name"],
+            "via": source["name"],
+            "kind": source.get("kind", ""),
+            "region": source.get("region", ""),
+            "title": title,
+            "link": link_el["href"] if link_el else url,
+            "date": date.isoformat(),
+            "summary": text[:600],
+        })
+    items.sort(key=lambda i: i["date"], reverse=True)
+    items = items[:MAX_PER_SOURCE]
+    return items, f"✅ {len(items)} за {DAYS} дн. (Telegram: @{channel})"
+
+
 def collect_source(source: dict, since: datetime) -> tuple[list[dict], str]:
+    if source.get("telegram"):
+        return collect_telegram(source, since)
     if source.get("search"):
         feed_url = search_feed_url(source["search"])
     else:

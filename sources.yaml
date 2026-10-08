@@ -19,6 +19,14 @@
 #    Подсказки для запроса: фраза в кавычках ищется целиком; OR — «или»;
 #    site:kommersant.ru — только этот сайт.
 #
+# 3) Публичный Telegram-канал — достаточно имени канала (без @ или с @):
+#    - name: Учи.ру (Telegram)
+#      telegram: uchi_ru_official
+#      kind: competitor
+#      region: RU
+#      enabled: true
+#    Боты (имя заканчивается на _bot) и закрытые каналы прочитать нельзя.
+#
 # enabled: false временно отключает источник.
 
 # ================= Конкуренты =================
@@ -85,6 +93,69 @@
 - name: Феникс
   search: '"онлайн-школа Феникс" OR "школа Феникс" семейное'
   kind: competitor
+  region: RU
+  enabled: true
+
+# ---------- Конкуренты: Telegram-каналы ----------
+- name: Учи.ру (Telegram)
+  telegram: uchi_ru_official
+  kind: competitor
+  region: RU
+  enabled: true
+
+- name: Skysmart для родителей (Telegram)
+  telegram: Skysmart_for_parents
+  kind: competitor
+  region: RU
+  enabled: true
+
+- name: БИТ (Telegram)
+  telegram: schoolbit
+  kind: competitor
+  region: RU
+  enabled: true
+
+- name: Умскул (Telegram)
+  telegram: umschool_official
+  kind: competitor
+  region: RU
+  enabled: true
+
+- name: eurogymonline (Telegram)
+  telegram: eurogymonline
+  kind: competitor
+  region: RU
+  enabled: true
+
+- name: LyceumOnline (Telegram)
+  telegram: LyceumOnline
+  kind: competitor
+  region: RU
+  enabled: true
+
+# ================= Россия: отраслевые Telegram-каналы =================
+- name: edtexno (Telegram)
+  telegram: edtexno
+  region: RU
+  enabled: true
+
+- name: Инновации и образование (Telegram)
+  telegram: innovation_and_education
+  region: RU
+  enabled: true
+
+- name: edtrends (Telegram)
+  telegram: edtrends
+  region: RU
+  enabled: true
+
+- name: Forbes Education (Telegram)
+  telegram: forbes_education
+  region: RU
+  enabled: true
+
+- name: eduhubpro (Telegram)
+  telegram: eduhubpro
   region: RU
   enabled: true
 
