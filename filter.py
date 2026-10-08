@@ -76,6 +76,11 @@ def main():
     Path("data/filtered.json").write_text(
         json.dumps(kept, ensure_ascii=False, indent=2), encoding="utf-8"
     )
+    # Кандидаты для сводки: всё без дублей и мусора, с тегами и без.
+    # Окончательно решает Claude: правила могли пропустить важное.
+    Path("data/candidates.json").write_text(
+        json.dumps(kept + other, ensure_ascii=False, indent=2), encoding="utf-8"
+    )
 
     # ---------- отчёт для человека ----------
     by_tag = defaultdict(list)
