@@ -69,43 +69,40 @@ SYSTEM_PROMPT = f"""Ты аналитик рынка школьного обра
 - Опирайся только на то, что есть в материалах. Не додумывай факты.
 """
 
-DIGEST_TOOL = {
-    "name": "save_digest",
-    "description": "Сохранить еженедельную сводку",
-    "input_schema": {
-        "type": "object",
-        "properties": {
-            "headline": {
-                "type": "string",
-                "description": "Одно-два предложения: главное за неделю.",
-            },
+DIGEST_SCHEMA = {
+    "type": "object",
+    "properties": {
+        "headline": {
+            "type": "string",
+            "description": "Одно-два предложения: главное за неделю.",
+        },
+        "items": {
+            "type": "array",
             "items": {
-                "type": "array",
-                "items": {
-                    "type": "object",
-                    "properties": {
-                        "ids": {
-                            "type": "array",
-                            "items": {"type": "integer"},
-                            "description": "id исходных материалов",
-                        },
-                        "title": {"type": "string", "description": "Заголовок по-русски"},
-                        "summary": {"type": "string", "description": "Суть в 2–3 предложениях"},
-                        "why_it_matters": {"type": "string", "description": "Почему важно для Домашней школы"},
-                        "section": {"type": "string", "enum": SECTIONS},
-                        "tags": {"type": "array", "items": {"type": "string", "enum": TAGS}},
-                        "importance": {
-                            "type": "integer",
-                            "enum": [1, 2, 3],
-                            "description": "3 — главное за неделю, 2 — важно, 1 — для сведения",
-                        },
+                "type": "object",
+                "properties": {
+                    "ids": {
+                        "type": "array",
+                        "items": {"type": "integer"},
+                        "description": "id исходных материалов",
                     },
-                    "required": ["ids", "title", "summary", "why_it_matters", "section", "tags", "importance"],
+                    "title": {"type": "string", "description": "Заголовок по-русски"},
+                    "summary": {"type": "string", "description": "Суть в 2–3 предложениях"},
+                    "why_it_matters": {"type": "string", "description": "Почему важно для Домашней школы"},
+                    "section": {"type": "string", "enum": SECTIONS},
+                    "tags": {"type": "array", "items": {"type": "string", "enum": TAGS}},
+                    "importance": {
+                        "type": "integer",
+                        "description": "3 — главное за неделю, 2 — важно, 1 — для сведения",
+                    },
                 },
+                "required": ["ids", "title", "summary", "why_it_matters", "section", "tags", "importance"],
+                "additionalProperties": False,
             },
         },
-        "required": ["headline", "items"],
     },
+    "required": ["headline", "items"],
+    "additionalProperties": False,
 }
 
 
@@ -114,7 +111,7 @@ def build_user_message(candidates: list[dict]) -> str:
     for i, c in enumerate(candidates):
         summary = (c.get("summary") or "")[:300].replace("\n", " ")
         lines.append(f"{i} | {c['source']} | {c.get('region', '')} | {c['title']} | {summary}")
-    lines.append("\nОтбери важное и сохрани сводку через save_digest.")
+    lines.append("\nОтбери важное и верни сводку по схеме.")
     return "\n".join(lines)
 
 
@@ -127,20 +124,23 @@ def call_claude(user_message: str) -> dict:
         model=MODEL,
         max_tokens=12000,
         system=SYSTEM_PROMPT,
-        tools=[DIGEST_TOOL],
-        tool_choice={"type": "tool", "name": "save_digest"},
+        output_config={"format": {"type": "json_schema", "schema": DIGEST_SCHEMA}},
         messages=[{"role": "user", "content": user_message}],
     )
     print(f"Токены: на входе {response.usage.input_tokens}, на выходе {response.usage.output_tokens}")
-    for block in response.content:
-        if block.type == "tool_use":
-            return block.input
-    raise RuntimeError("Claude не вернул сводку")
+    text = next((b.text for b in response.content if b.type == "text"), None)
+    if not text:
+        raise RuntimeError(f"Claude не вернул сводку (stop_reason={response.stop_reason})")
+    return json.loads(text)
 
 
 def attach_sources(digest: dict, candidates: list[dict]) -> dict:
     """Ссылки и источники подставляем из исходных данных, а не из ответа модели."""
+    canon = {x.lower(): x for x in SECTIONS + TAGS}
     for item in digest["items"]:
+        item["section"] = canon.get(item["section"].lower(), item["section"])
+        item["tags"] = [canon.get(t.lower(), t) for t in item["tags"]]
+        item["importance"] = min(3, max(1, int(item["importance"])))
         valid = [i for i in item["ids"] if 0 <= i < len(candidates)]
         item["sources"] = [
             {"name": candidates[i]["source"], "title": candidates[i]["title"], "link": candidates[i]["link"]}
