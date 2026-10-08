@@ -222,6 +222,16 @@
   region: RU
   enabled: true
 
+- name: Актион Образование — Менеджер образования (сайт)
+  url: https://www.menobr.ru
+  region: RU
+  enabled: true
+
+- name: Актион Образование (поиск)
+  search: '"Актион Образование" OR "Актион-МЦФЭР" OR site:menobr.ru'
+  region: RU
+  enabled: true
+
 - name: Учительская газета
   url: https://ug.ru
   region: RU
