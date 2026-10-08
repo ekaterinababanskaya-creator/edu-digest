@@ -1,24 +1,26 @@
 ## Фильтр новостей
 
-- Всего собрано: 338
-- Дублей убрано: 5
-- Отброшено стоп-словами: 9
-- Без тегов («Прочее»): 187
-- **Осталось для сводки: 137**
+- Всего собрано: 411
+- Дублей убрано: 6
+- Отброшено стоп-словами: 10
+- Без тегов («Прочее»): 206
+- **Осталось для сводки: 189**
 
 | Тег | Новостей |
 |---|---|
-| ФГОС | 7 |
-| ГИА | 13 |
+| ФГОС | 9 |
+| ГИА | 16 |
 | Семейное образование | 3 |
-| Законодательство | 44 |
-| EdTech и ИИ | 34 |
-| Исследования и данные | 21 |
+| Законодательство | 50 |
+| EdTech и ИИ | 56 |
+| Исследования и данные | 32 |
 | Законодательство: регионы | 4 |
-| У конкурентов | 28 |
+| У конкурентов | 53 |
 
 ### ФГОС
 
+- **edtexno (Telegram)**: [Путин поддержал идею создать нейросеть для образования ⚡️ Владимир Путин поддержал предложение создать единую нейросеть для сферы…](https://t.me/edtexno/7707) `ФГОС, EdTech и ИИ`
+- **Инновации и образование (Telegram)**: [Президент заявил, что образовательной сфере России нужна единая нейросеть Владимир Путин сказал об этом на встрече с педагогами —…](https://t.me/innovation_and_education/3683) `ФГОС, EdTech и ИИ`
 - **Первое сентября**: [Минпросвещения обновит ФГОС дошкольного образования](https://news.google.com/rss/articles/CBMiT0FVX3lxTE1oX0xrZURDeUhEVlB2eTgxNlMzb252YU9wVWZRRVFPdE1vcEowZjNxeVNoMnp3SEk2Mnhob1JFbVM4MHh1M05QSmZUN1hkaG8?oc=5) `ФГОС, Законодательство`
 - **ВФокусе Mail**: [Цены на учебники истории заставили снизить в России - нарушения нашла ФАС](https://news.google.com/rss/articles/CBMitgFBVV95cUxQaEZBb2VRckdreE1yV3RUbGZhU3l6OEtGbWRKdUxjUlFuVkhYS1VhazhaZ0MzX2ZKZWQwcjI2WnExV0J4NDBnRVRWT2M0YzNpSGN2TTNhVkYwZGNZb3RwaUpITFF5WUk3cWNBTGxtSjhXSWpOWUhQMFFYX3Q4TlR4Tk5tLWVrU2F5Q2RPb2I5VVlReVQ2NF9lUmhITVZYYUZZQjBVdG1pNll4dlhKeGRzQTVyVDVIdw?oc=5) `ФГОС`
 - **https://saomos.news/**: [ФАС сообщила о снижении цен еще на несколько учебников издательства "Просвещение"](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV3d4eDJRX3BDRWc0Tk4tWHVBbjcyekE1UnRFbWMtVVg5eEdYZGNtdnRtUWxnTmRYUXIyd1gzYUZNSTk4ZWZrNm9TTmROZzhXQ05BUC1MbTQ3LVpNUFlCZU9ya29ldnBUMVkwa3ZpblZJWXV6UHBvRTJ5bnlwaVFycGJVb0RlbldBRk5vRjlIYnMyREJoYlNfRzRKZmZER05hcHBRQng2RUZHckhKRU1ZQmFnV0J1RWl4MVR6bXVjVF8?oc=5) `ФГОС`
@@ -30,6 +32,10 @@
 ### ГИА
 
 - **Хабр**: [Курсы ЕГЭ 2027 до 10 000 ₽: что дают недорогие программы](https://news.google.com/rss/articles/CBMiWEFVX3lxTE14WWk4ekFsSDNrYThDUk90Qk15WGd4ZTRQVkV4R2xJeXZMQk53LXVYQzl6ZnM0a0J4MFZ3M2Q5WDRkSm1CQmhpS29NNnZuNXo5N2VkRzgycDfSAVhBVV95cUxNeFlpOHpBbEgza2E4Q1JPdEJNeVhneGU0UFZFeEdsSXl2TEJOdy11WEM5emZzNGtCeDBWdzNkOVg0ZEptQkJoaUtvTTZ2bjV6OTdlZEc4MnA3?oc=5) `ГИА, У конкурентов`
+- **Умскул (Telegram)**: [ВЫШЛА ПОСЛЕДНЯЯ СЕРИЯ СЕРИАЛА «ЕГЭ ПО ФИЗРЕ» 🏀 без спойлеров!!!](https://t.me/umschool_official/14140) `ГИА, У конкурентов`
+- **Умскул (Telegram)**: [ВСЁ ПРО ИТОГОВОЕ СОЧИНЕНИЕ ✍️ • что ждёт вас на экзамене • какие темы могут попасться • как правильно готовиться • как получить…](https://t.me/umschool_official/14129) `ГИА, У конкурентов`
+- **Умскул (Telegram)**: [9-классники, как вы считаете, стоит ли вообще усердно готовиться к ОГЭ?](https://t.me/umschool_official/14124) `ГИА, EdTech и ИИ, У конкурентов`
+- **edtexno (Telegram)**: [Онлайн-школы стали больше зарабатывать на ЕГЭ Онлайн-школы за три года подняли цены на подготовку к ЕГЭ и ОГЭ на 10–30%, но спрос на…](https://t.me/edtexno/7715) `ГИА, EdTech и ИИ, Исследования и данные`
 - **ПЛН**: [Рособрнадзор прокомментировал предложения об отмене ЕГЭ и проверочных работ](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9HMVhJVkNJcGdoeE1ZQ2lPLU5fRVlFWElNcnptT1BOVHZNYmN2TVhEUWtuQVV4WXBuNGU0SUJSUVlzVGZVQXBXLUdBQnp3TzN6TXc?oc=5) `ГИА, Законодательство`
 - **ГлагоL**: [Рособрнадзор назвал последствия отмены ЕГЭ и контрольных работ](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbGNyQVpCd0lOV012RkRHV0pScDl1dWhzLVQ0WGpKX01kaFFHd21qc2psd3VKTFFiU1lLaGRUOTFmZE56VEVIMzZtYjA4Nmk3bm90aWxwX2xDdXdvYloxeTZMZ0RhLTNjREROa3JFR29WcTJON2VPSHp4UWM1REdPejFlOTJ3aDFfNlFv?oc=5) `ГИА, Законодательство`
 - **Газета**: [Стало известно, какие задания ЕГЭ по истории вызвали наибольшие трудности](https://news.google.com/rss/articles/CBMicEFVX3lxTE9rZTY5ZTc0dGN0dU5qQ0phVzVBS3YxRWMxeUNQY1dNdllvYjNDd1hReE9iaFc0ZDRtVi0xZ3FGWDlEVUFFRVdnaVg1Nno0UlBSWkw2TEtNQjhIV1czTHdOdXpvMm5BMVBOMGRvb2RSb0fSAXZBVV95cUxNZkRiZC1LbE80LWZrcXVCdjRvaVlHRWVCOWNtN2hPdTlDVG1WYWRPYUNDSnUxSFJON2o0WS05WmpiZ09xejdYT3ZmWTc1YVNMNUdqTGphRnhac3J5eFNGRERnS3U2dHZ3UmUzQmo5MlVCcmY4cUF3?oc=5) `ГИА`
@@ -39,7 +45,6 @@
 - **RZN.info**: [В ЕГЭ-2027 по истории и профильной математике увеличится количество заданий — Новости за 02.10.2026](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdnd2dTd0YjAtSGVZaTl5UEhRMXhvTXZXeTBfMkhOM09YNkpHcUItYWRhajRSdWt3dUNZVWdNMHNLUjY4RnhaZV84UGJYZ2laSEpGZXU0SU1SUFB1XzhPWEtFV3VnZldQcjExT1o5aG5YRlpNOTlZRE9GN2NyTzBDR09KZXB1NzZ6cl9Ed1pFVVlGNkpMRk9fN0UycE9fdEdteUpLcDlINWNHbkEwM3M3cjEzN1lDci16N2FJRmlsUzBvNUE?oc=5) `ГИА`
 - **TverNews**: [В ЕГЭ по истории и профильной математике станет больше заданий](https://news.google.com/rss/articles/CBMiR0FVX3lxTE9sT3ljcmhzN1NOSlBSdG1KMTEwbC1ZRUxGeXNZSko0Qkx0NmxleDJsaHVVTVRPVlhJckFHeGdtVk42Vk9EaDFB?oc=5) `ГИА`
 - **kirov-portal.ru**: [В ЕГЭ-2027 по двум предметам добавят по заданию](https://news.google.com/rss/articles/CBMiogFBVV95cUxObmo2SUFJZDdJcFJUenl2Mk1MYjRPb25nUHVRLVFxTmUzQU1COHZRdUkxVEVIejZvR09vbGFvY0RKdnVYa0t1THU5alNYTDJQZWlKbnI5MlBHU0Nzc2toM2d2eVdNdUpqSl9uaWtjUy1VemFST0RiSVRIQlVIQjF3T1VuSW5ndWktbmNqM1BtS1E3QVVkRnhud29xdWpscjY4Z3c?oc=5) `ГИА`
-- **Мойка78.ру**: [Двум экзаменам ЕГЭ добавят заданий в 2027 году](https://news.google.com/rss/articles/CBMilgFBVV95cUxNTUxzcGFxbDBJS0plRFhGQWx6UVZkRThhczFNTWtaOVRYZ0ExdmVBdHNYeUd0bXRnZXRsbmNLM2cwTWVHTTBuS3ZpM29mNnRISE14WWFyR2s0OWllMHZQaExWUFJOdU9vaWNvZHA5YXNYbjJiRUhfRDNNTGp1YWZ1SzdlR2loNDVGOC05M21KSVdxWUdzVWc?oc=5) `ГИА`
 - **Metronews.ru**: [«СТАРТ В ПРОФЕССИЮ»: новые возможности профессионального обучения для петербургских девятиклассников, не прошедших ГИА](https://news.google.com/rss/articles/CBMigAJBVV95cUxQWVBqU0J2bkdrNEtOMUtyNE9tWGZXTnVNOTVJNEZCaTE3cWFNa3VXRnFfaXdtVDB6ZW9vWXhmMFZJUjZzNUJhNnR5VjRVY1Y3THAzX0pjMWt3WWpHeExOTEJZeDJxemdSS3dqZ0p5Qkg0dGFsbHR2NTBrZGJLOXN6OHNUNDU3cW1QNlVKcFdrRzNtWU12X1BUQnhRbzlnRWgzc3R2VXZtdFN4bHdqWkZDVEp2bWg3QTBtN3ZKOUVBdUpHNFNIM1l0d3RGY0I3bE8wUjBsT3dMSmQ0ZlpJQXY2aUcxcklacWNINjZjMGFidmotZlptd0FXT19wdERXSDFJ?oc=5) `ГИА`
 - **The 74**: [Low Test Scores: For Hawaiʻi High Schoolers, The Math Isn’t Mathing](https://www.the74million.org/article/low-test-scores-for-hawai%ca%bbi-high-schoolers-the-math-isnt-mathing/) `ГИА`
 
@@ -51,6 +56,12 @@
 
 ### Законодательство
 
+- **БИТ (Telegram)**: [Ребенок знает правила, но в диктанте все равно делает ошибки?](https://t.me/schoolbit/2330) `Законодательство, У конкурентов`
+- **edtexno (Telegram)**: [Школьные наказания уложились в три пункта Учитель не вправе самостоятельно выгонять ученика из класса, оставлять его после уроков,…](https://t.me/edtexno/7721) `Законодательство`
+- **edtexno (Telegram)**: [Платным местам в вузах назначат дедлайн Минобрнауки подготовило проект постановления, которое меняет правила определения предельного…](https://t.me/edtexno/7705) `Законодательство`
+- **Инновации и образование (Telegram)**: [В День колледжей федеральные СМИ запутались, сколько составляет конкурс Интересная сегодня история с ТАСС, цитирующим министра…](https://t.me/innovation_and_education/3681) `Законодательство`
+- **Инновации и образование (Telegram)**: [Детсады России ждет большая проверка Дошкольные организации в 2027-2028 годах проверят на обеспеченность средствами обучения и воспитания.](https://t.me/innovation_and_education/3680) `Законодательство`
+- **Forbes Education (Telegram)**: [Отношение к животным говорит об обществе больше, чем кажется.](https://t.me/forbes_education/5192) `Законодательство`
 - **Заинск-информ**: [Минпросвещения запускает «Школьное телевидение» в регионах России](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbVh3UlptRXg2SXRZQnh2QUMzSU5tOGFraS0xWHJDOGV5M2FkRXhpUU4zTTRiRzhSczIzdGNHSW1wX0FONGVMS0x6MjJ1OWx2R1hjOXpaeUpsVk4yY1pjR1RVM1pOSUlYaFg1S1pVYWZtNFlkSDVsamRmREZabVg3SWo0bGd6YVpHV01MVzRidngzT0pHa3NSaFNrWENmUklKQVVMM084d3M?oc=5) `Законодательство, Законодательство: регионы`
 - **ГлагоL**: [Минпросвещения расширит формат обучения в детсадах](https://news.google.com/rss/articles/CBMigwFBVV95cUxQNkQ0ZEhYaHBFdklmSmY0Tm9Wcl8xR0hlM2dPRmlTZjg5bTh3UExWN3FmdW8yY2JYRGU5VXNpYTJqeDFHS2RRd0xFRXpOYXhaTVlUOFhhRVF4STk2QnR5bURiM1FSSVdQc3BQZVFEV0VKMHZTM2xITUpkYzdvQkZfcHo2MA?oc=5) `Законодательство`
 - **SmolNarod.ru**: [Минпросвещения запускает пилотный проект с ТВ: смоленские школы подключатся до 15 октября](https://news.google.com/rss/articles/CBMioAFBVV95cUxOZFhHc3BQM0VNWjJVc3huTTVHci12UVFYeVNTZEVla09TaGc5SjB3UUMyQkRBbnZmT2ZKb2VQSTdvNVZJTXlaTllPWUM0ZjFnOHR3YVhCc3U5a0RpUjRaVE1mOVdHVlhYWVRidHQ4SFhYU2Z3bDQzMUhkdEJRM2NyOWFGYnF3NF9yZGNwT2s1X195Q1JTSTlyQjA0U29LR3RV?oc=5) `Законодательство`
@@ -99,14 +110,36 @@
 ### EdTech и ИИ
 
 - **Дети Mail**: [80% россиян доверяют ИИ задачи, связанные с обучением школьников](https://news.google.com/rss/articles/CBMipAFBVV95cUxOWHZTQ3hYWGVyMkpuTVIwOFNKOWNNZHhrVFNqVm14SVJoWlhfUnRrOGZrMFZMUWg5WVU3cW1paGtXZ3VTRHRIVi1yOUlWZkN4R3dnQ3hyX3FoQ3Y3UWloZlFMNlc2WGFPRTdPdVpkSDJnTUVBaEFqNlJLZjRrSU1ZZm90RkZ3aV9SMGJkbi05eFpfVXRzWDlCaUVjdlFtMWNxaDVxWA?oc=5) `EdTech и ИИ, У конкурентов`
+- **Учи.ру (Telegram)**: [❗️ Родители учеников 5–11 классов , предложение для вас!](https://t.me/uchi_ru_official/2933) `EdTech и ИИ, Исследования и данные, У конкурентов`
+- **Skysmart для родителей (Telegram)**: [Приглашаем на бесплатную встречу с методистом нашей онлайн-школы: проверим уровень знаний ребёнка, подберём репетитора по школьным…](https://t.me/Skysmart_for_parents/7712) `EdTech и ИИ, У конкурентов`
+- **Умскул (Telegram)**: [видим сообщения про неполадки с платформой — сейчас ожидаем исправления ошибки, проблема с внешней стороны 🙏🏼 я сообщу инфо, как только…](https://t.me/umschool_official/14141) `EdTech и ИИ, У конкурентов`
+- **Умскул (Telegram)**: [9-классники, как вы считаете, стоит ли вообще усердно готовиться к ОГЭ?](https://t.me/umschool_official/14124) `ГИА, EdTech и ИИ, У конкурентов`
+- **edtexno (Telegram)**: [Учёба проигрывает блогерам и нейросетям Подростки всё чаще отказываются делать домашние задания, потому что не видят смысла в учёбе.](https://t.me/edtexno/7720) `EdTech и ИИ`
+- **edtexno (Telegram)**: [Даже небольшая помощь ИИ заставляет чаще бросать задачи После короткой работы с ИИ-ассистентом люди хуже решают задачи самостоятельно и…](https://t.me/edtexno/7718) `EdTech и ИИ`
+- **edtexno (Telegram)**: [Каждая пятая компания не знает, учатся ли её сотрудники Руководители покупают корпоративные курсы, подписки и тренинги, но не всегда…](https://t.me/edtexno/7716) `EdTech и ИИ, Исследования и данные`
+- **edtexno (Telegram)**: [Онлайн-школы стали больше зарабатывать на ЕГЭ Онлайн-школы за три года подняли цены на подготовку к ЕГЭ и ОГЭ на 10–30%, но спрос на…](https://t.me/edtexno/7715) `ГИА, EdTech и ИИ, Исследования и данные`
+- **edtexno (Telegram)**: [Проверка знаний уходит в офлайн из-за нейросетей Учитель перестаёт быть главным источником знаний, ответ на любой вопрос школьник…](https://t.me/edtexno/7714) `EdTech и ИИ, Исследования и данные`
+- **edtexno (Telegram)**: [Абитуриенты пошли в ИТ через бигтех Абитуриенты всё чаще выбирают ИТ-программы, которые вузы делают вместе с технологическими компаниями.](https://t.me/edtexno/7713) `EdTech и ИИ`
+- **edtexno (Telegram)**: [Курсам личной эффективности отказали в доверии Платформа для онлайн-школ GetCourse проанализировала итоги голосования и выяснила, каким…](https://t.me/edtexno/7709) `EdTech и ИИ, Исследования и данные`
+- **edtexno (Telegram)**: [Чичиков восстал из пепла: ИИ написал продолжение «Мёртвых душ» Сбер выпустил роман «Мертвые души.](https://t.me/edtexno/7708) `EdTech и ИИ`
+- **edtexno (Telegram)**: [Путин поддержал идею создать нейросеть для образования ⚡️ Владимир Путин поддержал предложение создать единую нейросеть для сферы…](https://t.me/edtexno/7707) `ФГОС, EdTech и ИИ`
+- **edtexno (Telegram)**: [Онлайн-обучение собирается в мини-группы Число покупок онлайн-курсов и занятий с репетиторами в 2026 году выросло на 40% по сравнению с…](https://t.me/edtexno/7706) `EdTech и ИИ, Исследования и данные`
+- **edtexno (Telegram)**: [Сегодня отмечаем День учителя в 62-й раз В этом году тема праздника — защита и повышение статуса профессии.](https://t.me/edtexno/7704) `EdTech и ИИ`
+- **edtexno (Telegram)**: [Нейросети добрались и до калькуляторов В инженерный калькулятор Kaerda fx-991ES PLUS встроили нейросеть и скрытую камеру.](https://t.me/edtexno/7703) `EdTech и ИИ`
+- **Инновации и образование (Telegram)**: [Президент заявил, что образовательной сфере России нужна единая нейросеть Владимир Путин сказал об этом на встрече с педагогами —…](https://t.me/innovation_and_education/3683) `ФГОС, EdTech и ИИ`
+- **edtrends (Telegram)**: [📚 Осенние встречи School of Education: тренды, L&D , ИИ и образовательные экспедиции Образование меняется: компании внимательнее считают…](https://t.me/edtrends/3790) `EdTech и ИИ`
+- **edtrends (Telegram)**: [Нейробиолог и бывший учитель Jared Cooney Horvath, автор книги The Digital Delusion , призывает вслед за ограничением смартфонов и…](https://t.me/edtrends/3786) `EdTech и ИИ`
+- **edtrends (Telegram)**: [Хотите стать частью важного проекта?](https://t.me/edtrends/3784) `EdTech и ИИ`
+- **Forbes Education (Telegram)**: [Эпоха, когда возможность начать карьеру в сфере ИТ определялась умением писать код, уходит в прошлое.](https://t.me/forbes_education/5206) `EdTech и ИИ`
+- **eduhubpro (Telegram)**: [🌿 УЖЕ СЕГОДНЯ!](https://t.me/eduhubpro/496) `EdTech и ИИ`
 - **Первый технический**: [Данные об автомобилях и образовании появились в цифровом профиле россиян](https://news.google.com/rss/articles/CBMiugFBVV95cUxQX2R2Y3EzclozNEVxbVlrajJYNy03MlVXRElaWFQ2UXAtNk5OdzB5QjVQTHZ5Y3pVUnFUS25jSDJXNHcyQkkzbkV4Q3NyWHNCNjFNb2Q0enNOS2Ywczd5Q0JwZXhXZ044dElNcUFBTlZGaERCQUczTFREeklVbG1MN01oTW9UTVZkaFlWeDVjUy0xVnhhLTJVQnFyb2xJWG1Wakl2c1ZEX0dhamE3UjNhOTVkZ0NuQTdUakHSAb8BQVVfeXFMUHVpejJ4ZVhNR09JZ2hXWkdHN3JfcEtXa0pmdVExUWpmek9abEczbFNLamlGS1pQYTRvdDFxRHlYSnExalo2YWQxSHJ3MEFHWlF6X2xWMlpabFZhZDBDUzRVUGxxRU9WMjlQRGY1N010YU91NGwzT2NaUWxpVE9salNZNGRULWhCUC1nM2VlTGNlbXhpTG1YRWdwWC1OUE9fNDJzSHpXTnFKVmJyVWNnYlM3R1p4LVZSTjhhM1kxUGs?oc=5) `EdTech и ИИ`
 - **Московская правда**: [Учителя смогут получать подарки от учеников в «Московской электронной школе»](https://news.google.com/rss/articles/CBMiT0FVX3lxTE1iYkpZTzQyS2dZdmlLQ3R4X09hbVNDTXdZaFc1WEk0UUhfX3NxZThJaUJyTzJscURqREVkMGJvb2ZkOGRlSnZheGhlVjdfaUE?oc=5) `EdTech и ИИ`
 - **Рамблер**: [«Московская электронная школа» установила новый рекорд по числу посещений сервисов](https://news.google.com/rss/articles/CBMizgFBVV95cUxQbUVnbmJPZXlTcXl2ejljdlNwVkhub2F0LWVxOEh1WUNEZG5jbEM4b21sZUt2VkZyRzZJbHpUX3c5NHRHbmNnNnNCSlhSMThuZWJjUkhMWmZCUENzcENZWTVYTmNLQmdZeE5MSzUySzdOaXhiNWdmalMtMVB1ZGNwMGdKV2plWlQxR01RRU1wS2pfSTR3VGkzUzVuUzRORnNGMUJBZDZuMDBjczNIVjJJdWdBSGpSNXBzSkZXSEE4dVpSS2lLT3ZEVEo3ZHB5QdIBzgFBVV95cUxQbUVnbmJPZXlTcXl2ejljdlNwVkhub2F0LWVxOEh1WUNEZG5jbEM4b21sZUt2VkZyRzZJbHpUX3c5NHRHbmNnNnNCSlhSMThuZWJjUkhMWmZCUENzcENZWTVYTmNLQmdZeE5MSzUySzdOaXhiNWdmalMtMVB1ZGNwMGdKV2plWlQxR01RRU1wS2pfSTR3VGkzUzVuUzRORnNGMUJBZDZuMDBjczNIVjJJdWdBSGpSNXBzSkZXSEE4dVpSS2lLT3ZEVEo3ZHB5QQ?oc=5) `EdTech и ИИ`
 - **Московская правда**: [В «Московской электронной школе» появился новый ИИ-репетитор по математике](https://news.google.com/rss/articles/CBMiT0FVX3lxTFBlbUR5akQ4OG9qSU5NRFZFQU1lOW03aGpKRUlhTFVfNW53Zm1MUjZpdVN5TGEzdHUzaTdwcGJGaVh4ZzBzRDZoUXk4QkRxaWs?oc=5) `EdTech и ИИ`
 - **Рамблер**: [Столичные учителя получат подарки от учеников в «Московской электронной школе»](https://news.google.com/rss/articles/CBMizAFBVV95cUxPWTRmb19aZ2ZEeFdvam5SQzZpVnhrRTRwRVoxMzlSaGlrLWdYNi1mZnJKYW9kY0VpZFkwcjZyazhXUEZqeml2OHRTVFpvdEJoY19VdEIzWGEtMVRub0VOZ2lHMEZaSzNJcjJ4cm0xa2hIR3N6TWozSE96TWJnNFJleE9sZHpmTUxackdvSzBtRC1aU1F2LUw3VTltanpFNDJOR2lld1hLbTFpcmc1cVBHWG5MY1BXX0Z4bFN5b2NSNUZMeHNQRlRsQVlGQzTSAcwBQVVfeXFMT1k0Zm9fWmdmRHhXb2puUkM2aVZ4a0U0cEVaMTM5Umhpay1nWDYtZmZySmFvZGNFaWRZMHI2cms4V1BGanppdjh0U1Rab3RCaGNfVXRCM1hhLTFUbm9FTmdpRzBGWkszSXIyeHJtMWtoSEdzek1qM0hPek1iZzRSZXhPbGR6Zk1MWnJHb0swbUQtWlNRdi1MN1U5bWp6RTQyTkdpZXdYS20xaXJnNXFQR1huTGNQV19GeGxTeW9jUjVGTHhzUEZUbEFZRkM0?oc=5) `EdTech и ИИ`
+- **spbdnevnik.ru**: [В Петербурге стартовал проект по цифровой грамотности и кибербезопасности для школьников](https://news.google.com/rss/articles/CBMixwFBVV95cUxNTm1lWGl4TU9YTWhfUF9lSDVaMXpiVUR3X1RNaUdtbWhJdC1uci16S1VVSUpZclhKNUFHRG9FYlJBdTRWZC1EZGZKZjRRa1ZXU0NBUUlqd0R4Q245cEc0Q18ydXFNelB2dlplcTJGeXNjQWZGdHpQOTE1RVJtM3J2ZG84Y19YZnlNU0pVZ3pKRHFOYXhRcWp3RzU4ZEdrZ0NROVF0NEUyVlowVkZFRy1vQnJobmRuYllCX1JYSXdkb0dZYnBpVHNz?oc=5) `EdTech и ИИ`
 - **Вечерний Санкт-Петербург**: [Петербургские школьники изучат основы цифровой безопасности в рамках проекта «Киберщит»](https://news.google.com/rss/articles/CBMixAFBVV95cUxNbHhoOFVWbzg0NVU2bVdheENJVVVaQWdHbG9Wa0ZDVjJoOF9RSS1ld1pYMEpvdmQ0RGhTazEzR00wRUlUUmJjY1NreTVWM2Zhd3puNDRmVHZFLWpIWWpqbE1YUXNaQnRlUFoteWZRcXd6RFdIc052V1pNRnQ2aWJnUkxxWWJNcFVEY3cyOC0yaThJa21QcnpMaVE3cl8xLUlsYmk0bDhyeXZUQmtQMFUxOHdTblhYa2UxaVhPd09mUjhkRzVx?oc=5) `EdTech и ИИ`
 - **Мойка78.ру**: [«Киберщит»: в Санкт-Петербурге стартовал проект по цифровой грамотности и кибербезопасности для школьников](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbUlNN0Fjd0ZFcUZScEFVLTFzV3c4RzFsU1V0blJxMGVKM3BXdi11SG1BcHBsU0Z4bS15blRNanB1b1hOWnVYbU5FaHA0REJpeHlDbDlZaFZXcUdvSkpEYmUyOEEtTWo5ckxnODZFXzd1VHB6dkdadV9QcFR3WEZGUmwyNjhsdlVnN1pZV3pqa18xQWE1NlRBa2poUHNUaG51SElrVFoyUm01QThVa3lBSmVIM1lsTHJINnQxcVpfMzBIMlpPWV8tWTgtN3Q1NVNlbzN6dEhUZEJKazNKMjBOeWQ0TXJYUQ?oc=5) `EdTech и ИИ`
-- **spbdnevnik.ru**: [В Петербурге стартовал проект по цифровой грамотности и кибербезопасности для школьников](https://news.google.com/rss/articles/CBMixwFBVV95cUxNTm1lWGl4TU9YTWhfUF9lSDVaMXpiVUR3X1RNaUdtbWhJdC1uci16S1VVSUpZclhKNUFHRG9FYlJBdTRWZC1EZGZKZjRRa1ZXU0NBUUlqd0R4Q245cEc0Q18ydXFNelB2dlplcTJGeXNjQWZGdHpQOTE1RVJtM3J2ZG84Y19YZnlNU0pVZ3pKRHFOYXhRcWp3RzU4ZEdrZ0NROVF0NEUyVlowVkZFRy1vQnJobmRuYllCX1JYSXdkb0dZYnBpVHNz?oc=5) `EdTech и ИИ`
 - **Ведомости**: [Ямпольская назвала ИИ в образовании «дополнительным точильным камнем»](https://news.google.com/rss/articles/CBMihwFBVV95cUxPakF2akJVNnl1N25OOGdjQXJYZ2l5ek5jZzl3ZGZ1QkNKNVVRVHdvYnhodGtGYWRxRkRsQm1mTTNBUFBMN3pNUkY3Z255d1FFb09iVjY4b05IUW9uY01pVWlUa05xVldqa0ZwLVMtWEFDc1AxRkJrQ2tpWm5pczRCTTBTZkJJanM?oc=5) `EdTech и ИИ`
 - **Ведомости**: [Ямпольская поддержала использование ИИ в работе учителей](https://news.google.com/rss/articles/CBMihwFBVV95cUxOVldBVHc5dTBra1EtVHFEMTNDMkowUW91ZlZDanlraWtnMmp0VXR4OEVGOHJlM3ItbkVNa2FZTVNWMXhhTFJkN0MwbnBtM1lIV1pKank0VXczZDRqck9QQnlvYTBvTEV0M2ZRQUNDSlBvU3Y0TWNKNWlTWmhXSTFoOVpvYVdaRE0?oc=5) `EdTech и ИИ`
 - **Ведомости**: [«Умный» репетитор в кармане: заменит ли ИИ живого учителя английского?](https://news.google.com/rss/articles/CBMivAFBVV95cUxNNVNWaFdCNVZRUXZoZDBfa0xiMVB2Mnc3T2FtZjFkdldlY1dzclo2bGdnSnUxX3RmUnJwZWJncTJFU243QUVTWmlKd0FBaVpFdXdBaUVBV1ppbTRTa29pVDFJRmxPYmhpTnlZby13OE8zWENqOGUweEFZcV95Y1B1U2cxY2RhbEIxQ0o1aVJfdTNQdlRrN3J6NUYxNFBOanBKQUxmc25mSlpIcmhsVlFsRHRaSTdUdEJKcnh1QQ?oc=5) `EdTech и ИИ`
@@ -136,6 +169,17 @@
 ### Исследования и данные
 
 - **CNews.ru**: [Спрос на онлайн-обучение для школьников вырос на 40% –– исследование Mail и «Учи.ру](https://news.google.com/rss/articles/CBMidkFVX3lxTE4yZnBGMUR4NUJnRzVvTExKdVp3aENOTmNUODFzOWowVnF6MVNTT09hemd5OVJld0d2aDFnNDBDSHl5OWd2U2tLNndBaDVsSk9sYUlXenR1Vm5Gc3lLVXFxN0hHa213bGZxNDZsZXdqTS1SWDdVVFE?oc=5) `Исследования и данные, У конкурентов`
+- **Учи.ру (Telegram)**: [❗️ Родители учеников 5–11 классов , предложение для вас!](https://t.me/uchi_ru_official/2933) `EdTech и ИИ, Исследования и данные, У конкурентов`
+- **edtexno (Telegram)**: [Вузы проверят на профильность Минтруд добавит в национальный рейтинг трудоустройства выпускников вузов и колледжей новый показатель —…](https://t.me/edtexno/7722) `Исследования и данные`
+- **edtexno (Telegram)**: [Каждая пятая компания не знает, учатся ли её сотрудники Руководители покупают корпоративные курсы, подписки и тренинги, но не всегда…](https://t.me/edtexno/7716) `EdTech и ИИ, Исследования и данные`
+- **edtexno (Telegram)**: [Онлайн-школы стали больше зарабатывать на ЕГЭ Онлайн-школы за три года подняли цены на подготовку к ЕГЭ и ОГЭ на 10–30%, но спрос на…](https://t.me/edtexno/7715) `ГИА, EdTech и ИИ, Исследования и данные`
+- **edtexno (Telegram)**: [Проверка знаний уходит в офлайн из-за нейросетей Учитель перестаёт быть главным источником знаний, ответ на любой вопрос школьник…](https://t.me/edtexno/7714) `EdTech и ИИ, Исследования и данные`
+- **edtexno (Telegram)**: [Курсам личной эффективности отказали в доверии Платформа для онлайн-школ GetCourse проанализировала итоги голосования и выяснила, каким…](https://t.me/edtexno/7709) `EdTech и ИИ, Исследования и данные`
+- **edtexno (Telegram)**: [Онлайн-обучение собирается в мини-группы Число покупок онлайн-курсов и занятий с репетиторами в 2026 году выросло на 40% по сравнению с…](https://t.me/edtexno/7706) `EdTech и ИИ, Исследования и данные`
+- **edtrends (Telegram)**: [GetCourse проанализировал результаты опроса более 60 тыс.](https://t.me/edtrends/3788) `Исследования и данные`
+- **Forbes Education (Telegram)**: [Современные английские подростки и молодые люди одиноки и разобщены сильнее, чем представители предыдущих поколений.](https://t.me/forbes_education/5210) `Исследования и данные`
+- **Forbes Education (Telegram)**: [Десятиминутная пробежка в темпе быстрой ходьбы поднимает настроение и усиливает способность концентрироваться.](https://t.me/forbes_education/5207) `Исследования и данные`
+- **Forbes Education (Telegram)**: [За последние 15 лет Китай потерял минимум $6,75 млн из-за отзыва научных публикаций, размещенных в так называемых мусорных журналах.](https://t.me/forbes_education/5202) `Исследования и данные`
 - **Блокнот Анапа**: [79 тысяч по статистике и 40–55 тысяч в вакансиях: сколько на самом деле получают учителя на Кубани и в Анапе](https://news.google.com/rss/articles/CBMikAFBVV95cUxPc2VLNXQzbHQyZ0xwOWp5eUJCRDl5ZF9maW1OU1NTeXo5SW5Icm5xYkxfWTVzbFRyaC01ZVNYanhwSGFEckpkZkRTTFNoYTF0eVFVeHRRbWtSYWFvWUN3XzhZMjRNQkhEWWVvLWZUX21MQi1Femp6amxmRGhrbWM1UzJNRElHUlNCSTdYTUNrWFI?oc=5) `Исследования и данные`
 - **Санкт-Петербургские ведомости**: [Удмуртские школьники и молодёжь Татарстана представили свои исследования на форуме «Выжы» в Крутушке](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOHQ3VFhhY09lbnVXM3djQlNjakdLQTBWQ1hWLW92c0I5cmg5aWZJQ2lvTkhObmtMc3NOU3ZpYjE2RWt5SXY3Wk5qV0dDdDdGV2lUUDZUd3ZvRThXNjNuMExKQTRzOGZteDBUMFRfX0JZclNlUkJ6d2MxUDhBUXpxZnlaMDZiRHJkZ0haRHpINlN3d2hja1M1NHIxSTdfMmI3bDhhUDFBeG95ejNtOUdlTHBjdFR4Qll5eFJqbV9pQWpFZVZUWndmeTJDaEx6VlZDNzJyU0FLb1ZocExIOUtSag?oc=5) `Исследования и данные`
 - **Учительская газета**: [Школьники 12–18 лет могут стать участниками VIII Статистического диктанта](https://ug.ru/shkolniki-ot-12-do-18-let-mogut-stat-uchastnikami-viii-statisticheskogo-diktanta/) `Исследования и данные`
@@ -194,9 +238,35 @@
 - **NEWS.ru**: [Стало известно, какой подарок россияне чаще всего дарят учителям](https://news.google.com/rss/articles/CBMikwFBVV95cUxPQ0pXQ2FvSVZNUGJqcHFVdEY4S1E0aWtmNThSR2tGR2V1UjM1dmxxay1vWkswNG42aml3RGZYSFBuRUtrTS0tcHRnT3JTWTFoekxwczd4SU5yWXpKQzB2MERzd1ZrSFlNc2xiWW1NUm5kYWFoUGFoRzR4MlAwOGRiVnlOZVJmd1F6N3N3WGJPN2xoOEHSAZgBQVVfeXFMUFRJNHlXUnN4WGw2OTdkNl9Ea3pXZjU4VXJlNklPSXFuV190MnM4UFZVdlNpbVplbDdBazJ5NS1DcHJMbzZUcW1rVDFaVWxQazFzZm5VbVNsY1g0dXFIaHY2WkwyOUFpNkRySXpfek42SFJHZUJIQnp4VFR1dWxFLXNTYUpwbmsxYUllaENKZFM3RWJpVl9Vak4?oc=5) `У конкурентов`
 - **REGIONS.ru**: [Юмор, справедливость или знания: что важнее для школьников](https://news.google.com/rss/articles/CBMilgFBVV95cUxPR2lHanNTVGtLaHJYVFlfTnhLOTMzUTFwZlp6TkVQeFQwbHl2MVdCZnhVMjNOZi1iQTRlRVNjc1ZaV1NoV1NQd05VaFZRRUVBZHM5WGR1dHRPY3RJMGpNN1ZuUXhtZnRqX0xNcTFBdUtzdWRVdkZRUzEtVUZJaGduX0xlZ1BjYTlTdnJCNEFHTzFscnkwUHc?oc=5) `У конкурентов`
 - **NEWS.ru**: [Стало известно, за что российские школьники ценят любимых учителей](https://news.google.com/rss/articles/CBMimAFBVV95cUxNaGN2aHhUSkx6WHR3ZXhuVUZDSnRXNm43cHM0NG94MWxvNVpCeE1FRl9Ua1dhcjFScTBSbkQ5WXM3WkZiVWw1ZjBsN1AyTnU5d0w4RHFOMU94TDhXTk5jaTlTR0hILXFpbXFPdWV0cFRYTVJIbXc1dGg0RkZULTg2WnZQY0xXdmRZNHdyclRrbDU3QmFJSXU1SNIBngFBVV95cUxPMFBETHk0V2k1bk83dF9KTXR6d1AxTzJUWEVJXzZ6Y2pKQzhkLXZVdm5sRVBuMC03clJWVG9CSElwR0lnSDVncElqczk0Rnh5ZkFjbWFzZGhVRC1aank1UkxkNDlOQUpNNVFyVjNnbnZHaENhLWpDcU1QQXVjQlNJSWtVVU9ISDVqR05TcGNaODNUd292OUJWWlhtcUV2QQ?oc=5) `У конкурентов`
+- **Учи.ру (Telegram)**: [Учи.ру для родителей pinned a photo](https://t.me/uchi_ru_official/2935) `У конкурентов`
+- **Учи.ру (Telegram)**: [😁 Напевать: «Я тебя могну» 🥲 Не закатывать глаза, когда это говорит ребенок Детям нужен надежный взрослый рядом, который их принимает и…](https://t.me/uchi_ru_official/2934) `У конкурентов`
+- **Учи.ру (Telegram)**: [❗️ Родители учеников 5–11 классов , предложение для вас!](https://t.me/uchi_ru_official/2933) `EdTech и ИИ, Исследования и данные, У конкурентов`
+- **Учи.ру (Telegram)**: [Первый месяц школы — это марафон 😅 Поздравляем!](https://t.me/uchi_ru_official/2927) `У конкурентов`
+- **Учи.ру (Telegram)**: [💭 «Мы же вчера всё разобрали…» А сегодня снова двойка.](https://t.me/uchi_ru_official/2926) `У конкурентов`
+- **Учи.ру (Telegram)**: [🤔 Мы не знаем, что будет через десять лет.](https://t.me/uchi_ru_official/2925) `У конкурентов`
+- **Учи.ру (Telegram)**: [😋 Предлагаем небольшую разминку!](https://t.me/uchi_ru_official/2924) `У конкурентов`
+- **Учи.ру (Telegram)**: [😯 Личный пример работает лучше лекций, правил и уговоров.](https://t.me/uchi_ru_official/2923) `У конкурентов`
+- **Учи.ру (Telegram)**: [Не ждали?](https://t.me/uchi_ru_official/2920) `У конкурентов`
+- **Skysmart для родителей (Telegram)**: [Приглашаем на бесплатную встречу с методистом нашей онлайн-школы: проверим уровень знаний ребёнка, подберём репетитора по школьным…](https://t.me/Skysmart_for_parents/7712) `EdTech и ИИ, У конкурентов`
+- **Skysmart для родителей (Telegram)**: [Если ребёнок может часами смотреть аниме и читать мангу, но английский учить не хочет, попробуйте подойти хитрее.](https://t.me/Skysmart_for_parents/7705) `У конкурентов`
+- **БИТ (Telegram)**: [2 октября состоялась наша первая встреча с родителями в рамках проекта «БИТ о главном».](https://t.me/schoolbit/2331) `У конкурентов`
+- **БИТ (Telegram)**: [Ребенок знает правила, но в диктанте все равно делает ошибки?](https://t.me/schoolbit/2330) `Законодательство, У конкурентов`
+- **БИТ (Telegram)**: [💭 Школа заканчивается, но некоторые привычки остаются с нами надолго.](https://t.me/schoolbit/2324) `У конкурентов`
+- **БИТ (Telegram)**: [С Днем учителя!](https://t.me/schoolbit/2316) `У конкурентов`
+- **БИТ (Telegram)**: [До Дня учителя осталось совсем немного 💌 Мы уже собираем ваши теплые слова для учителей, психологов и тьюторов школы «БИТ».](https://t.me/schoolbit/2315) `У конкурентов`
+- **Умскул (Telegram)**: [видим сообщения про неполадки с платформой — сейчас ожидаем исправления ошибки, проблема с внешней стороны 🙏🏼 я сообщу инфо, как только…](https://t.me/umschool_official/14141) `EdTech и ИИ, У конкурентов`
+- **Умскул (Telegram)**: [ВЫШЛА ПОСЛЕДНЯЯ СЕРИЯ СЕРИАЛА «ЕГЭ ПО ФИЗРЕ» 🏀 без спойлеров!!!](https://t.me/umschool_official/14140) `ГИА, У конкурентов`
+- **Умскул (Telegram)**: [рассказывайте, каких блогеров вы любите смотреть после учёбы?](https://t.me/umschool_official/14138) `У конкурентов`
+- **Умскул (Telegram)**: [ВСЁ ПРО ИТОГОВОЕ СОЧИНЕНИЕ ✍️ • что ждёт вас на экзамене • какие темы могут попасться • как правильно готовиться • как получить…](https://t.me/umschool_official/14129) `ГИА, У конкурентов`
+- **Умскул (Telegram)**: [до итогового сочинения меньше двух месяцев....](https://t.me/umschool_official/14128) `У конкурентов`
+- **Умскул (Telegram)**: [9-классники, как вы считаете, стоит ли вообще усердно готовиться к ОГЭ?](https://t.me/umschool_official/14124) `ГИА, EdTech и ИИ, У конкурентов`
+- **Умскул (Telegram)**: [домашку задаём в любом случае, тут уж извините — без повторения изученного прогресса не будет 😈 тем более, что теперь в Умскул она…](https://t.me/umschool_official/14123) `У конкурентов`
+- **Умскул (Telegram)**: [я вас поняла 🫡 ловите тестики по русскому - t.me/QuizBot?start=HyAK0Uc4 по математике - t.me/QuizBot?start=7nfHgg9z по физике -…](https://t.me/umschool_official/14122) `У конкурентов`
+- **eurogymonline (Telegram)**: [💡 Как сделать образование пространством доверия, а не страха?](https://t.me/eurogymonline/853) `У конкурентов`
 
 ### Отброшено стоп-словами
 
+- **Инновации и образование (Telegram)**: [День учителя: Путин обещает обновлять инфраструктуру образования Россия продолжит обновлять и делать удобнее для учеников и…](https://t.me/innovation_and_education/3682)
 - **Минпросвещения России**: [V Молодежный слет Амбассадоров «Профессионалитета» объединил участников из 86 регионов России](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMnlELXhjOU1HekVqV1dfbEdWZktCU1lzT0JvWGR6ZmJ0SmJRQ2tMV2NmamFacmhFR0FXeEhQcGtFdEZBYnJYWWNWcDBxcVpPWHJCX0Z1VUNPaXBBcGNZTXZaQ2xBOGZMdzF0X1h3clZ1NWNLaDBSdGZYVUdCaFlTaTkyaE9HbnlUUG9kRU5sR25WNC04eFRweUd1VVlaaHJrSXlnX0YtMHN4V3c3TTZDWjlvZ0lZcVF3akNZYndMV0VhZw?oc=5)
 - **Национальные проекты России**: [В Петербурге прошел XXX Слет юных моряков](https://news.google.com/rss/articles/CBMingFBVV95cUxQeDRiSFAtZmhHcEJYWHR4YTQxU2lDd1hHZk5xZlhRcHR6ZVR0dnlwRTBGeWlPa09PMkE0ZWxYZXVhSTNQMWsyYzBWUldjMndkWVhoMTUwbkNLMTFHb3RJZVlhQk5Ba0tmQUdmRGhmd2sxWVRrcGpiZ2ZKU2dISjZxamk0RVZHUEYweXh3c1JDdUpLWklQRlFUUk5jYU5mQQ?oc=5)
 - **Учительская газета**: [Гуманитарный институт НовГУ отметил свой юбилей](https://ug.ru/gumanitarnyj-institut-novgu-otmetil-svoj-yubilej/)
@@ -209,12 +279,31 @@
 
 ### Прочее (без тегов, в сводку не идёт)
 
+- **edtexno (Telegram)**: [«Школьное телевидение» до конца года запустят в 30 регионах До конца 2026 года проект «Школьное телевидение» запустят как минимум в 30…](https://t.me/edtexno/7719)
+- **edtexno (Telegram)**: [Телеком изнутри: студенты прокачивают навыки на проектах Т2 Проектная мастерская МИЭМ НИУ ВШЭ и Т2 помогает студентам получить опыт…](https://t.me/edtexno/7717)
+- **edtexno (Telegram)**: [Молодому учителю после вуза не хватает умения говорить с детьми С какими трудностями сталкиваются молодые педагоги, рассказали в эфире…](https://t.me/edtexno/7712)
+- **edtexno (Telegram)**: [Учителей хотят защитить от родительских чатов Время, которое учителя тратят на общение с родителями, нужно засчитывать в рабочие часы…](https://t.me/edtexno/7711)
+- **edtexno (Telegram)**: [Молодёжь пошла в образовательный бизнес Почти 340 тыс.](https://t.me/edtexno/7710)
+- **Инновации и образование (Telegram)**: [Для студентов в России учредили новые государственные стипендии Сразу к делу: размер стипендий составит 30-50 тыс.](https://t.me/innovation_and_education/3685)
+- **Инновации и образование (Telegram)**: [Учителям предложили засчитывать в рабочее время родительские чаты Такую идею подал заместитель секретаря Общественной палаты РФ…](https://t.me/innovation_and_education/3684)
+- **edtrends (Telegram)**: [🎓 Юнит-экономика университета: каким цифрам доверять при принятии решений об образовательных программах?](https://t.me/edtrends/3789)
+- **edtrends (Telegram)**: [Я очень люблю всё, что связано с искусством, и особенно — с современным искусством.](https://t.me/edtrends/3785)
+- **edtrends (Telegram)**: [Неделю назад была на Альфа-Будущее Саммите .](https://t.me/edtrends/3783)
+- **edtrends (Telegram)**: [Как разработчику курсов сделать свою работу ещё интереснее и продуктивнее?](https://t.me/edtrends/3782)
+- **Forbes Education (Telegram)**: [По Индии прокатилась очередная волна студенческих протестов.](https://t.me/forbes_education/5209)
+- **Forbes Education (Telegram)**: [Степень доверия образовательным учреждениям разных уровней за последние два года в России незначительно выросла, но при этом осталась…](https://t.me/forbes_education/5205)
+- **Forbes Education (Telegram)**: [Три языка без насилия Главная особенность детского сада Park Kultury Nursery в том, что с самого раннего детства его воспитанники…](https://t.me/forbes_education/5204)
+- **Forbes Education (Telegram)**: [Дети редко увлекаются школьными предметами сами по себе — чаще всего это заслуга учителя.](https://t.me/forbes_education/5203)
+- **Forbes Education (Telegram)**: [Один и тот же корень -ют- можно найти в существительных уют и приют , а также в глаголе ютиться .](https://t.me/forbes_education/5191)
+- **eduhubpro (Telegram)**: [Прямая трансляция круглого стола «Восстановительные практики и медиация в образовании: роль учителя в формировании культуры диалога и…](https://t.me/eduhubpro/497)
+- **eduhubpro (Telegram)**: [✨ Как специалистам говорить с подростками о взрослении, отношениях и здоровье - честно, спокойно и без неловкости?](https://t.me/eduhubpro/493)
 - **Газета**: [От школы к профессии. Как Всероссийская олимпиада школьников формирует будущих специалистов](https://news.google.com/rss/articles/CBMidEFVX3lxTE5iUE9jcFB5RTJzRjMyakRSSXR5c3B1Rmk5QTF4ZzJyWTV1VDBVZDJaNlQzMk9qQnJlUkhjZHlYX1RhOGs0aUFoVFJDVjByTUtGbUZPMjlYYlJ3dFhncmNGSjhEb0l1NWlfTzgzN2Zud2NEaWI50gF0QVVfeXFMTmJQT2NwUHlFMnNGMzJqRFJJdHlzcHVGaTlBMXhnMnJZNXVUMFVkMlo2VDMyT2pCcmVSSGNkeVhfVGE4azRpQWhUUkNWMHJNS0ZtRk8yOVhiUnd0WGdyY0ZKOERvSXU1aV9PODM3Zm53Y0RpYjk?oc=5)
 - **Минпросвещения России**: [Школьников приглашают к участию в Статистическом диктанте](https://news.google.com/rss/articles/CBMimgFBVV95cUxPNUtyWlJYdXoyY05ZYUdFUmtlSndEVWpyUVB6QTZ4aTFvNDMzQUlIM25YX0ZKRXU1dWNPOEZWT194aC13OU4tU0hxSFlkanJWNGJFYWd4LVdsbmJiVTFMZTA5VFFRdUdEYVBCVzRWeTZOQlFkT1dqTVV0STBEUEVOV0M2M3BMVEJZQkp6b0VYS0MyeVVUNW9YMXRn?oc=5)
 - **Минпросвещения России**: [Более 1 600 обращений поступило на линию психологической помощи «Школа доверия](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSW9XSW8tTVZWUjJUXzM3NlJHeUVmQXJDazQ4UnpfVXNKbW9yTHNBN0JFR0NRV1pFS19YV2VuajN3ZU44WjZ0NGNjc2dfZUFfUjlGWEx0WXF5MUZ0TmJZOGVia21XVTJaOVc2ZVowZHJaZS1xVG5ZTWFSOWNENFlvZ1RvSUpGUnJiUG9wZnRVTXVrMlJfMW1NdVYtblotZHhTSmNyTzZwbmM3ek42ODl4cUhyLUh0UTVU?oc=5)
 - **Дети Mail**: [Стало известно расписание ВПР в школах на 2027 год](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNHl6STg1Ykp3WjlTSTgxQVdaV2ctekVmYTlsUXl0bUVzaUxTeW9HSlRZM3RnU3ZZMXNLRnUwalo5bzlUTXFXME5BRldJS1Z1Y09tRFk0bllzbmE0bElMU1JyTW43N19zM0xYaTkySnJtWW1hZ2J6aGdBTjc0S09JOE9lSnZ1Uk1L?oc=5)
 - **PNZ.RU**: [ВПР в 2027 году: названы сроки и новые особенности проверочных работ для школьников](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeEtkMkZlV0VlWkZLZDI3Ui00alNvWXZOdm9oUEpXRVRWVnYyR3JXcnUyMkM1VHFjZXBDSnpwYUJ2UEpQcXhGSG5aV1ZuYmlyb3FUSV9BRk1SQ1NCVjY4eXJxS2d1SDl4NUh1ZmI4VTlacnQ3T3ZRRmVyN2dOZHVXSXJia2I4a2hNZHpyQWpMaTlGUzI0V2hOcmZtRzAyWmlOQWZLWFR5cHhZUzQ?oc=5)
 - **Первое сентября**: [ВПР для школьников 4–8 и 10 классов пройдут с 19 апреля по 21 мая 2027 года](https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GRFhCdzNITHR4T2lhS2dGZUdZdy1nRHFvRDdDemh2MmRpU0JKSmk5aTZ5WGcwVHVqUGtwbkVFSFhGNXdHODVsVVJBZGhqOEU?oc=5)
+- **Первый Тульский**: [С 19 апреля в тульских школах пройдут всероссийские проверочные работы](https://news.google.com/rss/articles/CBMisAFBVV95cUxQck9BM0FfRWFDckQwUXB4OXc4NFo0OUpxRDk0Um1wSjQyS0FKVlFYbkMwcnZYNjVRWjJtZHdsamRTN1B0UklZMUVUN3lMZ3phdzhDNUxTaFhMdHkzMEc0aGJWZnp5S0J0alR6WjkwS2VndEQ3Nko4eXlmZURad0EwQ0daVWtwM2w3WFR5LWtyN29zZTNSNkVvRDdCYTc3N1ZTaG1Dem9MaWJUa1NPY2VMX9IBtgFBVV95cUxPa1dGYnNkTjJaQ2NYa0NaMDNPeUg4cVJ5TmN5WDlEdVZRU1ZjOUZWcGN3WUVpTlZzWHhmOVNBeFpHeVJCWDFDbXNlLS1oZkdOa2tXbUtTY2huVmgxd2lSM1FfcXVSRG5ZMk4xT1dJOUxyU1pITDhXZjlzTTZwMGxFaEdRcm9tamU1UG9kdm8zV1BYaHhobUhPZzU1SVNnSlZ1X0xqbHhmSWtWd3dtbXc4cnNuZlJiZw?oc=5)
 - **ПензаИнформ**: [Правила проведения ВПР в школах собираются ужесточить](https://news.google.com/rss/articles/CBMitgFBVV95cUxQNW1zU0pRNWt5QVRHVmc3aWJNOWt2cTBIRThYb0VCV05XRWtBa2NnUXd3dHRQZGRpLXlQV0JrdFF0VU9kOG5rbUQ4MGU2UzQ0UHRmYkk5bnRwNFZmaVJoRkZSRnUwMmo1cDdyT2g1aXFOOEVCTC0zcVlpM2JRTGVnMkpkMkhfR21yQU5xMW9ZckstRllKUnpKMVl1RnAwTWxTcUdyU2h2czN5NWttVFc1N283eFp2Zw?oc=5)
 - **Интерфакс**: [Школьники напишут Всероссийские проверочные работы с 19 апреля по 21 мая 2027 г.](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5sTUF5RG10VjB3Nl9FRG9JUFRXR2hwWjlDTlhvTHBpX3h0cEF2Z2hfNEhReFVlaVBmOXI0bEY2TXQwTnNoODNjekJRWdIBS0FVX3lxTE5sTUF5RG10VjB3Nl9FRG9JUFRXR2hwWjlDTlhvTHBpX3h0cEF2Z2hfNEhReFVlaVBmOXI0bEY2TXQwTnNoODNjekJRWQ?oc=5)
 - **Рамблер**: [Московский педагогический колледж готовит педагогов уже 45 лет](https://news.google.com/rss/articles/CBMitgFBVV95cUxOcHctVjBoNm1VWGN0dWROcHpRWTViRG9wTklqSXVMelJ5eEdDMjYzWEItcjhSN2F3Q1BDYzNjOXhVV2FXR2lUQkl5dnNSclloQnF2QnN5dHZrTVNsUmo3X0g2SVFsLThHVWlTSFdZcGhNUG9QdFM3UG9ZX0FKTll6N0VkYUZEVFdKcE8yNjFUTlJfajAtRlBocmt4OTR6YjIzc1BxSTNzSHlZb3BHeHJlNmNiLTMwZ9IBtgFBVV95cUxOcHctVjBoNm1VWGN0dWROcHpRWTViRG9wTklqSXVMelJ5eEdDMjYzWEItcjhSN2F3Q1BDYzNjOXhVV2FXR2lUQkl5dnNSclloQnF2QnN5dHZrTVNsUmo3X0g2SVFsLThHVWlTSFdZcGhNUG9QdFM3UG9ZX0FKTll6N0VkYUZEVFdKcE8yNjFUTlJfajAtRlBocmt4OTR6YjIzc1BxSTNzSHlZb3BHeHJlNmNiLTMwZw?oc=5)
@@ -261,6 +350,7 @@
 - **Inkazan.ru**: [Переведут ли школьников Челнов на пятидневку?](https://news.google.com/rss/articles/CBMikwFBVV95cUxPTF9yeWt5QkN2SFdyc1EtUjJoUHkzb2tyTGhFNWV5Rm45V3pfRTA0d3NUTEw3VE45SUJFd2NDdzhZM1VxZXNfeUlvVlJ6dVB1UklPZEdQWnVhcnhBM2QxV2x5ZUMwQlpuQmdScWwtM09pdEV1YmJQWWFPOTN2a2JPTXo3Xzc1ZXY4ZWZUX3hsWDNIcHM?oc=5)
 - **Inkazan.ru**: [Челнинские родители хотят перевести школы на пятидневку: почему](https://news.google.com/rss/articles/CBMirwFBVV95cUxNckdsdXNLT2ZIMEpGMUJ4QlltZExrSXkzeHpiclhnS0FhTnFfR1IyTGhNNHpvT18ycWlzcU45LTJuTE1ncE5GamFrU25WLWxrbU5pOTR6OG94aEFhb280c1RybFZ5RzB5VS1ULUhYRTZ1dWE5bW1PNUUyUjh1dkZGMVkxQVBwX0lEcmduM1Y5VjdOTzFyV1JSajNjalk1cmhpRXRxTXpnbVlWa3RsQTkw?oc=5)
 - **SevastopolMedia**: ["Сферум" и "Просвещение" меняют формат домашних заданий](https://news.google.com/rss/articles/CBMiUkFVX3lxTE91OFdWa2ZSRGZLR1JneU90UDZmV0IybWlNZ2ExYkxnS0s3RU9kRmNaa3h2NVExOUpSVjZsUWdLQ2MxTGNpNHZ2NFF6MGdMTEpvMmc?oc=5)
+- **Kommersant**: [Корпус тюменской школы, где сгорела крыша, откроют после новогодних каникул](https://news.google.com/rss/articles/CBMiTkFVX3lxTE5NemU5T3czank3N3BKQXZHXzJyNC05UFdJNzl5Ulptcl9fS2RfOTdMNExsalRfSjN6aTJuTGdMb2VVOFRlZmVnS3ZuQWlPQQ?oc=5)
 - **Kommersant**: [В Ульяновске отопление подано в 64 % домов и 84 % соцобъектов](https://news.google.com/rss/articles/CBMiTkFVX3lxTFBkT18wZnIwQ1dvYlBTX1Fybld5NXBiRlFYeWR4cU9ZWHgyZ01Qd0VQLW1MZGRXeUJ0VTRxY1IwUTZKQzRNMmRIUVp3cmRWUQ?oc=5)
 - **Kommersant**: [«Он сгибался пополам, тяжело дышал»](https://news.google.com/rss/articles/CBMiTkFVX3lxTE85OUstSDlhUjJfZ05rbW5HV3NOcTNsZDc2OEdhUXgzU1AxRFFNLTF0ZnAtSDZjNVFUOTdydXVWR1BzQmNROFFzajFPLWhsdw?oc=5)
 - **Kommersant**: [Новости России и мира сегодня — последние новости на Коммерсантъ](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9NLVpwakltUlplWkNkaG1zZ3AwaTBPUktzdDFVRTR0OUxqR3Jpd2dkanNMZ3NoQUlYQkZ1NGVwM3M1dnBka0hPYWZ0VVE?oc=5)
@@ -285,7 +375,6 @@
 - **Kommersant**: [Зарубежные СМИ: На какие уступки пошли власти Франции после школьных протестов?](https://news.google.com/rss/articles/CBMiTkFVX3lxTE92VXpVV0NTazA1MUQzV0RRVDdTalgwZHIzZkFtS25ZQXVKQWM0Q3FYSFhlQ3Etay1XQ3RjamFNUTdLQ094Vk9QWEJ1TFlsQQ?oc=5)
 - **Kommersant**: [Дмитриев: Запад прошел точку невозврата из-за систематической лжи](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9CVy1La3I5UEkwMzQ5Mk9qRWs3RFR2Z0lRdjNvNV9PMHdfOVQwWV8tZlJ2cWVQX3FqMEozeUFoY3dhSHFTQkRuZVU2dGE1UQ?oc=5)
 - **Kommersant**: [Вице-премьер РФ и глава Прикамья обсудили развитие спорта и туризма в регионе](https://news.google.com/rss/articles/CBMiTkFVX3lxTE0yT3ZISVVNTlR4ZE50bGUyWHlRbm93ZUJqVFRHQWRwWXc0SG1ramhMTTEySVVkdFZvUW84bkR4OUJSX1NaSjV4MnBXV0JUUQ?oc=5)
-- **Kommersant**: [Матвиенко: для России лучше стабильная и спокойная Европа](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9kdlozUFdkbl94N0FxRktBVFh5YWZIUTQxTkw4bnJ6ZmNyMno0cXA5VGN3T2RlMHczSUg3bXdpVl9LTnc4NjVrWFNTbndJZw?oc=5)
 - **Ведомости. ЮГ**: [Курс по искусственному интеллекту запустят в донских школах со второй четверти](https://news.google.com/rss/articles/CBMiigFBVV95cUxPUUpqZ1lpajBJNzZocTE2VFR4cGFTT2RpMXBYVmxyRlFKM0NiQlluWHVzVC1yMjVGN2liS0NFLXg2UkpxdWtUMmVpYzZmZUJxdlNKMXBXd2ZTR21ydjhqV1RqbGhvVUtXaVd4U1JFVnNRNExnYTdnS2hPR1phLVZhNXAwOWVnVzg3eFE?oc=5)
 - **Ведомости**: [Объем переведенных в «Сберинвестиции» активов в 10 раз превысил число выведенных](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPU0NuOFdtV3RhcVZzbUhVdEVNRFhLV2xfVzBtWFV3VFRRMjR0bFlVT2wxMUlJRER5YlBUb081VmhFRm1aN245M3NoLUdZTGItZ2Joai1QLUtybUlhR1FnWFhJa1JYOGRpNnozbDhIenU2TjI3WjhzYkd4YmtXTm1MZmNUTnRnOS1K?oc=5)
 - **Ведомости**: [«Инфоурок» выступил на конференции о кибербезопасности в образовании](https://news.google.com/rss/articles/CBMiugFBVV95cUxOVEcxbk52eDllYi1TSV9JcEg4d1dPZk9FU3ptMmF4aGdmSnEtSnZ2OTJEanpQa0tqelBOeXBkMWtaS0Q4MmhCZ1psM3VOVG41ZVNmaC1mMlRQaDZILVdsSDRjb0JoRFlWczNXRnpGT3dseWZBQWtUdlFLVTlSM0RRbVNIWFFnNUNtcGlBZ3VzY25GZFBuLVpOUFJZYW1qVHJmeG85LVJfaWhnNExwRU5tekh3QW1xUlZLZ0E?oc=5)
@@ -351,6 +440,7 @@
 - **K-12 Dive**: [Trump administration threatens federal funds over mental health screenings](https://www.k12dive.com/news/trump-administration-threatens-federal-funds-over-mental-health-screenings/832281/)
 - **K-12 Dive**: [The top K-12 conferences to attend in 2027](https://www.k12dive.com/news/top-k12-events-2027/832172/)
 - **K-12 Dive**: [Week In Review: A slew of new K-12 policies and guidance](https://www.k12dive.com/news/week-in-review-october-5-2026/832053/)
+- **The 74**: [Opinion: Now That Federal Tax Credit Rules Are Out, What States & Philanthropy Should Do](https://www.the74million.org/article/now-that-federal-tax-credit-rules-are-out-what-states-philanthropy-should-do/)
 - **The 74**: [Opinion: America Is Ready for Family Math. Let’s Make It the Next Parenting Habit](https://www.the74million.org/article/america-is-ready-for-family-math-lets-make-it-the-next-parenting-habit/)
 - **The 74**: [Taking School Climate and Student Belonging One Step Further With ‘Mattering’](https://www.the74million.org/article/taking-school-climate-and-student-belonging-one-step-further-with-mattering/)
 - **The 74**: [After Years of Small Fixes, Big Ideas for Childcare Are Emerging](https://www.the74million.org/zero2eight/after-years-of-small-fixes-big-ideas-for-childcare-are-emerging/)
@@ -367,7 +457,6 @@
 - **The 74**: [School Librarians Hesitant to Discuss Books Amid Texas Battles to Restrict Titles](https://www.the74million.org/article/school-librarians-hesitant-to-discuss-books-order-more-amid-texas-battles-to-restrict-titles-they-say/)
 - **The 74**: [Opinion: Why Schools Need a Phonics-Style Reckoning for Math](https://www.the74million.org/article/why-schools-need-a-phonics-style-reckoning-for-math/)
 - **The 74**: [Here’s What it Takes to Feed LAUSD Students Each Day](https://www.the74million.org/article/heres-what-it-takes-to-feed-lausd-students-each-day/)
-- **The 74**: [Opinion: How I Started My Path to a Career in Healthcare While Still in High School](https://www.the74million.org/article/how-i-started-my-path-to-a-career-in-healthcare-while-still-in-high-school/)
 - **Chalkbeat**: [Voter guide 2026: Jeffco Public Schools 5A and 5B would fund salary increases, building fixes](https://www.chalkbeat.org/colorado/2026/10/07/voter-guide-jeffco-public-schools-ballot-issues-5a-5b/)
 - **Chalkbeat**: [Getting lots of mailers and texts about the 2026 Chicago school board election? Send them to us.](https://www.chalkbeat.org/chicago/2026/10/07/send-us-your-mailers-texts-and-ads-for-2026-school-board-election/)
 - **Chalkbeat**: [Reopening of Chicago Public Schools watchdog inquiry roils candidate’s bid for school board president](https://www.chalkbeat.org/chicago/2026/10/07/chicago-public-schools-watchdog-reopens-inquiry-into-hilario-dominguez/)
