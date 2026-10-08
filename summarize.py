@@ -149,13 +149,17 @@ def call_claude(user_message: str) -> dict:
 
     # strip() убирает случайные пробелы и переносы строк, попавшие при копировании ключа
     client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"].strip())
-    response = client.messages.create(
+    # Потоковый режим нужен для длинных ответов: сводка из 30+ новостей большая
+    with client.messages.stream(
         model=MODEL,
-        max_tokens=12000,
+        max_tokens=32000,
         system=SYSTEM_PROMPT,
         output_config={"format": {"type": "json_schema", "schema": DIGEST_SCHEMA}},
         messages=[{"role": "user", "content": user_message}],
-    )
+    ) as stream:
+        response = stream.get_final_message()
+    if response.stop_reason == "max_tokens":
+        raise RuntimeError("Ответ не поместился в лимит max_tokens — сократи MAX_ITEMS_IN_DIGEST или увеличь лимит")
     print(f"Токены: на входе {response.usage.input_tokens}, на выходе {response.usage.output_tokens}")
     text = next((b.text for b in response.content if b.type == "text"), None)
     if not text:

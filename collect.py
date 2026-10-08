@@ -87,6 +87,8 @@ def collect_telegram(source: dict, since: datetime) -> tuple[list[dict], str]:
 
     items = []
     for post in posts:
+        if "service_message" in (post.get("class") or []):
+            continue  # служебные: «закрепил сообщение», «сменил фото» и т.п.
         text_el = post.select_one(".tgme_widget_message_text")
         time_el = post.select_one("time[datetime]")
         link_el = post.select_one("a.tgme_widget_message_date")
@@ -96,6 +98,8 @@ def collect_telegram(source: dict, since: datetime) -> tuple[list[dict], str]:
         if date < since:
             continue
         text = text_el.get_text(" ", strip=True)
+        if len(text) < 80 and re.search(r"\bpinned\b|закрепил", text):
+            continue
         # У поста нет заголовка: берём первую фразу, остальное — описание
         first = re.split(r"(?<=[.!?…])\s|\n", text, maxsplit=1)[0]
         title = first if len(first) <= 140 else first[:137].rsplit(" ", 1)[0] + "…"
