@@ -121,9 +121,12 @@ def main():
         "\n### Первые 30 заголовков\n",
         *[f"- **{i['source']}**: [{i['title']}]({i['link']})" for i in all_items[:30]],
     ]
+    report_text = "\n".join(lines)
+    Path("reports").mkdir(exist_ok=True)
+    Path("reports/sources.md").write_text(report_text, encoding="utf-8")
     summary_path = os.environ.get("GITHUB_STEP_SUMMARY")
     if summary_path:
-        Path(summary_path).write_text("\n".join(lines), encoding="utf-8")
+        Path(summary_path).write_text(report_text, encoding="utf-8")
 
     print(f"\nВсего: {len(all_items)} материалов → data/items.json")
 
