@@ -1,0 +1,82 @@
+# Источники для EduDigest.
+# Чтобы добавить источник, скопируй блок из трёх-четырёх строк и поменяй значения.
+# rss указывать не обязательно: если его нет, приложение найдёт ленту по адресу сайта.
+# enabled: false временно отключает источник.
+
+# ---------- Россия ----------
+- name: Минпросвещения России
+  url: https://edu.gov.ru/press/news/
+  region: RU
+  enabled: true
+
+- name: Рособрнадзор
+  url: https://obrnadzor.gov.ru/news/
+  region: RU
+  enabled: true
+
+- name: Учительская газета
+  url: https://ug.ru
+  region: RU
+  enabled: true
+
+- name: Интерфакс-Академия
+  url: https://academia.interfax.ru
+  region: RU
+  enabled: true
+
+- name: Педсовет
+  url: https://pedsovet.org
+  region: RU
+  enabled: true
+
+- name: Мел
+  url: https://mel.fm
+  region: RU
+  enabled: true
+
+# ---------- Мир: K-12 политика и практика ----------
+- name: Education Week
+  url: https://www.edweek.org
+  region: WORLD
+  enabled: true
+
+- name: K-12 Dive
+  url: https://www.k12dive.com
+  region: WORLD
+  enabled: true
+
+- name: The 74
+  url: https://www.the74million.org
+  region: WORLD
+  enabled: true
+
+- name: Chalkbeat
+  url: https://www.chalkbeat.org
+  region: WORLD
+  enabled: true
+
+- name: The Hechinger Report
+  url: https://hechingerreport.org
+  region: WORLD
+  enabled: true
+
+- name: Schools Week (UK)
+  url: https://schoolsweek.co.uk
+  region: WORLD
+  enabled: true
+
+# ---------- Мир: EdTech, рынок, исследования ----------
+- name: EdSurge
+  url: https://www.edsurge.com
+  region: WORLD
+  enabled: true
+
+- name: HolonIQ
+  url: https://www.holoniq.com/notes
+  region: WORLD
+  enabled: true
+
+- name: OECD Education and Skills Today
+  url: https://oecdedutoday.com
+  region: WORLD
+  enabled: true
