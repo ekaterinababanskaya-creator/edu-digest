@@ -1,10 +1,10 @@
 ## Фильтр новостей
 
-- Всего собрано: 239
+- Всего собрано: 237
 - Дублей убрано: 1
 - Отброшено стоп-словами: 13
-- Без тегов («Прочее»): 155
-- **Осталось для сводки: 70**
+- Без тегов («Прочее»): 154
+- **Осталось для сводки: 69**
 
 | Тег | Новостей |
 |---|---|
@@ -12,7 +12,7 @@
 | ГИА | 3 |
 | Семейное образование | 4 |
 | Законодательство | 21 |
-| EdTech и ИИ | 23 |
+| EdTech и ИИ | 22 |
 | Исследования и данные | 24 |
 | Законодательство: регионы | 6 |
 
@@ -69,7 +69,6 @@
 - **Учительская газета**: [На Ямале впервые составлен рейтинг 30 лучших школ](https://ug.ru/na-yamale-vpervye-sostavlen-rejting-30-luchshih-shkol/) `EdTech и ИИ, Исследования и данные`
 - **Учительская газета**: [Полезный, но требующий умения: в РАО прошёл семинар о грамотном использовании ИИ в профобразовании](https://ug.ru/poleznyj-no-trebuyushhij-umeniya-v-rao-proshyol-seminar-o-gramotnom-ispolzovanii-ii-v-profobrazovanii/) `EdTech и ИИ`
 - **Мел**: [Ученые впервые оценили глобальные потери лет здоровой жизни из-за экранного времени у молодежи. И приравняли это 2,8 млн лет](https://mel.fm/novosti/4371598-uchenyye-vpervyye-otsenili-globalnyye-poteri-let-zdorovoy-zhizni-iz-za-ekrannogo-vremeni-u-molodezhi) `EdTech и ИИ, Исследования и данные`
-- **Мел**: [Ученые научили ИИ по снимкам МРТ воссоздавать картинку, на которую смотрит человек. На шаг ближе к визуализации снов и мыслей](https://mel.fm/novosti/9720683-uchenyye-nauchili-ii-po-snimkam-mrt-vossozdavat-kartinku-na-kotoruyu-smotrit-chelovek) `EdTech и ИИ`
 - **Education Week**: [Better Tools, Not More: What Educators Say About Teaching and Technology](https://www.edweek.org/events/webinar/better-tools-not-more-what-educators-say-about-teaching-and-technology) `EdTech и ИИ`
 - **Education Week**: [What Teacher Education Should Look Like in the Age of AI](https://www.edweek.org/events/webinar/what-teacher-education-should-look-like-in-the-age-of-ai) `EdTech и ИИ, Исследования и данные`
 - **Education Week**: [4 Ways AI Data Centers Can Affect Schools](https://www.edweek.org/leadership/4-ways-ai-data-centers-can-affect-schools/2026/10) `EdTech и ИИ`
@@ -169,12 +168,12 @@
 - **Учительская газета**: [Географический диктант – 2026: когда пройдёт просветительская акция](https://ug.ru/geograficheskij-diktant-2026-kogda-projdyot-prosvetitelskaya-akcziya/)
 - **Учительская газета**: [В 2026 году Директором года России стал Николай Бутов](https://ug.ru/v-2026-godu-direktorom-goda-rossii-stal-nikolaj-butov/)
 - **Учительская газета**: [Победителем конкурса «Учитель года России» стал Алексей Морозов](https://ug.ru/pobeditelem-konkursa-uchitel-goda-rossii-stal-aleksej-morozov/)
-- **Учительская газета**: [Превентивная медицина войдёт в образовательные программы медвузов России и Китая](https://ug.ru/preventivnaya-mediczina-vojdyot-v-obrazovatelnye-programmy-medvuzov-rossii-i-kitaya/)
 - **Педсовет**: [Когда спорт перестаёт быть полезным: всё о зависимости от тренировок](https://pedsovet.org/article/kogda-sport-perestaet-byt-poleznym-vse-o-zavisimosti-ot-trenirovok)
 - **Педсовет**: [Как расставить приоритеты в коррекции, чтобы не перегрузить ребёнка](https://pedsovet.org/article/kak-rasstavit-prioritety-v-korrekcii-ctoby-ne-peregruzit-rebenka)
 - **Педсовет**: [Что такое аграмматизмы в речи младших школьников](https://pedsovet.org/article/cto-takoe-agrammatizmy-v-reci-mladsih-skolnikov)
 - **Педсовет**: [Как создать комфортные условия в школе для детей с ОВЗ](https://pedsovet.org/article/kak-sozdat-komfortnye-uslovia-v-skole-dla-detej-s-ovz)
 - **Педсовет**: [Как учителю защититься от приставаний и провокаций учеников](https://pedsovet.org/article/kak-ucitelu-zasititsa-ot-pristavanij-i-provokacij-ucenikov)
+- **Мел**: [Британские врачи впервые пересадили студентку замороженную ранее ткань яичка, чтобы восстановить утерянную при лечении рака фертильность. Через 8 месяцев станет ясно, была ли пересадка успешной](https://mel.fm/novosti/6910852-britanskiye-vrachi-vpervyye-peresadili-studentku-zamorozhennuyu-raneye-tkan-yaichka-chtoby-vosstanov)
 - **Мел**: [Продюсер Картозия перевел студентке киноколледжа деньги, взысканные с режиссера Андреасяна после спора о Тарковском. "Ты – молодец, Сима!", – обратился Картозия к девушке](https://mel.fm/novosti/2364085-prodyuser-kartoziya-perevel-studentke-kinokolledzha-dengi-vzyskannyye-s-rezhissera-andreasyana-posle)
 - **Мел**: [Фразеологический словарь включили в список нормативных словарей русского языка. Весь перечень будет доступен в Национальном словарном фонде](https://mel.fm/novosti/9620783-frazeologichesky-slovar-vklyuchili-v-spisok-normativnykh-slovarey-russkogo-yazyka)
 - **Мел**: [Нобелевскую премию по литературе за 2026 год получила канадская писательница Энн Карсон. Карсон 76 лет, сейчас она находится в Исландии и "слушает ветер"](https://mel.fm/novosti/3617042-nobelevskuyu-premiyu-po-literature-za-2026-god-poluchila-kanadskaya-pisatelnitsa-enn-karson)
@@ -287,7 +286,6 @@
 - **Chalkbeat**: [DJ Torres resigns from Denver school board amid escalating tension and accusations](https://www.chalkbeat.org/colorado/2026/10/01/dj-torres-resigns-from-denver-school-board-amid-accusations/)
 - **Chalkbeat**: [2026 Colorado voter guide: What to know about Amendment 87](https://www.chalkbeat.org/colorado/2026/10/01/voter-guide-amendment-87-ballot-measure-school-funding/)
 - **Chalkbeat**: [2026 Colorado voter guide: What to know about Proposition NN](https://www.chalkbeat.org/colorado/2026/10/01/what-colorado-voters-should-know-about-proposition-nn-voter-guide/)
-- **Chalkbeat**: [Colorado’s 2027 Teacher of the Year is Strasburg science teacher Merci Ames](https://www.chalkbeat.org/colorado/2026/10/01/merci-ames-strasburg-science-teacher-is-colorado-2027-teacher-of-the-year/)
 - **The Hechinger Report**: [OPINION: Higher education has a trust problem, and families are right to demand transparency and candor](https://hechingerreport.org/opinion-higher-education-has-a-trust-problem-and-families-are-right-to-demand-transparency-and-candor/)
 - **The Hechinger Report**: [As more colleges close, advocates are calling for them to be turned into housing](https://hechingerreport.org/college-closures-affordable-housing/)
 - **The Hechinger Report**: [In an age of climate disaster, more states offer students a way to show they are ‘climate literate’](https://hechingerreport.org/in-an-age-of-climate-disaster-more-states-offer-students-a-way-to-show-they-are-climate-literate/)
