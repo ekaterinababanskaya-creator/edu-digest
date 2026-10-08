@@ -4,7 +4,13 @@ on:
   workflow_dispatch:   # кнопка «Run workflow» на вкладке Actions
 
 permissions:
-  contents: write      # разрешаем сохранять отчёты обратно в репозиторий
+  contents: write      # сохранять отчёты и архив выпусков в репозиторий
+  pages: write         # публиковать страницу
+  id-token: write      # нужно GitHub Pages для публикации
+
+concurrency:
+  group: digest
+  cancel-in-progress: false
 
 jobs:
   collect:
@@ -27,17 +33,32 @@ jobs:
       - name: Напоминание про ключ
         if: env.ANTHROPIC_API_KEY == ''
         run: echo "::warning::Сводка пропущена — добавь секрет ANTHROPIC_API_KEY в Settings → Secrets and variables → Actions"
+      - name: Архив и сборка страницы
+        run: python build.py
       - uses: actions/upload-artifact@v4
         if: always()
         with:
           name: news
           path: data/
-      - name: Сохранить отчёты в репозиторий
+      - name: Сохранить отчёты и архив в репозиторий
         if: always()
         run: |
           git config user.name "edu-digest-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add reports/
-          git commit -m "Отчёты о сборе: $(date -u +%Y-%m-%d)" || echo "нет изменений"
+          git add reports/ archive/ 2>/dev/null || true
+          git commit -m "Выпуск: $(date -u +%Y-%m-%d)" || echo "нет изменений"
           git pull --rebase
           git push
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  publish:
+    needs: collect
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - id: deploy
+        uses: actions/deploy-pages@v4

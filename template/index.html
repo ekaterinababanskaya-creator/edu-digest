@@ -1,0 +1,372 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Сводка K-12</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Golos+Text:wght@400;500;600&family=Literata:opsz,wght@7..72,400;7..72,600&display=swap" rel="stylesheet">
+<style>
+  /* Цвета: тетрадная бумага, чернила и красная ручка учителя.
+     Цвета тегов — как цвета предметов в школьном расписании. */
+  :root {
+    --paper: #F4F6F9;
+    --sheet: #FFFFFF;
+    --ink: #1D2633;
+    --ink-soft: #566173;
+    --rule: #DCE2EA;
+    --red-pen: #C8352B;
+    --link: #2556B8;
+    --t-fgos: #2D6CDF;
+    --t-gia: #C8352B;
+    --t-family: #1F8A5B;
+    --t-law: #7A4FC9;
+    --t-region: #A86A12;
+    --t-edtech: #0E8A9A;
+    --t-research: #6B7280;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --paper: #12171F;
+      --sheet: #1A212B;
+      --ink: #E6EAF0;
+      --ink-soft: #9AA5B5;
+      --rule: #2C3542;
+      --red-pen: #F0675C;
+      --link: #8DB2FF;
+      --t-fgos: #6F9DF2;
+      --t-gia: #F0675C;
+      --t-family: #4CC38A;
+      --t-law: #A98BEA;
+      --t-region: #DDA24A;
+      --t-edtech: #3DC1D1;
+      --t-research: #A1A9B6;
+    }
+  }
+
+  * { box-sizing: border-box; }
+  html { -webkit-text-size-adjust: 100%; }
+  body {
+    margin: 0;
+    background: var(--paper);
+    color: var(--ink);
+    font: 400 16px/1.55 "Golos Text", system-ui, sans-serif;
+  }
+  a { color: var(--link); }
+  a:focus-visible, button:focus-visible, select:focus-visible {
+    outline: 2px solid var(--link);
+    outline-offset: 2px;
+    border-radius: 4px;
+  }
+
+  .page {
+    max-width: 1080px;
+    margin: 0 auto;
+    padding: 32px 16px 64px;
+    display: grid;
+    grid-template-columns: 200px minmax(0, 1fr);
+    gap: 40px;
+  }
+
+  /* ---------- левая колонка: выпуск и архив ---------- */
+  .issue-date {
+    font: 600 44px/1 "Literata", Georgia, serif;
+    letter-spacing: -0.01em;
+    margin: 0;
+  }
+  .issue-month { font: 400 18px/1.3 "Literata", Georgia, serif; color: var(--ink-soft); margin: 6px 0 0; }
+  .archive { margin-top: 32px; }
+  .archive h2 { font-size: 14px; font-weight: 600; color: var(--ink-soft); margin: 0 0 8px; }
+  .archive ul { list-style: none; margin: 0; padding: 0; }
+  .archive button {
+    all: unset; cursor: pointer; display: block; width: 100%;
+    padding: 6px 0; font-size: 15px; color: var(--ink-soft);
+  }
+  .archive button[aria-current="true"] { color: var(--ink); font-weight: 600; }
+  .archive button:hover { color: var(--ink); }
+  .archive select { display: none; }
+  .stats { margin-top: 24px; font-size: 13px; color: var(--ink-soft); }
+
+  /* ---------- главная колонка ---------- */
+  .lede {
+    font: 400 26px/1.35 "Literata", Georgia, serif;
+    margin: 0 0 28px;
+    max-width: 34em;
+  }
+
+  .filters {
+    position: sticky; top: 0; z-index: 2;
+    background: var(--paper);
+    padding: 12px 0;
+    display: flex; flex-wrap: wrap; gap: 8px;
+    border-bottom: 1px solid var(--rule);
+    margin-bottom: 8px;
+  }
+  .chip {
+    font: 500 14px/1 "Golos Text", system-ui, sans-serif;
+    display: inline-flex; align-items: center; gap: 7px;
+    padding: 8px 12px; border-radius: 999px;
+    border: 1px solid var(--rule); background: var(--sheet); color: var(--ink);
+    cursor: pointer;
+  }
+  .chip .dot { width: 9px; height: 9px; border-radius: 50%; background: var(--c); }
+  .chip .n { color: var(--ink-soft); font-weight: 400; }
+  .chip[aria-pressed="true"] { background: var(--c); border-color: var(--c); color: #fff; }
+  .chip[aria-pressed="true"] .dot { background: #fff; }
+  .chip[aria-pressed="true"] .n { color: rgba(255,255,255,.8); }
+  .chip:disabled { opacity: .45; cursor: default; }
+  .chip.reset { --c: var(--ink); }
+  .chip.reset[aria-pressed="true"] { color: var(--paper); }
+
+  section h2 {
+    font: 600 15px/1.3 "Golos Text", system-ui, sans-serif;
+    color: var(--ink-soft);
+    margin: 36px 0 4px;
+  }
+  section.top h2 { color: var(--red-pen); }
+
+  /* Новость: как запись в тетради, на полях — пометки красной ручкой */
+  .item {
+    display: grid;
+    grid-template-columns: 28px minmax(0, 1fr);
+    padding: 18px 0;
+    border-bottom: 1px solid var(--rule);
+  }
+  .marks {
+    color: var(--red-pen);
+    font: 600 18px/1.35 "Literata", Georgia, serif;
+    letter-spacing: -2px;
+  }
+  .item h3 {
+    font: 600 20px/1.35 "Literata", Georgia, serif;
+    margin: 0 0 6px;
+    max-width: 36em;
+  }
+  .item p { margin: 0 0 10px; max-width: 42em; }
+  .why {
+    border-left: 3px solid var(--red-pen);
+    padding: 2px 0 2px 12px;
+    color: var(--ink);
+  }
+  .why b { font-weight: 600; }
+  .meta { display: flex; flex-wrap: wrap; gap: 6px 14px; align-items: center; font-size: 14px; }
+  .tag { display: inline-flex; align-items: center; gap: 6px; color: var(--ink-soft); }
+  .tag::before { content: ""; width: 8px; height: 8px; border-radius: 50%; background: var(--c); }
+  .sources a { margin-right: 10px; }
+
+  .empty { padding: 40px 0; color: var(--ink-soft); }
+  .empty button { all: unset; cursor: pointer; color: var(--link); text-decoration: underline; }
+
+  @media (max-width: 760px) {
+    .page { grid-template-columns: minmax(0, 1fr); gap: 16px; padding-top: 20px; }
+    .issue { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
+    .issue-date { font-size: 34px; }
+    .archive { margin-top: 0; }
+    .archive h2, .archive ul, .stats { display: none; }
+    .archive select {
+      display: block; font: 500 15px "Golos Text", system-ui, sans-serif;
+      padding: 8px 10px; border-radius: 8px; border: 1px solid var(--rule);
+      background: var(--sheet); color: var(--ink);
+    }
+    .lede { font-size: 21px; }
+    .filters { overflow-x: auto; flex-wrap: nowrap; margin: 0 -16px 8px; padding: 10px 16px; }
+    .chip { flex: none; }
+    .item { grid-template-columns: 22px minmax(0, 1fr); }
+    .item h3 { font-size: 18px; }
+  }
+  @media (prefers-reduced-motion: no-preference) {
+    .chip { transition: background-color .15s, color .15s; }
+  }
+</style>
+</head>
+<body>
+<div class="page">
+  <aside>
+    <div class="issue">
+      <div>
+        <p class="issue-date" id="issue-day"></p>
+        <p class="issue-month" id="issue-month"></p>
+      </div>
+      <nav class="archive" aria-label="Архив выпусков">
+        <h2>Выпуски</h2>
+        <ul id="archive-list"></ul>
+        <select id="archive-select" aria-label="Выбрать выпуск"></select>
+      </nav>
+    </div>
+    <p class="stats" id="stats"></p>
+  </aside>
+
+  <main>
+    <p class="lede" id="lede"></p>
+    <div class="filters" id="filters" role="group" aria-label="Фильтр по темам"></div>
+    <div id="content"></div>
+  </main>
+</div>
+
+<script>
+const TAGS = [
+  ["ФГОС", "--t-fgos"],
+  ["ГИА", "--t-gia"],
+  ["Семейное образование", "--t-family"],
+  ["Законодательство", "--t-law"],
+  ["Законодательство: регионы", "--t-region"],
+  ["EdTech и ИИ", "--t-edtech"],
+  ["Исследования и данные", "--t-research"],
+];
+const TAG_COLOR = Object.fromEntries(TAGS);
+const SECTIONS = [
+  "Россия: регулирование и госполитика",
+  "Россия: рынок и EdTech",
+  "Мир: K-12 политика и практика",
+  "Мир: EdTech и инвестиции",
+  "Исследования и данные",
+];
+const MONTHS = ["января","февраля","марта","апреля","мая","июня","июля","августа","сентября","октября","ноября","декабря"];
+
+let issues = [];        // [{date, file}], новые сверху
+let digest = null;
+let active = new Set(); // выбранные теги
+
+const $ = (id) => document.getElementById(id);
+function el(tag, attrs = {}, ...children) {
+  const node = document.createElement(tag);
+  for (const [k, v] of Object.entries(attrs)) {
+    if (k === "style") node.setAttribute("style", v);
+    else if (k.startsWith("on")) node.addEventListener(k.slice(2), v);
+    else node.setAttribute(k, v);
+  }
+  for (const c of children.flat()) if (c != null) node.append(c);
+  return node;
+}
+function humanDate(iso) {
+  const [y, m, d] = iso.split("-").map(Number);
+  return { day: String(d), month: `${MONTHS[m - 1]} ${y}` };
+}
+
+function readHash() {
+  const p = new URLSearchParams(location.hash.slice(1));
+  return { issue: p.get("issue"), tags: (p.get("tags") || "").split(",").filter(Boolean) };
+}
+function writeHash() {
+  const p = new URLSearchParams();
+  if (digest && issues[0] && digest.date !== issues[0].date) p.set("issue", digest.date);
+  if (active.size) p.set("tags", [...active].join(","));
+  const s = p.toString();
+  history.replaceState(null, "", s ? "#" + s : location.pathname);
+}
+
+async function loadIssue(date) {
+  const issue = issues.find((i) => i.date === date) || issues[0];
+  const res = await fetch(issue.file);
+  digest = await res.json();
+  digest.date = issue.date;
+  renderIssue();
+  writeHash();
+}
+
+function renderArchive() {
+  const list = $("archive-list"), select = $("archive-select");
+  list.replaceChildren(); select.replaceChildren();
+  for (const i of issues) {
+    const h = humanDate(i.date);
+    const current = digest && i.date === digest.date;
+    list.append(el("li", {}, el("button", {
+      "aria-current": String(current),
+      onclick: () => { loadIssue(i.date); },
+    }, `${h.day} ${h.month}`)));
+    const opt = el("option", { value: i.date }, `Выпуск ${h.day} ${h.month}`);
+    if (current) opt.selected = true;
+    select.append(opt);
+  }
+  select.onchange = () => loadIssue(select.value);
+}
+
+function renderIssue() {
+  const h = humanDate(digest.date);
+  $("issue-day").textContent = h.day;
+  $("issue-month").textContent = h.month;
+  $("lede").textContent = digest.headline;
+  $("stats").textContent = `${digest.items.length} новостей из ${digest.candidates_count} прочитанных материалов`;
+  document.title = `Сводка K-12 · ${h.day} ${h.month}`;
+  renderArchive();
+  renderFilters();
+  renderItems();
+}
+
+function renderFilters() {
+  const box = $("filters");
+  box.replaceChildren();
+  box.append(el("button", {
+    class: "chip reset", "aria-pressed": String(active.size === 0),
+    onclick: () => { active.clear(); update(); },
+  }, "Все темы"));
+  for (const [tag, color] of TAGS) {
+    const n = digest.items.filter((i) => i.tags.includes(tag)).length;
+    const btn = el("button", {
+      class: "chip", style: `--c: var(${color})`,
+      "aria-pressed": String(active.has(tag)),
+      onclick: () => { active.has(tag) ? active.delete(tag) : active.add(tag); update(); },
+    }, el("span", { class: "dot", "aria-hidden": "true" }), tag, el("span", { class: "n" }, String(n)));
+    if (n === 0) btn.disabled = true;
+    box.append(btn);
+  }
+}
+
+function itemNode(item) {
+  const marks = "!".repeat(item.importance);
+  return el("article", { class: "item" },
+    el("div", { class: "marks", title: ["", "Для сведения", "Важно", "Главное"][item.importance], "aria-hidden": "true" },
+      item.importance > 1 ? marks : ""),
+    el("div", {},
+      el("h3", {}, item.title),
+      el("p", {}, item.summary),
+      el("p", { class: "why" }, el("b", {}, "Почему важно: "), item.why_it_matters),
+      el("div", { class: "meta" },
+        item.tags.map((t) => el("span", { class: "tag", style: `--c: var(${TAG_COLOR[t] || "--t-research"})` }, t)),
+        el("span", { class: "sources" },
+          item.sources.map((s) => el("a", { href: s.link, target: "_blank", rel: "noopener", title: s.title }, s.name)))
+      )
+    )
+  );
+}
+
+function renderItems() {
+  const content = $("content");
+  content.replaceChildren();
+  const visible = digest.items.filter((i) => active.size === 0 || i.tags.some((t) => active.has(t)));
+
+  if (!visible.length) {
+    content.append(el("p", { class: "empty" }, "В этом выпуске нет новостей по выбранным темам. ",
+      el("button", { onclick: () => { active.clear(); update(); } }, "Показать все темы")));
+    return;
+  }
+
+  const top = visible.filter((i) => i.importance === 3).slice(0, 5);
+  if (top.length) {
+    content.append(el("section", { class: "top" }, el("h2", {}, "Главное за неделю"), top.map(itemNode)));
+  }
+  for (const s of SECTIONS) {
+    const items = visible.filter((i) => i.section === s && !top.includes(i))
+      .sort((a, b) => b.importance - a.importance);
+    if (items.length) content.append(el("section", {}, el("h2", {}, s), items.map(itemNode)));
+  }
+}
+
+function update() { renderFilters(); renderItems(); writeHash(); }
+
+(async function init() {
+  try {
+    issues = await (await fetch("issues/index.json")).json();
+  } catch (e) {
+    $("lede").textContent = "Выпусков пока нет. Запустите «Сводку новостей» на вкладке Actions в GitHub.";
+    return;
+  }
+  const h = readHash();
+  active = new Set(h.tags.filter((t) => TAG_COLOR[t]));
+  await loadIssue(h.issue);
+  writeHash();
+})();
+</script>
+</body>
+</html>
