@@ -2,6 +2,8 @@ name: Сводка новостей
 
 on:
   workflow_dispatch:   # кнопка «Run workflow» на вкладке Actions
+  schedule:
+    - cron: "50 5 * * 1"   # каждый понедельник в 8:50 по Москве (5:50 UTC), к 9:00 выпуск готов
 
 permissions:
   contents: write      # сохранять отчёты и архив выпусков в репозиторий
