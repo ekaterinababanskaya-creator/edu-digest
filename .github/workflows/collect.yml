@@ -28,10 +28,12 @@ jobs:
         if: env.ANTHROPIC_API_KEY == ''
         run: echo "::warning::Сводка пропущена — добавь секрет ANTHROPIC_API_KEY в Settings → Secrets and variables → Actions"
       - uses: actions/upload-artifact@v4
+        if: always()
         with:
           name: news
           path: data/
       - name: Сохранить отчёты в репозиторий
+        if: always()
         run: |
           git config user.name "edu-digest-bot"
           git config user.email "actions@users.noreply.github.com"

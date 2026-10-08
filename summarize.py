@@ -196,7 +196,18 @@ def main():
     if not os.environ.get("ANTHROPIC_API_KEY"):
         sys.exit("Нет ключа ANTHROPIC_API_KEY. Добавь его в Secrets репозитория.")
 
-    digest = attach_sources(call_claude(user_message), candidates)
+    try:
+        raw = call_claude(user_message)
+    except Exception as e:
+        # Пишем ошибку так, чтобы её было видно на странице запуска и в репозитории
+        message = f"{type(e).__name__}: {e}"[:1500]
+        print(f"::error::{message}")
+        Path("reports").mkdir(exist_ok=True)
+        Path("reports/error.md").write_text(f"# Ошибка сводки\n\n```\n{message}\n```\n", encoding="utf-8")
+        sys.exit(1)
+
+    Path("reports/error.md").unlink(missing_ok=True)
+    digest = attach_sources(raw, candidates)
     Path("data/digest.json").write_text(json.dumps(digest, ensure_ascii=False, indent=2), encoding="utf-8")
     Path("reports").mkdir(exist_ok=True)
     Path("reports/digest.md").write_text(render_markdown(digest), encoding="utf-8")
