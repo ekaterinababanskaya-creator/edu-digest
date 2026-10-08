@@ -121,7 +121,8 @@ def build_user_message(candidates: list[dict]) -> str:
 def call_claude(user_message: str) -> dict:
     import anthropic
 
-    client = anthropic.Anthropic()  # ключ берётся из ANTHROPIC_API_KEY
+    # strip() убирает случайные пробелы и переносы строк, попавшие при копировании ключа
+    client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"].strip())
     response = client.messages.create(
         model=MODEL,
         max_tokens=12000,
