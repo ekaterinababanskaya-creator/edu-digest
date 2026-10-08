@@ -1,4 +1,4 @@
-## Сбор новостей: 435 материалов за 7 дней
+## Сбор новостей: 434 материалов за 7 дней
 
 | Источник | Статус |
 |---|---|
@@ -33,7 +33,7 @@
 | Минпросвещения России | ⏸ отключён |
 | Рособрнадзор | ⏸ отключён |
 | Просвещение (сайт) | ❌ RSS не найден |
-| Просвещение (поиск) | ✅ 4 за 7 дн. (поиск: "группа компаний «Просвещение»" OR "ГК «Просвещение»" OR "издательство «Просвещение»") |
+| Просвещение (поиск) | ✅ 3 за 7 дн. (поиск: "группа компаний «Просвещение»" OR "ГК «Просвещение»" OR "издательство «Просвещение»") |
 | Коммерсантъ — образование | ✅ 25 за 7 дн. (поиск: site:kommersant.ru (школа OR школьники OR образование OR ЕГЭ OR учителя OR EdTech)) |
 | Ведомости — образование | ✅ 25 за 7 дн. (поиск: site:vedomosti.ru (школа OR школьники OR образование OR ЕГЭ OR учителя OR EdTech)) |
 | Актион Образование — Менеджер образования (сайт) | ❌ RSS не найден |
@@ -57,7 +57,7 @@
 - **Мел**: [«Я больше никуда не хочу»: как понять, что расписание ребенка стало слишком плотным](https://news.google.com/rss/articles/CBMiygFBVV95cUxNXzB3NTZjRm9hQVNhRW15bkQyWk9XXzZCWVhQUE81WkJGRXpmbEVraEpIYXA2cmNSUlNNZTFkdm16LUcxb1VDU2JsQWo1VW9lQ0FCc3NDWkNqbllKdTJjYjd4VS1VbUw0TzFoRjBxdlBJY3oweTRueWx1OVdwd2JaT2hURDZ0eVdXNm04VTV2N1drVkR4eFZWYTdfN1RGbkVORHRFLWZNa0ctdndzZHlCd0o2T2R0V2xMZnBQaENvdjQ3UUVINWQ1V2ln0gHKAUFVX3lxTE1fMHc1NmNGb2FBU2FFbXluRDJaT1dfNkJZWFBQTzVaQkZFemZsRWtoSkhhcDZyY1JSU01lMWR2bXotRzFvVUNTYmxBajVVb2VDQUJzc0NaQ2puWUp1MmNiN3hVLVVtTDRPMWhGMHF2UEljejB5NG55bHU5V3B3YlpPaFRENnR5V1c2bThVNXY3V2tWRHh4VlZhN183VEZuRU5EdEUtZk1rRy12d3NkeUJ3SjZPZHRXbExmcFBoQ292NDdRRUg1ZDVXaWc?oc=5)
 - **Счастливые родители**: [«Почему обезьяны передумали становиться людьми?»: учителя поделились самыми забавными вопросами школьников](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPN2E3Qnpjc3JOaW5PQmRXNGFnNU1CbHp3Q3pvUDQ1S2gwV0JETVk4ZEpfNmtJS3RIb2tWNWFMZ2ttaTNScUY1bHhzWWVsbEFjZjlGcm1VcUlkWnN6aFM1Vngtbi1HQmRwUGhtaXhMYW5XOFVVVWlCMWdQMlJkLUgtZGlyZGdzOG9KQUJucENhTzRMZUtFcEwzTzJ2Z3gzaDREQnMxSlFWN21nWTlvLU1xTVJ2aGh1cmplVUNpaG1QVDlsQVBEZW1STkVlTjdVVlk1SWtzZlhOcXBMVHBRTUE?oc=5)
 - **om1.ru**: [«Как вы нас терпите?!»: школьники рассказали, что думают об учителях](https://news.google.com/rss/articles/CBMisAFBVV95cUxNVWZXa2Z3ZTd3R0tHRTQ4cXBsS1d5Yk9mZlcwczBZRmwxQ2pVT3dxeGRFWEt2TUtLT3U3RFhDN1hqTVphSDRSOVJHSUpwQnE1a2JBQktsV0owVHl2b2ptd2RIeV9mVGw1eTc0WlVKRkVJWEJ2UVBqUkNldXhvYmFWY194WUZZWVV6ODBraWFPUWFaa19KaWZDd1B2ZnlLaU9nbTVELUM3XzlPUmhQN3BqNg?oc=5)
-- **ВКонтакте**: [Клиентская поддержка | 100балльный репетитор в VK Клипах](https://news.google.com/rss/articles/CBMiT0FVX3lxTE05b2ttTXlhY2xBRzhzYmtZakc0WTdJMkU1OTV3UVpBQkVnZXhTN0JkMnloWEpmNmJCOC11eTB3cHdONlV4LVoxbUZVakdCX0E?oc=5)
+- **ВКонтакте**: [Клиентская поддержка](https://news.google.com/rss/articles/CBMiT0FVX3lxTE05b2ttTXlhY2xBRzhzYmtZakc0WTdJMkU1OTV3UVpBQkVnZXhTN0JkMnloWEpmNmJCOC11eTB3cHdONlV4LVoxbUZVakdCX0E?oc=5)
 - **Sostav.ru**: [От новых брендов до бережного редизайна: заметных обновлений айдентики и упаковки сентября](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5PdXRlQ1hsSzN5T3luY3RXdTQ3LXlsSkFBZXFFa284QkM5UXJYSzM2cklTWTNMYTVhaVJVZDF1ajR2c3JkNVRCU0dBOUU0TnZ2OG92ZXVOM0lLS1NSMHN1aERn?oc=5)
 - **Газета Тула**: [Юбилейный сезон олимпиады «Ближе к Дальнему» открывает регистрацию для школьников и студентов](https://news.google.com/rss/articles/CBMiTEFVX3lxTE4tcXRybFF0SVVDSHhhTkZzbGppZGNfNmx1QnY2bXd6eU9ydzM2eHM1SFBrQ3RhNTVOdmFzcjN3eXkwVDZTenR4VFAyVE8?oc=5)
 - **Стальная искра**: [Школьников Южного Урала приглашают принять участие в онлайн-олимпиаде «Безопасные дороги»](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSUVxdFRKN3lsUENaS0dHVERfVElLVFczcGZYS1czenZHTGV3ZU9ib3JQMkNGLTZQaUMyREpiWjZJS0tQT0lSTGlJSmxweXBDREVnMXYwWlYyM1BEaDVNZTdxYzJJWG5BbTkwVmZXMnZpTjFyUTduSWZyZzRhcEtZTGcwc3ViT25Ybmdnckdwc0ZhYW5EVzFjcllQN0d4NmJJZ1B2b0pDSElCMHBXVS1iaGhQU2lJemNOVGww?oc=5)
