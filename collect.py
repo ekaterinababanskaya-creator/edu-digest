@@ -149,6 +149,8 @@ def collect_source(source: dict, since: datetime) -> tuple[list[dict], str]:
             # В Google Новостях заголовок выглядит как «Заголовок - Издание»
             if " - " in title:
                 title, publisher = title.rsplit(" - ", 1)
+            # «Заголовок| Информационный портал…» — убираем хвост с названием сайта
+            title = re.sub(r"\s*\|[^|]*$", "", title).strip()
             summary = ""  # в поисковой ленте описание просто повторяет заголовок
         items.append({
             "source": publisher,
