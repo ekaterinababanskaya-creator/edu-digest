@@ -1,9 +1,9 @@
 ## Фильтр новостей
 
-- Всего собрано: 239
+- Всего собрано: 238
 - Дублей убрано: 1
 - Отброшено стоп-словами: 12
-- Без тегов («Прочее»): 156
+- Без тегов («Прочее»): 155
 - **Осталось для сводки: 70**
 
 | Тег | Новостей |
@@ -48,12 +48,12 @@
 - **Учительская газета**: [Мастерство и наставничество в СПО: как готовить кадры для технологического лидерства](https://ug.ru/masterstvo-i-nastavnichestvo-v-spo-kak-gotovit-kadry-dlya-tehnologicheskogo-liderstva/) `Законодательство, Законодательство: регионы`
 - **Учительская газета**: [Назван победитель конкурса «Первый учитель»](https://ug.ru/nazvan-pobeditel-konkursa-pervyj-uchitel/) `Законодательство, Законодательство: регионы`
 - **Учительская газета**: [«Воспитатель года России»: кто стал победителем](https://ug.ru/vospitatel-goda-rossii-kto-stal-pobeditelem/) `Законодательство, Законодательство: регионы`
-- **Учительская газета**: [Новый формат «Разговоров о важном»: видеоролики о героях и 28 тем о выдающихся личностях](https://ug.ru/novyj-format-razgovorov-o-vazhnom-videoroliki-o-geroyah-i-28-tem-o-vydayushhihsya-lichnostyah/) `Законодательство`
 - **Мел**: [Рособрнадзор объявил сроки ВПР на 2027 год и рассказал об изменениях в системе оценки. Контрольные пройдут пройдут с 19 апреля по 21 мая](https://mel.fm/novosti/317584-rosobrnadzor-obyavil-sroki-vpr-na-2027-god-i-rasskazal-ob-izmeneniyakh-v-sisteme-otsenki) `Законодательство`
 - **Мел**: [В Москве троих восьмилетних детей заподозрили в жестоком обращении с животными. Очевидцы говорят, что они забили камнями кота и голубей](https://mel.fm/novosti/2069183-v-moskve-troikh-vosmiletnikh-detey-zapodozrili-v-zhestokom-obrashchenii-s-zhivotnymi) `Законодательство, Законодательство: регионы`
 - **Мел**: [В Госдуме предложили ввести для учителей дополнительный оплачиваемый день отдыха. Выходной не нужно будет отрабатывать](https://mel.fm/novosti/1948263-v-gosdume-predlozhili-vvesti-dlya-uchiteley-dopolnitelny-oplachivayemy-den-otdykha) `Законодательство`
 - **Мел**: [Минпросвещения утвердило примерный перечень игр, литературных и музыкальных произведений для детских садов. Они должны знакомить детей с былинными героями и историей страны](https://mel.fm/novosti/1903475-minprosveshcheniya-utverdilo-primerny-perechen-igr-literaturnykh-i-muzykalnykh-proizvedeny-dlya-dets) `Законодательство`
 - **Education Week**: [Supreme Court Rejects Appeal Over School's Ban of 'Let's Go Brandon' Sweatshirts](https://www.edweek.org/policy-politics/supreme-court-rejects-appeal-over-schools-ban-of-lets-go-brandon-sweatshirts/2026/10) `Законодательство`
+- **The 74**: [First Priority for CA Next State Superintendent: Negotiate a Job Description](https://www.the74million.org/article/first-priority-for-ca-next-state-superintendent-negotiate-a-job-description/) `Законодательство`
 - **The 74**: [U.S. Dept of Education Broadens School Sex Abuse Probe, Cites The 74’s Reporting](https://www.the74million.org/article/u-s-dept-of-education-broadens-school-sex-abuse-probe-cites-the-74s-reporting/) `Законодательство`
 - **The 74**: [MD School Officials Celebrate Drop in Chronic Absenteeism, but Are Still Shy of Goal](https://www.the74million.org/article/school-officials-celebrate-drop-in-chronic-absenteeism-but-are-still-shy-of-goal/) `Законодательство`
 - **Chalkbeat**: [U.S. Department of Education investigating school districts’ handling of sexual misconduct claims](https://www.chalkbeat.org/2026/10/06/education-department-investigates-nyc-jeffco-schools-sexual-misconduct/) `Законодательство`
@@ -174,6 +174,7 @@
 - **Педсовет**: [Что такое аграмматизмы в речи младших школьников](https://pedsovet.org/article/cto-takoe-agrammatizmy-v-reci-mladsih-skolnikov)
 - **Педсовет**: [Как создать комфортные условия в школе для детей с ОВЗ](https://pedsovet.org/article/kak-sozdat-komfortnye-uslovia-v-skole-dla-detej-s-ovz)
 - **Педсовет**: [Как учителю защититься от приставаний и провокаций учеников](https://pedsovet.org/article/kak-ucitelu-zasititsa-ot-pristavanij-i-provokacij-ucenikov)
+- **Мел**: [Продюсер Картозия перевел студентке киноколледжа деньги, взысканные с режиссера Андреасяна после спора о Тарковском. "Ты – молодец, Сима!", – обратился Картозия к девушке](https://mel.fm/novosti/2364085-prodyuser-kartoziya-perevel-studentke-kinokolledzha-dengi-vzyskannyye-s-rezhissera-andreasyana-posle)
 - **Мел**: [Фразеологический словарь включили в список нормативных словарей русского языка. Весь перечень будет доступен в Национальном словарном фонде](https://mel.fm/novosti/9620783-frazeologichesky-slovar-vklyuchili-v-spisok-normativnykh-slovarey-russkogo-yazyka)
 - **Мел**: [Нобелевскую премию по литературе за 2026 год получила канадская писательница Энн Карсон. Карсон 76 лет, сейчас она находится в Исландии и "слушает ветер"](https://mel.fm/novosti/3617042-nobelevskuyu-premiyu-po-literature-za-2026-god-poluchila-kanadskaya-pisatelnitsa-enn-karson)
 - **Мел**: [Из подмосковного реабилитационного центра в инфекционную больницу госпитализировали 5 детей. У них предположительно ротавирус](https://mel.fm/novosti/4809135-iz-podmoskovnogo-reabilitatsionnogo-tsentra-v-infektsionnuyu-bolnitsu-gospitalizirovali-5-detey)
@@ -206,7 +207,6 @@
 - **Мел**: [Мать четверых детей Илона Маска заявила о неожиданном разрыве с миллиардером. Он даже отписался от нее в соцсетях](https://mel.fm/novosti/7128560-tyazhelo-za-odnu-nedelyu-pereyti-ot-lyubvi-k-rasstavaniyu-bez-vsyakogo-preduprezhdeniya-mat-chetvery)
 - **Мел**: [СМИ: в Забайкальском крае ищут министра образования по объявлению. И его заместителя тоже](https://mel.fm/novosti/6879302-smi-v-zabaykalskom-kraye-ishchut-ministra-obrazovaniya-po-obyavleniyu)
 - **Мел**: [«Плевок в сторону учителей»: на Ямале педагогов возмутили премии ко Дню учителя. В этом году она составила 15 000 рублей](https://mel.fm/novosti/4805169-plevok-v-storonu-uchiteley-na-yamale-pedagogov-vozmutili-premii-ko-dnyu-uchitelya)
-- **Мел**: [Zara отозвала из продажи детский костюм, который похож на одежду жертв Холокоста. На него обратили внимание в соцсетях](https://mel.fm/novosti/1478603-zara-otozvala-s-prodazhi-detsky-kostyum-kotory-pokhozh-na-odezhdu-zhertv-kholokosta)
 - **Education Week**: [Strategies to Create a Culture of Reading in Schools](https://www.edweek.org/events/k-12-essentials-forum/strategies-to-create-a-culture-of-reading-in-schools)
 - **Education Week**: [Measuring What Matters: How District Leaders Are Redefining Student Assessment](https://www.edweek.org/events/webinar/measuring-what-matters-redefining-student-assessment)
 - **Education Week**: [EdMarketer Quick Hit: Build Campaigns That Engage K-12 Leaders](https://www.edweek.org/events/webinar/edmarketer-quick-hit-build-campaigns-that-engage-k-12-leaders)
@@ -245,7 +245,6 @@
 - **The 74**: [Opinion: Why Schools Need a Phonics-Style Reckoning for Math](https://www.the74million.org/article/why-schools-need-a-phonics-style-reckoning-for-math/)
 - **The 74**: [Here’s What it Takes to Feed LAUSD Students Each Day](https://www.the74million.org/article/heres-what-it-takes-to-feed-lausd-students-each-day/)
 - **The 74**: [Opinion: How I Started My Path to a Career in Healthcare While Still in High School](https://www.the74million.org/article/how-i-started-my-path-to-a-career-in-healthcare-while-still-in-high-school/)
-- **The 74**: [Childcare Workers in NC Struggle to Afford Care for Their Own Kids](https://www.the74million.org/zero2eight/childcare-workers-struggle-to-afford-care-for-their-own-kids-nc-communities-are-testing-solutions/)
 - **Chalkbeat**: [Voter guide 2026: Jeffco Public Schools 5A and 5B would fund salary increases, building fixes](https://www.chalkbeat.org/colorado/2026/10/07/voter-guide-jeffco-public-schools-ballot-issues-5a-5b/)
 - **Chalkbeat**: [Getting lots of mailers and texts about the 2026 Chicago school board election? Send them to us.](https://www.chalkbeat.org/chicago/2026/10/07/send-us-your-mailers-texts-and-ads-for-2026-school-board-election/)
 - **Chalkbeat**: [Reopening of Chicago Public Schools watchdog inquiry roils candidate’s bid for school board president](https://www.chalkbeat.org/chicago/2026/10/07/chicago-public-schools-watchdog-reopens-inquiry-into-hilario-dominguez/)
