@@ -1,39 +1,39 @@
-## Сбор новостей: 420 материалов за 7 дней
+## Сбор новостей: 422 материалов за 7 дней
 
 | Источник | Статус |
 |---|---|
-| Онлайн-школа №1 | ✅ 2 за 7 дн. (поиск: "Онлайн-школа №1" OR "Онлайн школа №1" OR "Онлайн-школа № 1") |
+| Онлайн-школа №1 | ✅ 1 за 7 дн. (поиск: "Онлайн-школа №1" OR "Онлайн школа №1" OR "Онлайн-школа № 1") |
 | БИТ | ⚠️ лента пустая (https://news.google.com/rss/search?q=%22%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-%D1%88%D0%BA%D0%BE%D0%BB%D0%B0%20%D0%91%D0%98%D0%A2%22%20OR%20%22%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD%20%D1%88%D0%BA%D0%BE%D0%BB%D0%B0%20%D0%91%D0%98%D0%A2%22%20when%3A7d&hl=ru&gl=RU&ceid=RU:ru) |
-| ИнтернетУрок | ✅ 1 за 7 дн. (поиск: "ИнтернетУрок" OR "InternetUrok" OR "Интернет-урок") |
+| ИнтернетУрок | ✅ 2 за 7 дн. (поиск: "ИнтернетУрок" OR "InternetUrok" OR "Интернет-урок") |
 | 100балльный репетитор | ✅ 1 за 7 дн. (поиск: "100балльный репетитор" OR "Стобалльный репетитор" OR "100-балльный репетитор") |
 | Учи.ру | ✅ 10 за 7 дн. (поиск: "Учи.ру" OR "Uchi.ru") |
 | Тетрика | ⚠️ лента пустая (https://news.google.com/rss/search?q=%22%D0%A2%D0%B5%D1%82%D1%80%D0%B8%D0%BA%D0%B0%22%20OR%20%22Tetrika%22%20when%3A7d&hl=ru&gl=RU&ceid=RU:ru) |
 | Умназия | ⚠️ лента пустая (https://news.google.com/rss/search?q=%22%D0%A3%D0%BC%D0%BD%D0%B0%D0%B7%D0%B8%D1%8F%22%20when%3A7d&hl=ru&gl=RU&ceid=RU:ru) |
-| Skysmart | ✅ 1 за 7 дн. (поиск: "Skysmart" OR "Скайсмарт") |
+| Skysmart | ⚠️ лента пустая (https://news.google.com/rss/search?q=%22Skysmart%22%20OR%20%22%D0%A1%D0%BA%D0%B0%D0%B9%D1%81%D0%BC%D0%B0%D1%80%D1%82%22%20when%3A7d&hl=ru&gl=RU&ceid=RU:ru) |
 | Онлайн-гимназия №1 | ⚠️ лента пустая (https://news.google.com/rss/search?q=%22%D0%9E%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-%D0%B3%D0%B8%D0%BC%D0%BD%D0%B0%D0%B7%D0%B8%D1%8F%20%E2%84%961%22%20OR%20%22%D0%9E%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD%20%D0%B3%D0%B8%D0%BC%D0%BD%D0%B0%D0%B7%D0%B8%D1%8F%20%E2%84%961%22%20OR%20%22%D0%9E%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-%D0%B3%D0%B8%D0%BC%D0%BD%D0%B0%D0%B7%D0%B8%D1%8F%20%E2%84%96%201%22%20when%3A7d&hl=ru&gl=RU&ceid=RU:ru) |
-| Наши пенаты | ⚠️ лента пустая (https://news.google.com/rss/search?q=%22%D0%9D%D0%B0%D1%88%D0%B8%20%D0%BF%D0%B5%D0%BD%D0%B0%D1%82%D1%8B%22%20%D1%88%D0%BA%D0%BE%D0%BB%D0%B0%20when%3A7d&hl=ru&gl=RU&ceid=RU:ru) |
+| Наши пенаты | ✅ 1 за 7 дн. (поиск: "Наши пенаты" школа) |
 | Феникс | ⚠️ лента пустая (https://news.google.com/rss/search?q=%22%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-%D1%88%D0%BA%D0%BE%D0%BB%D0%B0%20%D0%A4%D0%B5%D0%BD%D0%B8%D0%BA%D1%81%22%20OR%20%22%D1%88%D0%BA%D0%BE%D0%BB%D0%B0%20%D0%A4%D0%B5%D0%BD%D0%B8%D0%BA%D1%81%22%20%D1%81%D0%B5%D0%BC%D0%B5%D0%B9%D0%BD%D0%BE%D0%B5%20when%3A7d&hl=ru&gl=RU&ceid=RU:ru) |
-| Учи.ру (Telegram) | ✅ 8 за 7 дн. (Telegram: @uchi_ru_official) |
-| Skysmart для родителей (Telegram) | ✅ 2 за 7 дн. (Telegram: @Skysmart_for_parents) |
-| БИТ (Telegram) | ✅ 4 за 7 дн. (Telegram: @schoolbit) |
-| Умскул (Telegram) | ✅ 10 за 7 дн. (Telegram: @umschool_official) |
-| eurogymonline (Telegram) | ✅ 2 за 7 дн. (Telegram: @eurogymonline) |
+| Учи.ру (Telegram) | ✅ 7 за 7 дн. (Telegram: @uchi_ru_official) |
+| Skysmart для родителей (Telegram) | ✅ 5 за 7 дн. (Telegram: @Skysmart_for_parents) |
+| БИТ (Telegram) | ✅ 3 за 7 дн. (Telegram: @schoolbit) |
+| Умскул (Telegram) | ✅ 14 за 7 дн. (Telegram: @umschool_official) |
+| eurogymonline (Telegram) | ✅ 0 за 7 дн. (Telegram: @eurogymonline) |
 | LyceumOnline (Telegram) | ⚠️ нет открытой ленты постов (https://t.me/s/LyceumOnline) — возможно, это бот или закрытый канал |
-| edtexno (Telegram) | ✅ 19 за 7 дн. (Telegram: @edtexno) |
+| edtexno (Telegram) | ✅ 20 за 7 дн. (Telegram: @edtexno) |
 | Инновации и образование (Telegram) | ✅ 5 за 7 дн. (Telegram: @innovation_and_education) |
-| edtrends (Telegram) | ✅ 6 за 7 дн. (Telegram: @edtrends) |
+| edtrends (Telegram) | ✅ 8 за 7 дн. (Telegram: @edtrends) |
 | Forbes Education (Telegram) | ✅ 12 за 7 дн. (Telegram: @forbes_education) |
 | eduhubpro (Telegram) | ✅ 2 за 7 дн. (Telegram: @eduhubpro) |
 | Минпросвещения России (поиск) | ✅ 25 за 7 дн. (поиск: "Минпросвещения" OR "Министерство просвещения") |
 | Рособрнадзор (поиск) | ✅ 25 за 7 дн. (поиск: "Рособрнадзор") |
 | Департамент образования и науки Москвы | ✅ 25 за 7 дн. (поиск: "Департамент образования и науки" Москвы) |
-| Комитет по образованию Санкт-Петербурга | ✅ 9 за 7 дн. (поиск: "Комитет по образованию" Петербург) |
-| Минобразования Краснодарского края | ✅ 16 за 7 дн. (поиск: "Министерство образования" "Краснодарского края" OR "минобрнауки Кубани") |
-| Минобрнауки Татарстана | ✅ 10 за 7 дн. (поиск: "Министерство образования и науки" Татарстан OR "Минобрнауки РТ") |
+| Комитет по образованию Санкт-Петербурга | ✅ 10 за 7 дн. (поиск: "Комитет по образованию" Петербург) |
+| Минобразования Краснодарского края | ✅ 12 за 7 дн. (поиск: "Министерство образования" "Краснодарского края" OR "минобрнауки Кубани") |
+| Минобрнауки Татарстана | ✅ 14 за 7 дн. (поиск: "Министерство образования и науки" Татарстан OR "Минобрнауки РТ") |
 | Минпросвещения России | ⏸ отключён |
 | Рособрнадзор | ⏸ отключён |
 | Просвещение (сайт) | ❌ RSS не найден |
-| Просвещение (поиск) | ✅ 5 за 7 дн. (поиск: "группа компаний «Просвещение»" OR "ГК «Просвещение»" OR "издательство «Просвещение»") |
+| Просвещение (поиск) | ⚠️ лента пустая (https://news.google.com/rss/search?q=%22%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D0%B0%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B9%20%C2%AB%D0%9F%D1%80%D0%BE%D1%81%D0%B2%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5%C2%BB%22%20OR%20%22%D0%93%D0%9A%20%C2%AB%D0%9F%D1%80%D0%BE%D1%81%D0%B2%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5%C2%BB%22%20OR%20%22%D0%B8%D0%B7%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE%20%C2%AB%D0%9F%D1%80%D0%BE%D1%81%D0%B2%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5%C2%BB%22%20when%3A7d&hl=ru&gl=RU&ceid=RU:ru) |
 | Коммерсантъ — образование | ✅ 25 за 7 дн. (поиск: site:kommersant.ru (школа OR школьники OR образование OR ЕГЭ OR учителя OR EdTech)) |
 | Ведомости — образование | ✅ 25 за 7 дн. (поиск: site:vedomosti.ru (школа OR школьники OR образование OR ЕГЭ OR учителя OR EdTech)) |
 | Актион Образование — Менеджер образования (сайт) | ❌ RSS не найден |
@@ -42,45 +42,45 @@
 | Интерфакс-Академия | ⏸ отключён |
 | Педсовет | ✅ 5 за 7 дн. (https://pedsovet.org/rss/) |
 | Мел | ✅ 25 за 7 дн. (https://mel.fm/rss/default-news) |
-| Education Week | ✅ 25 за 7 дн. (https://www.edweek.org/index.rss) |
+| Education Week | ✅ 15 за 7 дн. (https://www.edweek.org/index.rss) |
 | K-12 Dive | ✅ 10 за 7 дн. (https://www.k12dive.com/feeds/news/) |
 | The 74 | ✅ 25 за 7 дн. (https://www.the74million.org/feed/) |
 | Chalkbeat | ✅ 25 за 7 дн. (https://www.chalkbeat.org/arc/outboundfeeds/rss/) |
-| The Hechinger Report | ✅ 2 за 7 дн. (https://hechingerreport.org/feed/) |
+| The Hechinger Report | ✅ 10 за 7 дн. (https://hechingerreport.org/feed/) |
 | Schools Week (UK) | ⏸ отключён |
-| EdSurge | ✅ 3 за 7 дн. (https://www.edsurge.com/feed/) |
+| EdSurge | ✅ 4 за 7 дн. (https://www.edsurge.com/feed/) |
 | HolonIQ | ⏸ отключён |
-| OECD Education and Skills Today | ✅ 0 за 7 дн. (https://oecdedutoday.com/feed/) |
+| OECD Education and Skills Today | ✅ 1 за 7 дн. (https://oecdedutoday.com/feed/) |
 
 ### Первые 30 заголовков
 
-- **Счастливые родители**: [«Почему обезьяны передумали становиться людьми?»: учителя поделились самыми забавными вопросами школьников](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPN2E3Qnpjc3JOaW5PQmRXNGFnNU1CbHp3Q3pvUDQ1S2gwV0JETVk4ZEpfNmtJS3RIb2tWNWFMZ2ttaTNScUY1bHhzWWVsbEFjZjlGcm1VcUlkWnN6aFM1Vngtbi1HQmRwUGhtaXhMYW5XOFVVVWlCMWdQMlJkLUgtZGlyZGdzOG9KQUJucENhTzRMZUtFcEwzTzJ2Z3gzaDREQnMxSlFWN21nWTlvLU1xTVJ2aGh1cmplVUNpaG1QVDlsQVBEZW1STkVlTjdVVlk1SWtzZlhOcXBMVHBRTUE?oc=5)
-- **om1.ru**: [«Как вы нас терпите?!»: школьники рассказали, что думают об учителях](https://news.google.com/rss/articles/CBMisAFBVV95cUxNVWZXa2Z3ZTd3R0tHRTQ4cXBsS1d5Yk9mZlcwczBZRmwxQ2pVT3dxeGRFWEt2TUtLT3U3RFhDN1hqTVphSDRSOVJHSUpwQnE1a2JBQktsV0owVHl2b2ptd2RIeV9mVGw1eTc0WlVKRkVJWEJ2UVBqUkNldXhvYmFWY194WUZZWVV6ODBraWFPUWFaa19KaWZDd1B2ZnlLaU9nbTVELUM3XzlPUmhQN3BqNg?oc=5)
-- **prospect.com.ru**: [ДНР за счет активности бизнеса превзошла норматив по числу магазинов](https://news.google.com/rss/articles/CBMiswFBVV95cUxNZzZjQUItM3ZZZVl4ZFdXR0xvYmhpQ3JWdHBDZmJsa045cm1naVAycV96M2JFSUdTV0RzSGlSUG1hZ2FTUXQtOVhockZQMjV2X3dOTTNnNjJqQ3hNdk5jWEFhdU5PMGhXN3VXWmxERWRvajR5OWZDSmhoWW0wWFZXdkpNTXIxZEhqWkh6aGF5WFh1RmhzajltVlBqenAtUFo3NVdKVThMaWhPVzdrWU93UjFXNA?oc=5)
-- **ВКонтакте**: [Клиентская поддержка](https://news.google.com/rss/articles/CBMiT0FVX3lxTE05b2ttTXlhY2xBRzhzYmtZakc0WTdJMkU1OTV3UVpBQkVnZXhTN0JkMnloWEpmNmJCOC11eTB3cHdONlV4LVoxbUZVakdCX0E?oc=5)
-- **kommunarmelenki.ru**: [Онлайн-олимпиада «Безопасные дороги 2026»](https://news.google.com/rss/articles/CBMif0FVX3lxTFA2RFIxTmk3T01fbFBLckxNRE9vXzRTZ0FmajlJc2NGUG9BTm45b3YwR2NFTURCTEZLM2RjMGtVeV8ydWxTbk9naGs1Rm9ZU3pfaksyd2JIRVY5aW9lcnRWbDluNzVjLWc4bWtndlpmR1FXbnFsSGpsRmtldEVuOGs?oc=5)
-- **Администрация ГО "Город Калининград"**: [Онлайн-олимпиада «Безопасные дороги»](https://news.google.com/rss/articles/CBMiZEFVX3lxTE13N1hoZFNzeG5UVWxnRGJOYzlGLWxSUlMtVmJ0bzZydDRtVGpiTEVIWndEUVljN1oyUkFDWUhENlBaWTZGR3d1OTh4MFVZMlM0am16d2JQdHFTY1VPdlNNa1IzNVc?oc=5)
-- **Sostav.ru**: [От новых брендов до бережного редизайна: заметных обновлений айдентики и упаковки сентября](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5PdXRlQ1hsSzN5T3luY3RXdTQ3LXlsSkFBZXFFa284QkM5UXJYSzM2cklTWTNMYTVhaVJVZDF1ajR2c3JkNVRCU0dBOUU0TnZ2OG92ZXVOM0lLS1NSMHN1aERn?oc=5)
-- **Газета Тула**: [Юбилейный сезон олимпиады «Ближе к Дальнему» открывает регистрацию для школьников и студентов](https://news.google.com/rss/articles/CBMiTEFVX3lxTE4tcXRybFF0SVVDSHhhTkZzbGppZGNfNmx1QnY2bXd6eU9ydzM2eHM1SFBrQ3RhNTVOdmFzcjN3eXkwVDZTenR4VFAyVE8?oc=5)
-- **Рамблер**: [Олимпиада «Безопасные дороги»](https://news.google.com/rss/articles/CBMif0FVX3lxTE15TWdWS1dhVVVZeTFoUkVweF9QWlB4LUZMZXlxQ242TXJfYmQ3cFRYR1NkVllvMTRhX2g0RDMtZ2VNQkhodEczdGUwWWJLaVZFMXUwTmpRcmhFd1gwTXVGT3IzOHYzVXg1TnB2WWczSjhTbUE4WEFmR3lJZ2RJYWfSAX9BVV95cUxNeU1nVktXYVVVWXkxaFJFcHhfUFpQeC1GTGV5cUNuNk1yX2JkN3BUWEdTZFZZbzE0YV9oNEQzLWdlTUJIaHRHM3RlMFliS2lWRTF1ME5qUXJoRXdYME11Rk9yMzh2M1V4NU5wdllnM0o4U21BOFhBZkd5SWdkSWFn?oc=5)
-- **CNews.ru**: [Спрос на онлайн-обучение для школьников вырос на 40% –– исследование Mail и «Учи.ру](https://news.google.com/rss/articles/CBMidkFVX3lxTE4yZnBGMUR4NUJnRzVvTExKdVp3aENOTmNUODFzOWowVnF6MVNTT09hemd5OVJld0d2aDFnNDBDSHl5OWd2U2tLNndBaDVsSk9sYUlXenR1Vm5Gc3lLVXFxN0hHa213bGZxNDZsZXdqTS1SWDdVVFE?oc=5)
-- **ВФокусе Mail**: [VK Education запустила бесплатный курс «Учительская» для педагогов школ](https://news.google.com/rss/articles/CBMirAFBVV95cUxNWF9Wc0N0aFE5RHR2UDFuMVRBM0tVWXNjZDFHWWdiRU1pQVEzTFdtMzlyV0JBY3lQMGk1dWsxZ3FGaDVSb01KRVBBRGZCMXVIQ0xqc1BvOElwbXFrQlhrMlVtWnJYV3lENmlsQVV3X1VyMDdSYVRYYzY1VDJNeVBpZ2hsOHZKTmxiRWZSaUVUQWF6cGFSMGxSY1ZqZldHWkVqOE9aV3JpYkRSUlB0?oc=5)
-- **Techora.ru**: [VK Education запустила бесплатный курс «Учительская» для педагогов](https://news.google.com/rss/articles/CBMijwFBVV95cUxNSG1Fa2k4djFCN0RLdS1pdkpRRmV0a0xUOWNUeXo3MXp2RmwwVXVBazNENFRmZFFSRHV1X1RxY0VMX3BQN0ZsU3FOVDV6ZUNBdUo5QzA5aFVvQUV5TUR0SklyVzE2NC1FVFc4Nm9jdlJUS1JXbC1sNG4xbFZxZVlrQktnMW5OWklfYjhwSTlrSQ?oc=5)
-- **prospect.com.ru**: [Спрос на онлайн-обучение для школьников вырос на 40% –– исследование Mail и «Учи.ру»](https://news.google.com/rss/articles/CBMivgFBVV95cUxNS1k3YzY0T0NMRzFYN3NRRTV4XzZDelV5cG4yRDRxdnZqcGRUMng0M1J6Uld6RWhmbE5vVTJuZnRNWGZWSmtkNHh1UTNPSGhmVmhzcXctS3NtR3ZhQlNDSlFyVnFnUWZYQ0dNbFljNVpZVExJWnN1U1pRTF9jaE1oYWRHVFkwdnR6U1NkMWJvd25vT0VnNnBxNTE0NmE2N25GTjBGaUpFYW1DUWtCWFdBR0JRdVR4UEFJSmdyRE9B?oc=5)
-- **ProKazan.ru**: [Спрос на онлайн-обучение для школьников вырос на 40%](https://news.google.com/rss/articles/CBMijAFBVV95cUxOOFNjOU8yblRIdFN0NHBJckdrakFYNjdNUklOWlBUZHZHZ0xiS2VuN0RSbXcybVZqcnJEVTN0dlZESmdNYXVxMFViSUVhYUw5WlJuRXNHWjVndC0zOE8xTndDSGRTUHlIX19taldPaC0xcGdpZUJGRlV1NEdfd2w2UTdVeEphOUNxMVpxWg?oc=5)
-- **www.polskieradio.pl**: [В Кракове впервые проходит DRONE SECURITY EXPO: технологии дронов и опыт Украины](https://news.google.com/rss/articles/CBMioARBVV95cUxPN3N5UjVwckxJWWJheWo2QzNIQVNBMTVfTnNwOU52dm1aTmdIUEN0MW9aWFpZczNFYmJKcTduRFpRSThtSE5MX0lEUTRMeS1VSkE5WGlPU2k2UlJQSUlaU1Q5SmRTVnhsT0FGcjZOWkwwdlBkaG15S3BxRFlKdkFWV1lNSU5lUkowd3pvS3k1UUM1bXN1aHBkRWxQbU1Pa2dGaF9Yd0xlWGtHVy16YVpRczBzSzdIUkswN0s0T0RXeXplV3lEVVdLRzlDSHhBenctbHNhdmRocFFpQlQ1bUFJM0hidElwYnRNaDRNMVRVN3Qxalo0N2NnRGh5RXVtQ2JTUFk1ZzZMUE1Vb3QyeFRRYzJUc0lWMlNzaXRURzVKUUh1SDZHQm9XbDMzSVZaMG5xcW1wWFROWVBrRzVKTFRTRmNpVEttZWYzZmVheG4zTmU0WWs2aHpLSkkxYjBjZ3d0TV9GNXZSWUZ3dDlXZkFxbXp3My1iYmsyeXVnV3JRSEQydVNYSVR1UTY5Q21BRThucTZYZXdCMDdQc0syWXNkd0wtUlYxclJJLVl1NXktTW41eG42YkxyUnRISkp3R0tFT2lyTUY1X0ktX2VkUHFsdy1tVTZqcUczajdpYVEzdHZCWHFkU092QTFPOWtkOXpPQWJOVXNPcFFnTHc3TmY1alRQS2Z2SE51WFdCRkMtQVBsWEw3YU81Smh1UUxXbUIz?oc=5)
-- **Учи.ру (Telegram)**: [Фух, старт учебного года пережили 👍 Давай вспомним, каким был сентябрь.](https://t.me/uchi_ru_official/2937)
-- **Учи.ру (Telegram)**: [😁 Напевать: «Я тебя могну» 🥲 Не закатывать глаза, когда это говорит ребенок Детям нужен надежный взрослый рядом, который их принимает и…](https://t.me/uchi_ru_official/2934)
-- **Учи.ру (Telegram)**: [Первый месяц школы — это марафон 😅 Поздравляем!](https://t.me/uchi_ru_official/2927)
-- **Учи.ру (Telegram)**: [💭 «Мы же вчера всё разобрали…» А сегодня снова двойка.](https://t.me/uchi_ru_official/2926)
-- **Учи.ру (Telegram)**: [🤔 Мы не знаем, что будет через десять лет.](https://t.me/uchi_ru_official/2925)
-- **Учи.ру (Telegram)**: [😋 Предлагаем небольшую разминку!](https://t.me/uchi_ru_official/2924)
-- **Учи.ру (Telegram)**: [😯 Личный пример работает лучше лекций, правил и уговоров.](https://t.me/uchi_ru_official/2923)
-- **Учи.ру (Telegram)**: [Не ждали?](https://t.me/uchi_ru_official/2920)
-- **Skysmart для родителей (Telegram)**: [Записывайтесь по ссылке на бесплатную встречу с методистом нашей онлайн-школы: проверим уровень знаний ребёнка и подберём преподавателя…](https://t.me/Skysmart_for_parents/7720)
-- **Skysmart для родителей (Telegram)**: [Приглашаем на бесплатную встречу с методистом нашей онлайн-школы: проверим уровень знаний ребёнка, подберём репетитора по школьным…](https://t.me/Skysmart_for_parents/7712)
-- **БИТ (Telegram)**: [2 октября состоялась наша первая встреча с родителями в рамках проекта «БИТ о главном».](https://t.me/schoolbit/2331)
-- **БИТ (Telegram)**: [Ребенок знает правила, но в диктанте все равно делает ошибки?](https://t.me/schoolbit/2330)
-- **БИТ (Telegram)**: [💭 Школа заканчивается, но некоторые привычки остаются с нами надолго.](https://t.me/schoolbit/2324)
-- **БИТ (Telegram)**: [С Днем учителя!](https://t.me/schoolbit/2316)
-- **Умскул (Telegram)**: [ребята, которые прошли наши Профпробы в Казани, могут точно ответить на вопрос «кем я стану, когда вырасту» 👩‍💻 это проект, благодаря…](https://t.me/umschool_official/14158)
+- **spbdnevnik.ru**: [Родителям рассказали, как говорить с ребенком о школьных проступках](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYTVINHp5TG5uR0VsOVBSczlSVVIyZmgwRFhfSFRwbGFlZnB2NGlsNGlTUDlLbXVUM0UwNzU4MTkyZEtTQnFObkxjdk9lQmgtZmQ3SXBxNGNsRlNSdWlNZHBuX1JqUFZrRlFvTnpGNHVnSjRwaW40YnRWUXVXdHdIMk9UQ0xkVUFCdE5ZdzFpeWJrb2tzb1FZc0o0cl8tTEQ1V1p5ZFRjc0ZnUQ?oc=5)
+- **prospect.com.ru**: [Брянская область наращивает темпы ремонта дорог и повышает транспортную доступность](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOY3M2T3hXRDdQY19QaFNDTDM0Q0dfRjIySWZZYVJQTktnR1dYU2l6Qm4yY3FNdGU0WDFPbmpkaDFEbXZ5M3NOeVRjUWRVSkZiMUtySFVCX08zWUJvMzFHSHFiNTNHc0NFcHZEa1pqZFY2NFdKbEdBSVFpSDdacU0xZ2llSnBISHRHYmxqXzZDd0pudjZmejVXVnRjdjIzVjNSeWJjOVZFek9kQmwyLXgwNEJHR3lsWHUzOVNCSUtySmt4QVlHaVVzYg?oc=5)
+- **prospect.com.ru**: [«Почта России» повысит выручку за счет повышенной комиссии за доставку пенсий](https://news.google.com/rss/articles/CBMivgFBVV95cUxNY0hCcENESlpDODhmMW41c1RuOWRZZ01icm4yaXphUTllZmUzXzk0M0tzV19IVmFLZVhMX1lJcWE2NHhnakZlN1VJMFFwalpPUzJ5VnFjZHl6dzRMWEdDMlR3NEZ2T3N1NjN5a3NnTnVZNGc0Vk1EWExmb1l5QkxIMXZ1OEpyMXZWaGstTmllMGpSLS1XTk8xQXd6MlFyb0lGQXU4YkhDREt0MVg4WmlXVWNVVDV3OGtsTGZYbXpR?oc=5)
+- **srsly.ru**: [В МТС Live Холл прошел выпускной «100балльного репетитора»](https://news.google.com/rss/articles/CBMiTEFVX3lxTFBGSEZaeHF5ajliRW9Fa1J5WnlfLXV3WS1PaVhlZDJxUkZMWDBSRm0teXJGZmxSWml4VzNzVktnVDlhN1VWNnlxeFNtWHrSAVJBVV95cUxQLUFjSVk1M25rbUdiVWRQMnZvYk9CazlRLXR3TUpOUW9LSzlGVDZ2UGdscG51OXlJalhVQWZfdFJFZWZKYkxvc3NQV1VhMWQxMjNR?oc=5)
+- **РИА «ТОП68**: [Большинство опрошенных родителей считают хорошие оценки залогом успешной карьеры](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMnhLbl9scldpWVUwczBNLWVUTi1lVml2OHZDTzlLck1mdEw0YTR0cTNwMHZoMjVnVnZZWHVZcExYQXNWTXlsemZ0UTk4WGIwTEN2akxRSW9abXlKd1puTzEtY0k4S3FDQ19UXzB0LTU2N0NpTlpGak84R0ZjajN1QXZEYS16VTQ1U0gxLUNseXYtTHZWcHZaNkIyakJxOXdvWFpocXF0NTA5S2FKUE13UGJkaXhCM21naDdxUnZWYjJtQ3RVZmlvNUlpU19nTkVkRXc?oc=5)
+- **Ковровские вести**: [Домашка с подвохом?](https://news.google.com/rss/articles/CBMif0FVX3lxTE1RdmxoNWNFVkhtalEwNzVka2hpQWY3X04zaWZOWVJSWklpU0JjQkV3ZXV3UnM2ZnF4RWVPbGdickhlbEFiSXZDa3Fxei1CMkJYNlJFS2pXNV9MSlhzX1JRa0VnWnR2bUtoZzc4ODRzU0wtNVJtN0Z5ZEtKcWNtQmM?oc=5)
+- **Газета "Местное время"**: [Стартовала всероссийская онлайн-олимпиада «Безопасные дороги»](https://news.google.com/rss/articles/CBMiSEFVX3lxTFA3ai1hdnFDVy1mSGI5bEVMLXNJbDF4b2ZSVFJfMlRlY1BGcjJVTlZvcDhBMFR4YXctQWREd2VuM0xMOWg3UHZyRA?oc=5)
+- **Газета "Местное время"**: [Югорских детей приглашают на онлайн-олимпиаду «Безопасные дороги»](https://news.google.com/rss/articles/CBMiSEFVX3lxTE9HZWozQVBxZUh3SmRybHhhRkkwVzg0MjFvSklnLU41SUJYQ1V4OWxWNjVrZVRJdHZla05Rby1XT0JwWkQ0b2dETg?oc=5)
+- **Новый компаньон**: [Школьников Пермского края приглашают к участию в олимпиаде «Безопасные дороги»](https://news.google.com/rss/articles/CBMiVEFVX3lxTE5RNl90VE1lOGgyUjZJRHJUQUJKcFNtS0ZuQmpYcUttc2Z2RHB3VnJmNm9xQ083YWNBaThiYk1MV2ZmY1ZKRWZza2oxUEFQcXdoYXBRcw?oc=5)
+- **Пресса 53**: [Новгородских школьников приглашают на онлайн-олимпиаду «Безопасные дороги»](https://news.google.com/rss/articles/CBMiRkFVX3lxTE9jemNZTUpNQk1FM1lFWS1tbEVtOC11NXpXS05MTEx3V3ZkUDBRdk9qS2RSS1huTHhTS1BNdndjMkhEclJ0bHc?oc=5)
+- **Газета Новая Кама**: [Почти 110 тысяч школьников Татарстана участвуют в олимпиаде «Безопасные дороги»](https://news.google.com/rss/articles/CBMitgFBVV95cUxObXVBbDduMnJ1MVZ1Q1E5WFVPWnV4cjIyc3hDQmltNFhQUHA0d1BJdU1Lbzc3a2c2clJjR1FBS242R0lXZDRZZ0hxV2h2LVE2QnU1NjNfbmNMclBiZlJTcmVWTTJtQ1l3QkFMYm1jdDJpUWlsVUVrZjVjT2dJeXFSdlpQdDlJdmxZcWwyV3I5a2hFWG5zdS1wTWhSb0dvQlY0UFlpUWpiSjdQajd6cFdmaGNnSG5zUQ?oc=5)
+- **Амурская правда**: [Амурчан призвали вместе с детьми пройти онлайн-олимпиаду и закрепить правила дорожного движения](https://news.google.com/rss/articles/CBMiygFBVV95cUxOcEhMSGtrLXVpUzRaTHA5ZUVTUnZObzhNeHBEVmNKbzc3OUhpZXQzZDE0amFiRGprNWdPUUZSMlBjTmFtWmgxMld3cnBUWTFnb1ZUSkR3OFB2d3RSMHZKUGVWMmZqT1hEdUhQRVUwa2dzZndOOEpHa0FRUjNpNnVlSXY0dzc2anZ1a3BodjJteDVfeVFORFExbzZDQVl3bzdtbzhWa2U3amFobFh5WVhaU1RaQm9IS0VnUFA2emczZG5XTzRhZW1oUlRn?oc=5)
+- **ИА «1-Line**: [Информационное агентство «1-LINE»](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9iWFlYYVRGaTNSTkU4WVI4R1lBQnZ0WV9ETEM3VG54UnRQVE8zVjh6Q2RqS0FPX3Rpa3FYT2otSHRYcTVMUUh1eVNISkM?oc=5)
+- **Новосибирский информационно-образовательный сайт**: [Лекция "Говорящие гербы Новосибирской области"](https://news.google.com/rss/articles/CBMieEFVX3lxTE84U2t4Mks0OFJWYzQ5RXctNUpTR3k4b0ZWMndoekt0cUdQR3VxaTNiUXllWnVTWmphWk5lT2JnakpPejZhYWRibmJBUmQxRHl1WWpmY0NTTlJQMWNrWGFmRGQxRXh4WnZpSF83bU5nR20zZndRNWl1Zg?oc=5)
+- **Новости Волгограда и Волгоградской области**: [Турцию охватила загадочная болезнь: тысячи людей попадают в больницы с одинаковыми симптомами](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9BcnBGM3pIbXdfMUxNallhRE9INHZUeHIwb3k4WnFGMjk3OTdOazhFZzRNbXZNVGJ6Y1RtXzZ0eGR2em8zRlEwWHBpY0d4QTR5WTVMR0ZGR3RWQQ?oc=5)
+- **Учи.ру (Telegram)**: [Если вы ждали знака — это он 😉 Выбирайте послание, которое актуально для вас в эти выходные.](https://t.me/uchi_ru_official/2951)
+- **Учи.ру (Telegram)**: [🥳 Ну что, еще одна учебная неделя позади!](https://t.me/uchi_ru_official/2950)
+- **Учи.ру (Telegram)**: [Каникулы скоро 🙂 Но сил не осталось.](https://t.me/uchi_ru_official/2949)
+- **Учи.ру (Telegram)**: [😞 Конфликты случаются в любом коллективе.](https://t.me/uchi_ru_official/2948)
+- **Учи.ру (Telegram)**: [🤔 Короткий ответ: да.](https://t.me/uchi_ru_official/2945)
+- **Учи.ру (Telegram)**: [🔔 Учи.ру — образовательная платформа для дошкольников и ребят из 1–11 классов.](https://t.me/uchi_ru_official/2943)
+- **Учи.ру (Telegram)**: [📝 «Смотри внимательнее» или «Перечитай вопрос и подумай, ответил ли ты на него» — чувствуете разницу?](https://t.me/uchi_ru_official/2942)
+- **Skysmart для родителей (Telegram)**: [Приходите на бесплатное вводное занятие с методистом.](https://t.me/Skysmart_for_parents/7739)
+- **Skysmart для родителей (Telegram)**: [Ещё есть время подтянуть сложные темы и закончить четверть на хорошие оценки 💪 Занимайтесь с репетиторами Skysmart со скидкой 50 % на уроки.](https://t.me/Skysmart_for_parents/7733)
+- **Skysmart для родителей (Telegram)**: [🍏 Набор карточек на кухню «English in the Kitchen» от Skysmart Внутри: 💡 Принцип визуального погружения: как учить английский между…](https://t.me/Skysmart_for_parents/7731)
+- **Skysmart для родителей (Telegram)**: [📜 Семейный договор на использование гаджетов от Skysmart Внутри: 💡 Пошаговая инструкция, как договориться о правилах без скандалов и…](https://t.me/Skysmart_for_parents/7729)
+- **Skysmart для родителей (Telegram)**: [📅 Чек-лист «Уроки без помощи родителей за 21 день» от Skysmart Внутри: 🧠 Нейробиологическое объяснение: почему ребёнок не может…](https://t.me/Skysmart_for_parents/7727)
+- **БИТ (Telegram)**: [А что, если однажды встретиться не на экране, а вживую?](https://t.me/schoolbit/2341)
+- **БИТ (Telegram)**: [В нашей группе во «ВКонтакте» вышел пост о том, как нейросети можно использовать в учебе и почему готовый ответ не всегда означает, что…](https://t.me/schoolbit/2339)
+- **БИТ (Telegram)**: [Почему ребенок теряет интерес к учебе?](https://t.me/schoolbit/2332)
