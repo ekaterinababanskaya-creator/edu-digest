@@ -1,0 +1,619 @@
+{
+  "headline": "Опубликован проект расписания ЕГЭ и ОГЭ на 2027 год (основной период стартует 1 и 2 июня). Рособрнадзор апробирует три схемы устного экзамена по истории для 9 классов, а новый ФГОС для старшей школы вступит в силу 1 сентября 2027 года.",
+  "items": [
+    {
+      "title": "Проект расписания ЕГЭ и ОГЭ на 2027 год: основной период с 1 и 2 июня",
+      "summary": "Минпросвещения и Рособрнадзор опубликовали проекты приказов о датах ГИА-2027. ЕГЭ: досрочный период с 19 марта по 19 апреля, основной с 1 июня по 9 июля, дополнительный с 3 по 24 сентября. ОГЭ: досрочный с 20 апреля по 14 мая, основной со 2 июня по 5 июля. Время начала ЕГЭ не меняется по сравнению с 2026 годом. Общественное обсуждение идёт до 10 ноября, даты ещё могут измениться.",
+      "why_it_matters": "Выпускники Домашней школы сдают ОГЭ и ЕГЭ вместе с остальными, поэтому от дат зависят график подготовки, пробные экзамены и сроки продаж курсов. Стоит заложить даты в планирование и следить за итоговой версией приказа после 10 ноября.",
+      "section": "Россия: регулирование и госполитика",
+      "tags": [
+        "ГИА",
+        "Законодательство"
+      ],
+      "importance": 3,
+      "sources": [
+        {
+          "name": "edtexno (Telegram)",
+          "title": "Сохраните предварительное расписание ОГЭ и ЕГЭ на 2027-й Основной период ЕГЭ в 2027 году начнётся 1 июня, ОГЭ — 2 июня.",
+          "link": "https://t.me/edtexno/7804"
+        },
+        {
+          "name": "Forbes Education (Telegram)",
+          "title": "Минпросвещения и Рособрнадзор опубликовали проект приказа, который устанавливает даты проведения основного государственного экзамена…",
+          "link": "https://t.me/forbes_education/5259"
+        },
+        {
+          "name": "Forbes Education (Telegram)",
+          "title": "Рособрнадзор и Минпросвещения РФ обнародовали проект приказа об утверждении расписания единого государственного экзамена на 2027 год.",
+          "link": "https://t.me/forbes_education/5258"
+        },
+        {
+          "name": "ЗНАМЯ. УЗЛОВСКИЙ РАЙОН",
+          "title": "Министерство просвещения опубликовало проект расписания ЕГЭ на 2027 год",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE52dEwzQ2hzQzRzdENEb0J4OHEzcC1PUUwzZDF0Xy1uVm5OeVE3Xy1Iem9hMlVJSmhSMzZuQmxtT1JHLWlVQ1A4ag?oc=5"
+        },
+        {
+          "name": "Мойка78.ру",
+          "title": "Минпросвещения опубликовало предварительное расписание ЕГЭ-2027",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVGpEQ1ZCb1BqR0tsSUd5WTVBbTJiLWdmN28yRTlYMjA1VERqVTl6cXd0c0NmOWRwOC1XVXNxNlpmUjBCRHUxcElvWjRPRHFMUU50QlllMnNEeHJySV9hNnJaczB1ZWtZMS1hRTdwcmNaNWZTaERiZ2cyVmhnbThyVU9ZaU5mQTZObi1JdUU3LVdWSUNPV2FPTkducldzOUJFWk1udlI2dWZCMUEzTGc?oc=5"
+        },
+        {
+          "name": "Вслух.ru",
+          "title": "Будет три периода: появилось предварительное расписание ЕГЭ-2027",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaHVfWFRQRjJVd1lXQl91MEIyampaRTREdTUzNDNjSGtPX0JNSVpMOFJKQ0kzS2V4LVpSdGhQNm9lWHozblpRWDNQQ01aN1ZCSV9ZN1dTeWdrdVJHZmctYTdKbVV3RUFLcWp1UHE0MDJJaFdWcGVjRTlvYkROSDFyb2JiUV9Db0xaQi0weU41enZ0VEx4N0wwdVlpdDhVZV9EUk1NQzVBTkIwS1E?oc=5"
+        },
+        {
+          "name": "KazanFirst",
+          "title": "Расписание ЕГЭ на 2027 год: даты экзаменов и пересдач",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMklqb3pLNFZfYWRrUDM0bkNJLW94UF9vcklyLURnV0M2Qy1qMHM0OXZ6RG95V0lzOTdVaGFtdUoyYXkxS1pod0U3d3NaT215a0tVTWNGTFBfN2Jkc2M2RklkNFowbXVITFMtTFkxTURuUDJsOUR3Zk9XVEhkOWwwUDhjc0MyUTTSAY8BQVVfeXFMTWFZeWc1d0dCbmRuQURmd004cUEzY0tPRkFNSUlWTTRrRDZub2RGaXZycndPYkJESjZOUGgzUW5uZ2prZ1g3TmlsSU5kbjlxMGRhZERwZzIwd2JDUDdBM2lDRzlyQl9tYzdBMGpwVGtrM3VHNnkwZFZqRDFia3Z1Z2xiSW14c2lmZF9sb3NDOTA?oc=5"
+        },
+        {
+          "name": "URA.RU",
+          "title": "Рособрнадзор принял важное решение по ЕГЭ-2027",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5OV0VvaUhXMWdRWG5kM1BBMnFRX1FneGwxMnU1UEVqdDFyMHRlcjFDcTc4bExxMkRaQXlpZ09NanBqYlIzTVhN?oc=5"
+        },
+        {
+          "name": "Московская правда",
+          "title": "Определены даты основной государственной аттестации в 2027 году",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05N1RKeVd4X0diUVN1c3NEZXFxbzQ5bTVoUktzS3VEcDVrOVpzZDZuMVBjaEg0U0lUXzN4Tm8wZUprdzFaT1FLNFJmbkpiQmM?oc=5"
+        },
+        {
+          "name": "ВКонтакте",
+          "title": "📢 Рособрнадзор установил время начала ЕГЭ в 2027 году. 🔺Время начала ЕГЭ в 2027 году не изменится по сравнению с... 2026",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5jaUZaRHItTVFHRWNILUZaaXZBOUtEcUdyOW42Y21ZMWtvVGdRdWx1UTZBS0txOFEzWjJENTl4c09BeXFka3I0T2lVUQ?oc=5"
+        },
+        {
+          "name": "Якутия24",
+          "title": "Рособрнадзор установил время начала ЕГЭ в 2027 году",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdmlYNWlTekl3SVhXTEROTW5ZQTF2N2FjSV96UDJkZDktaVpvUmNhamNmZzMxc04tQnhmamcxUzRGT0RJVnZ2c2d4WGRtTVpuUnRaNkJxcXNYeGxpa0UyVzJBU0JGMjJ0QzVPYzh4WndQMEpaYkJPeTNab3NWcVNMOXRwQ2Q?oc=5"
+        },
+        {
+          "name": "NEWS.ru",
+          "title": "Рособрнадзор определил время начала ЕГЭ в 2027 году",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWFl1aVYtb050eDZiOExWUkpHODBUZzZ5VXdEaEFBSkJvRG1SaVVndVMydjI5OGtMcmdvVGw3c1FSQU95SWc0bWlzZy03eW5lRXljUUtsMjNXekcyaHA0b1d6T3NMckZWdU1MaWI0cmxxTExEaWVLckthM0J1ZEEzTk1Rcw?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "Рособрнадзор апробирует три схемы устного экзамена по истории в 9 классе",
+      "summary": "Для апробации выбраны три схемы устного экзамена по истории для девятиклассников. Они различаются степенью участия экзаменатора и форматом. В первом варианте ученик отвечает по бумажному билету учителю истории, который может задавать дополнительные вопросы. Во втором его слушает любой педагог. Во всех вариантах предусмотрена аудиозапись ответов.",
+      "why_it_matters": "Если устный экзамен по истории станет обязательным для 9 классов, его придётся учесть в подготовке учеников Домашней школы и в работе со школами прикрепления, которые организуют сдачу. Это возможная новая обязательная часть аттестации и новый продукт подготовки к устной части.",
+      "section": "Россия: регулирование и госполитика",
+      "tags": [
+        "ГИА"
+      ],
+      "importance": 3,
+      "sources": [
+        {
+          "name": "Forbes Education (Telegram)",
+          "title": "🆕 🆕 🆕 🆕 Главные события недели в сфере образования — коротко ⚪️ Рособрнадзор апробирует три схемы обязательного экзамена по истории для…",
+          "link": "https://t.me/forbes_education/5260"
+        },
+        {
+          "name": "ВКонтакте",
+          "title": "Рособрнадзор тестирует три формата устного экзамена по истории для девятиклассников. Во всех вариантах предусмотрена аудиозапись ответов учеников. 2026",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBvVjJUMkNfVVZ6UDVqWjNzVV9xTkFlMk0yYXhrSGZCQlpua3ZXb21HSktLYnR6ZDk2U1hKc0JEZTVPSElIZHE3aV9n?oc=5"
+        },
+        {
+          "name": "ВКонтакте",
+          "title": "✅Рособрнадзор выбрал три схемы для тестирования устного экзамена по истории в 9 классах Они различаются степенью участия экзаменатора и форматом... 2026",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8ya2pyWVlJTmJwVHZraVhxM1lKZWx6NkpEbVlERjJYLWdyUGQ2QURlZTdBZDZ0VU95UHhGckRoUk5EWm5nd0p4Zg?oc=5"
+        },
+        {
+          "name": "НИА Самара",
+          "title": "Рособрнадзор выбрал три схемы для апробации устного экзамена по истории в 9-х классах",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPd1dvZlRuZU43NEZfOFlTSHhkM0VobUUtTW1kRGNITEpBekpvMWw3TldBcjFPc0JqLXBGclp1N2RrbUR2eld4d3h2d1hWbUc0WVljQmZ1UEN3WVcxenBwbkZmRmx5V2RhcU1YcWtHeVo2bHJTdWx0cmo5cHZ0RTJLY1F3NXc1UjlTOG5uRGlHQkpCeGhiVjJCTl82Qm1hejJMVHRpWjZjbU9HQU16Q1RfMXk2NTVNcVVqTjdSaDJYQkV1Ql9YaExNeTVhLUxidw?oc=5"
+        },
+        {
+          "name": "Учительская газета",
+          "title": "Рособрнадзор протестирует три схемы устного экзамена по истории для девятиклассников",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNXUzM3FYUGRua19EdHJCZTEtYjF4VUZoa0xPblY1Q0hkWjlQUXM4UjJsbjV4aHRqa25GeWp2R29DX2FvN0xsUE9MS2h3VThocU9DRFlGdUJ1cEtoak14N0tVS2VSdWlmd29TTnA1ZkxwUDdiVXljN0Rld2pGQ3NSQkt5YWZPemFaZkhfeWtVRTNrRFo0ejNnQk5ILUZLRGJwZWlN?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "Новый ФГОС старшей школы вступит в силу 1 сентября 2027 года",
+      "summary": "С 1 сентября 2027 года начнёт действовать новый ФГОС для 10–11 классов. Он учитывает потребности детей с ОВЗ: им разрешат учиться в старших классах не более чем на год дольше положенного срока. Кравцов подтвердил, что продлевать обучение можно максимум на год.",
+      "why_it_matters": "Новый стандарт для старшей школы меняет требования к программам, учебным планам и, возможно, к промежуточной аттестации в 10–11 классах. Нужно заранее сверить программы и продукт для старшеклассников с новым ФГОС и узнать, как к нему готовятся школы прикрепления.",
+      "section": "Россия: регулирование и госполитика",
+      "tags": [
+        "ФГОС"
+      ],
+      "importance": 3,
+      "sources": [
+        {
+          "name": "Мел",
+          "title": "С 1 сентября 2027 года дети с ОВЗ смогут учиться в старшей школе не более чем на год дольше. Что еще изменит новый ФГОС для старших классов",
+          "link": "https://mel.fm/novosti/9475210-dlya-shkolnikov-s-ovz-i-invalidnostyu-ustanovili-novyye-pravila-obucheniya-v-starshikh-klassakh"
+        },
+        {
+          "name": "Интерфакс",
+          "title": "Кравцов заявил, что обучение детей с ограниченными возможностями в старших классах могут продлевать не более чем на год",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBQOHVrY0JtS1poTnZpX1hSamxIX2VvZUprSUEtWFhzV1o5TjBiS1FWUG1jTjV0bkU3SE5DV3Q0b0ZDdUQyZFdDTGI4SdIBS0FVX3lxTFBQOHVrY0JtS1poTnZpX1hSamxIX2VvZUprSUEtWFhzV1o5TjBiS1FWUG1jTjV0bkU3SE5DV3Q0b0ZDdUQyZFdDTGI4SQ?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "Оценки за поведение: тестирование в школах и реакция учителей",
+      "summary": "В российских школах начали тестировать оценки за поведение. По сообщению одного из изданий, за «недопустимое поведение» в четверти будут созывать консилиум с родителями. Учителя в опросе «Мела» сомневаются в эффективности нововведения, считают критерии неясными и опасаются дополнительной нагрузки на классных руководителей.",
+      "why_it_matters": "Пока это эксперимент, но если норму закрепят, она затронет школы прикрепления и их отношения с родителями. Неясно, как оценка за поведение применялась бы к детям на семейном обучении. Этот вопрос стоит проверить у школ-партнёров и при необходимости у регулятора.",
+      "section": "Россия: регулирование и госполитика",
+      "tags": [
+        "Законодательство"
+      ],
+      "importance": 2,
+      "sources": [
+        {
+          "name": "https://densus.ru/",
+          "title": "Минпросвещения: за «недопустимое поведение» в четверти созовут консилиум с родителями",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQldlbVJTR2RnMExQTzhKbGNpczBuZzRkd2hoZUNTbEJERlZEOXRDbHV5SlA3WHZYMExpZ3h3WHptSmJzSW94NXBLZWl1Ni15bXRhVHlneGJTS3dVdm1lVXltTGV6NXM4U3pPSjI0dHg2Und2anVDSUhxVjBkX1BtWjNlOVhEQm9rUVZ2em93a3ptYVAz?oc=5"
+        },
+        {
+          "name": "Мел",
+          "title": "Российские учителя раскритиковали оценки за поведение в школах. Педагоги сомневаются, что новая система поможет наладить дисциплину, и опасаются дополнительной нагрузки",
+          "link": "https://mel.fm/novosti/1043289-rossyskiye-uchitelya-raskritikovali-otsenki-za-povedeniye-v-shkolakh"
+        }
+      ]
+    },
+    {
+      "title": "Совфед предлагает повысить минимальные баллы ЕГЭ; Рособрнадзор против расширения пересдач",
+      "summary": "Совет Федерации рекомендовал Рособрнадзору рассмотреть повышение минимальных баллов ЕГЭ для поступления в вузы. Глава Рособрнадзора Анзор Музаев выступил против увеличения числа предметов, доступных для пересдачи, заявив, что «не надо провоцировать детей».",
+      "why_it_matters": "Ужесточение порогов ЕГЭ повышает требования к подготовке и может усилить спрос на экзаменационные курсы. Отказ от расширения пересдач сохраняет ставку на одну попытку. Стоит отслеживать, станет ли идея нормативной инициативой.",
+      "section": "Россия: регулирование и госполитика",
+      "tags": [
+        "ГИА",
+        "Законодательство"
+      ],
+      "importance": 2,
+      "sources": [
+        {
+          "name": "oboz.info",
+          "title": "Совфед рекомендовал Рособрнадзору рассмотреть повышение минимальных баллов ЕГЭ",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNazIyNlMzQUdxRkRHZUFnVUE3eDNmQUZYaEh1c2lxaWlfbXRmUTVEVmMzUGZ3b3pfa3ZkcElSWS1SSDJiamdGaFUyOFZrdzNGVXlmeGtieDlIRzV3ZU1WWV9uSjBXTklEbVJycXVBYTJzZXgyTDlOc212blJDai1SVE1UQWpoUnhHUEFBOTBKSkdubEQ5QlE2UnpHdHY?oc=5"
+        },
+        {
+          "name": "Европейско-Азиатские Новости",
+          "title": "Совфед намерен повысить минимальные баллы ЕГЭ для поступления в вузы",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTWlEdGs4X251ODV0aW0zdDVZVjh6bVI5RnZPVng4ZEJsUmRjcVJvRV9RV1E0cGVNYWF5ZG4tSzNPUEhvUVlkT1pMTlJfOGEtS0xCVjd2aUVkUGtCNWs1cURrbFlpTTlwdzJGdHVHbGtOUnNSUlB5bWp3TlFOZzJQaW85YTYya1ZCeVc5ZU5EVWpwSnRVMEJsRXlaSWRTWWljWEJFSl9JTXFiZHB1Umc?oc=5"
+        },
+        {
+          "name": "Учительская газета",
+          "title": "«Не надо провоцировать детей»: Анзор Музаев выступил против увеличения предметов ЕГЭ для пересдачи",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOXzdlRDJhTjJBd0JHTjYtNy1fNzgybVhIb2tFLTg4dzNkUkNmb1VveHcxczJnNFdydGkyZXZFbGJJb1B0YjM5bTNyTkFROUI0NE5tWlpCMnlxcHdLNFd5Y2I2MXlDdjlDWmFhTDNyNkpfWk5nWDhzamdjTE9YbFpfSnRGWDBKanlaR05iYkw3YTlPRUFYdWs3cFZ3LTd2OVBGTHZFUDRlamRUNWZqczNBeDItWk8?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "Музаев: бороться с ИИ в школах бессмысленно",
+      "summary": "Глава Рособрнадзора Анзор Музаев назвал бессмысленной борьбу с использованием искусственного интеллекта в школах и счёл бессмысленным запрет ИИ.",
+      "why_it_matters": "Позиция регулятора сигнализирует о смягчении подхода к ИИ в школе. Для Домашней школы это аргумент в пользу ИИ-инструментов в продукте и проверке знаний, но отдельно нужно продумать защиту от списывания при аттестации.",
+      "section": "Россия: регулирование и госполитика",
+      "tags": [
+        "EdTech и ИИ"
+      ],
+      "importance": 2,
+      "sources": [
+        {
+          "name": "Life.ru",
+          "title": "Глава Рособрнадзора Музаев назвал бессмысленной борьбу с ИИ в школах",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRjRDWldSM3hXLXppMXpUUzJuRTVQSndhSV9pUEVpcElxd1hMcEtCbk1xZlAxU2pMUk5ZTF8yQ0J6eVRBOUFIbDVXT04yd09kM1VFWkplXzNXeVh0djI0emNfT2RlNXp1VVowWkJ1VkJzSWVoUEJSenktQ3dnZThZLWVuWjNrYy1SWGN5UXdCcw?oc=5"
+        },
+        {
+          "name": "Общественная служба новостей",
+          "title": "Рособрнадзор счел бессмысленным запрет ИИ в школах",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUFEwQW5SNndKdjJUM0lhZ2tyQk5kSUF1Q05XbkJHOHZrLUxqVXN2R01GTTdUekRkdUo2dDN4b2pUdVpYTGZHSUJuRUZKUlZpb0hmQUtfRjdyMFFqRjc0RnljQ3VYTWtQb29WOU45RDA0NXp4YjRQN1NOcTl5MGRMSVFPd0xqZmFNT2lnTWN0RFRldw?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "Рособрнадзор проведёт Всероссийскую встречу с родителями по ЕГЭ и ОГЭ",
+      "summary": "Глава Рособрнадзора встретится с родителями старшеклассников, чтобы обсудить ЕГЭ и ОГЭ. Встреча ежегодная.",
+      "why_it_matters": "Вопросы родителей и ответы ведомства покажут, что беспокоит семьи перед ГИА-2027. Их можно использовать в коммуникации и FAQ Домашней школы.",
+      "section": "Россия: регулирование и госполитика",
+      "tags": [
+        "ГИА"
+      ],
+      "importance": 1,
+      "sources": [
+        {
+          "name": "Учительская газета",
+          "title": "Рособрнадзор проведёт ежегодную Всероссийскую встречу с родителями",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMzI5Y1dxRUg1ZnF6cmdWSjUybFlBZTlXNHV1WFZnTksxdjlUYW5fajBKSkhnUWRqMlRNOEJCbVQ1cmlsUzAyM3hHdzYwMmlySkF2OHFfQ0RFbmVsUDJEcjgzXzZQNTVZX2hURGR2a3dPbGpyTlFtdVI0V0ZObmZScEtTY0NBeDJPMWhfbFdKS3U?oc=5"
+        },
+        {
+          "name": "РИАЦ",
+          "title": "Глава Рособрнадзора встретится с родителями старшеклассников, чтобы обсудить ЕГЭ и ОГЭ",
+          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5HZGpKRGc3Z1lWODV0SWViRFhLZlROQTloejJCVExEX3RLcFlnWXY3UnpVTlU0aDVocDlpM1VHdXZqSTZ6?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "Минпросвещения рекомендовало не задавать обязательные домашние задания на каникулы",
+      "summary": "Министерство просвещения рекомендовало школам не давать обязательную домашнюю работу на каникулы.",
+      "why_it_matters": "Это рекомендация для школ прикрепления, обязательной нормы нет. Стоит учесть её в графике заданий на каникулярные периоды и в коммуникации с родителями.",
+      "section": "Россия: регулирование и госполитика",
+      "tags": [
+        "Законодательство"
+      ],
+      "importance": 1,
+      "sources": [
+        {
+          "name": "densus.ru",
+          "title": "Минпросвещения рекомендовало не задавать обязательную домашнюю работу на каникулы",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVmxJQ0VBRnBfR0dnY3VmRTVMOWJHaWQ4czNQN1UyOVRpTFZOMnhTSVV0QWU2M29pTTFPQmhzeDE2dVI4b3U0ZjFVdGtwRjBPaFZ5RnRuZnRyUV9xRDJVNmFTQmp5MEdOLXU3RTl4eV9xNV8xS2NhblZDTjYxbzBlUUNSa1QtRUhieUJGLVI4aDV1RWx1enJ0MW13?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "Минпросвещения: к 2030 году 40% молодых учителей и не более 1% вакансий в школах",
+      "summary": "Министр Сергей Кравцов предложил ректорам педвузов критерии оценки: сколько выпускников пришло работать в школу и осталось в ней. К 2030 году доля молодых специалистов в школах должна составлять не менее 40%, а доля вакансий не превышать 1%.",
+      "why_it_matters": "Это общий кадровый тренд системы: дефицит учителей давно беспокоит школы. Прямого влияния на Домашнюю школу нет, но он важен для найма преподавателей и для школ прикрепления.",
+      "section": "Россия: регулирование и госполитика",
+      "tags": [
+        "Законодательство"
+      ],
+      "importance": 1,
+      "sources": [
+        {
+          "name": "edtexno (Telegram)",
+          "title": "Минпросвещения планирует омолодить школу к 2030 году Педвузы будут оценивать по тому, сколько выпускников пришли работать в школу, и…",
+          "link": "https://t.me/edtexno/7810"
+        },
+        {
+          "name": "Инновации и образование (Telegram)",
+          "title": "Минпросвещения: доля вакансий в школах к 2030 году не должна превышать 1% В ведомстве видят цель, не видят препятствий: \"К 2030 году…",
+          "link": "https://t.me/innovation_and_education/3699"
+        },
+        {
+          "name": "VladNews",
+          "title": "Минпросвещения: к 2030 году доля молодых учителей должна вырасти до 40%",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBwcWNYcC0zRTNXRVpZYThoTzVVUE8tOS1DWXpubHRjYTdxQ1VOX0djUHVJWWFrczA1cWw5SWxqS3lFZEtvaF9xeDFnbXRRdkFVM21ua2FGV2d5NXVVTkVrUFNqVzlKTlZMdUZqQ1NB0gFzQVVfeXFMTzBOYUlaOUgyVS1DZktFb0wzZEhFWDkxQUdaMElJRWR3ZW5pT01KVUktemxFN3dQT2x3emdVeTJzems1Z3FHX2U3RVhVUmRvLTkyWHBySkpFTFI5UDZubGYxblJwSGF3UU5BdU5hZmNEU1JvNA?oc=5"
+        },
+        {
+          "name": "2goroda.ru",
+          "title": "Минпросвещения: к 2030 году каждый третий учитель должен быть моложе 35 лет — Портал \"2 ГОРОДА\"",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcWd0ZmpYOHhPSW9tcHZTZUhJUVU3ZnVwbGEzcUZ5QXZUY1BCV2hwVkpZaTFwbmJiYjVqMTFoQ3hxRWpBY2ZGb01HSGdJTmpKYmtOS2dtMEQzQVFZcTYxNVdfWUgtdWI5ZDBiU29oZWZleGRVZUJjUENLSDNQcERUZTg2OGNqZnYwOFBfNWpGM2hjUzM3R0dCWTlZTHZxd3hsdGpleTVRblgtRE01VE1OenBkRDM?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "Школам предписывают установить контроль качества питания по принципам ХАССП",
+      "summary": "Издание для директоров сообщает, что школам надо установить контроль качества питания по принципам ХАССП (система контроля безопасности пищевых продуктов). В материале только заголовок, подробностей нет.",
+      "why_it_matters": "Это требование к школам-партнёрам, которое добавляет им административную нагрузку. На работу с семейниками оно напрямую не влияет, но стоит иметь в виду в диалоге со школами прикрепления.",
+      "section": "Россия: регулирование и госполитика",
+      "tags": [
+        "Законодательство"
+      ],
+      "importance": 1,
+      "sources": [
+        {
+          "name": "Менеджер образования",
+          "title": "Школам надо установить контроль качества питания по принципам ХАССП",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZndtVGlOZEs2YUlOeVc4OXNGQU1xSVI4Q0tRVlVLb3Y4VDJHMjNVYjBKS3VLRFRidkVwRG94MTFBTGFWTk5VTlhHcXJCblFHZzh1RG8zYXZUSGdjTUdFUnpORlZvRUo5TjRNQW5reWZodGp2RHZ0U0I2R3dnSml2ZWpnRzBzTTZ2UVMxQVNYb0l5bndVZWI3ZUhRZE40RFZYdnZn?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "Частные школы: средняя цена месяца — 53 тыс. руб., дешевле всего в Калининграде",
+      "summary": "Аналитики Т—Ж изучили цены в 600 негосударственных школах. В среднем месяц обучения стоит 53 тыс. руб. Дороже всего в Москве (73,1 тыс.) и Подмосковье (70,1 тыс.), в Петербурге 55,4 тыс. Самые доступные частные школы нашли в Калининграде, Челябинске, Омске, Москве и Новосибирске.",
+      "why_it_matters": "Данные задают ценовой ориентир для очных частных школ, альтернативы семейному обучению. Их можно сопоставить с нашей ценой и использовать в аргументации для родителей, выбирающих между частной школой и семейным обучением.",
+      "section": "Россия: рынок и EdTech",
+      "tags": [
+        "Исследования и данные",
+        "Семейное образование"
+      ],
+      "importance": 2,
+      "sources": [
+        {
+          "name": "edtexno (Telegram)",
+          "title": "Самые доступные частные школы нашлись в Калининграде, Челябинске и Москве Частные школы доступнее всего для семей в Калининграде,…",
+          "link": "https://t.me/edtexno/7812"
+        },
+        {
+          "name": "Forbes Education (Telegram)",
+          "title": "Средняя стоимость месяца учебы в российской частной школе — 53 000 рублей.",
+          "link": "https://t.me/forbes_education/5253"
+        }
+      ]
+    },
+    {
+      "title": "Учи.ру: онлайн-олимпиада «Безопасные дороги» охватила школьников десятков регионов",
+      "summary": "Региональные СМИ сообщают о массовом участии в олимпиаде по ПДД «Безопасные дороги»: более 91 тыс. детей в Прикамье, свыше 100 тыс. в Чечне, более 33 тыс. в Тверской области, около 30 тыс. в Ульяновской, более 23,5 тыс. в Бурятии, около 8 тыс. на Сахалине, есть публикации по Самаре. Поиск связал эти материалы с Учи.ру.",
+      "why_it_matters": "Масштаб показывает, что Учи.ру выстроила партнёрства с региональными властями и школами, получая охват и доступ к семьям. Для Домашней школы это сигнал: конкурент использует бесплатные массовые олимпиады как канал привлечения.",
+      "section": "Конкуренты",
+      "tags": [
+        "У конкурентов"
+      ],
+      "importance": 2,
+      "sources": [
+        {
+          "name": "В курсе.ру",
+          "title": "Более 91 тысячи детей Прикамья прошли онлайн-олимпиаду «Безопасные дороги»",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaVB5c2sxOFYzbmtabHRQT1RiazlLY2ZLdWRfQXk5QUVUSlhnZThQRDAzNWdKRXFyb1V1c1EyQkVOUmVWbFhGUHhhVUtwSUR5VG1obTA1LUhUS25BQWhxUkUtaEVLbGd0bG5TaWNFa0Ezb0FYV2NsNE1xWVlWVjNNUThFeHFFMy03QlFGOGJVTGJ4LW1MNXpMQjNBNkhyYjBBUHFXYg?oc=5"
+        },
+        {
+          "name": "The World Inform",
+          "title": "Около 8 тысяч школьников Сахалина проверили знания правил дорожного движения",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNempaQW5lRkpjdHdVRlBjSGpxejBuSEVsYzVONGJ5TU5lektkaHdWanBhRlNyQ0E4bmNZLUJJa1E1UlhuX2l3blAzZl9sbktuREd4aUJkSURvcHljdGNGaHpzM2ZGbXUxU0ZwNHhfNWxoTjhSSVh6QWNmLVZfRmhUVVlDcjV5MnphNVZhbWx4WjRVZkExd3lFTEFreDVKb2x3VHl5bjl4NmVIVjhrakRNRFFKZ2FMSEpuZmhjQzBtUQ?oc=5"
+        },
+        {
+          "name": "Чечня Сегодня",
+          "title": "Свыше ста тысяч детей в Чечне проверили знания правил дорожного движения",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE52QkJmbmhHRUJYcmNnYmtXVHFoanBabmxVMzN6MDZwazJlTXV2Wmx1dDJnd0ZnMnBINnpIaGR4dWUxNkQyR2N0ZXlRcl9oZw?oc=5"
+        },
+        {
+          "name": "НИА-Тверь",
+          "title": "Более 33 тысяч детей и подростков Тверской области закрепили свои знания ПДД на онлайн-олимпиаде «Безопасные дороги»",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0xZFgyd3I3YV9JbTY3MWgxRXJZbC0xWnM5LUgycVBQWHVPc2RlcTFPVmlsWUpFVHM5Z2dMV0lWeFNFNmhLLWdseA?oc=5"
+        },
+        {
+          "name": "Прогород Самара",
+          "title": "Самарские учащиеся показали знания ПДД на онлайн-олимпиаде",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaE95UlN5NHNqR3F6OU5hWlRWckpTWnRCYVliS05Ta3N0Zjlxa294MDZ2UlI0WUZBM1kydmRfTXFzWHFkZW1tYi1IY1dza1RnSTUwekN4UkZTOFl2RDRPMnZfdnFJMHUwenNMX1ZtU0hGRnR2UTBNVWxGQXNfRmRfZDNtSjd6NWM0aXJXWE5naGM5SExJZm51a3kzZk9ua0HSAZ8BQVVfeXFMTmhPeVJTeTRzakdxejlOYVpUVnJKU1p0QmFZYktOU2tzdGY5cWtveDA2dlJSNFlGQTNZMnZkX01xc1hxZGVtbWItSGNXc2tUZ0k1MHpDeFJGUzhZdkQ0TzJ2X3ZxSTB1MHpzTF9WbVNIRkZ0dlEwTVVsRkFzX0ZkX2QzbUo3ejVjNGlyV1hOZ2hjOUhMSWZudWt5M2ZPbmtB?oc=5"
+        },
+        {
+          "name": "https://tvatv.ru/",
+          "title": "Онлайн-олимпиаду «Безопасные дороги» в Бурятии прошло более 23,5 тысяч школьников",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVkN6MG9EcVo1T1Zyd0dxaGNYWjk3cm9XRWNJU0NWRnhhbk1tSVlKbHV5N01lanFuMTM1MGxVSUxBRVNra2s0TjEydGFVSjk5c050Q3k4ZEM0Q0NBMEpuV2FfVGtfX01LTmFVNzFxNXJhREpVYW5yQkNNSmdhRWRJOWlVUE0tcE02N3M2a1JMenZ6V1Zza0ZCbHRDZWxyTXJmX3BKeVlic2p6ZllkWmhvSHFndGVGTWJrUGtn?oc=5"
+        },
+        {
+          "name": "Самара онлайн 24",
+          "title": "Школьники Самары проверили свои знания ПДД в онлайн-олимпиаде",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOc09QTGJPTm9RUGttVXgxdHZPVTJjekZObE1hc0VOczRtZDJZMVBuWjBHcWp2OXVnc3B0dEZpWVMwc01tVkxOSmI0dHNrMENiWTRrbGdsaDR2RXFBalNhSjQtaW05d3NxUnhhSThHZV9jTVlKblJzNERpVHhmN1I5bVhoNkhsd1gxNkM0Wllqc1RSOEVYNDZOd2hYaXpvSEU?oc=5"
+        },
+        {
+          "name": "73online.ru",
+          "title": "В Ульяновской области порядка 30 тысяч школьников приняли участие в онлайн-олимпиаде «Безопасные дороги»",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWnlqVGtXQnZMOW9pSEF4QW5yTWNFdUh3WWhEa3N0Nk9fc0hlS3ljV1ZJTGJ2aUNaZ1JzbV81VWVRMy0zU0o1NEl4VFI1bkVncEllVFM3cVcySXF4VlQ2YTVHTXBfSDUyS08xbnVuYW56VElRRl8zWE5ndFNrdHZFakxhSWVSYTQ1b19NVGNYUnRkb2FVT0N6VDlCV0JReTNmUVV4RkFWeGdRNmVDbms4QzMxOG9Pb0gxWTUtQzlUVTVLUWZ1SlZpWUV2djBCVy1R0gHTAUFVX3lxTE9NWVVSNG80cHRQbkJpMWQ4Qld3dlhTYUF4Z2o2VEY4dlNhOTRxV0Z0RW5wZWV6eE56VkJwZEhRLXR4OWVURG9FV2taaFRCR3NkYXVhSVpxTHdnajQ0c0JpYVJFSFQ0b2JTWGNUSzB6SDQzSlo0Nmc1ZEdseWExUHZqaGJhdTNMNDFXWnY1TFhWVUZnRkowT0ZpQ2VBS1hyOXZZU0I4aThLMWJlWWpjQ0dnWVU5SWQyeExlLTBnVlRNZ2NBLWdsc0pVdmRTRGZfNHlraGs?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "Учи.ру (Telegram): чат-бот для родителей, олимпиада по Дальнему Востоку, промокод и эфир с психологом",
+      "summary": "Канал анонсировал чат-бот с материалами для родителей (мотивация, успеваемость, адаптация в 1 классе и средней школе, ВПР, ОГЭ, ЕГЭ). Запущена олимпиада об истории, географии и культуре Дальнего Востока для дошкольников, учеников 1–11 классов и студентов СПО. Действует промокод со скидкой 11% на любой пакет. Анонсирован прямой эфир с психологом о домашних заданиях, а опрос с сервисом «Ясно» показал, что 65% родителей считают лучшей мотивацией слова поддержки. Канал также откликнулся на «новость дня» о появлении в школах курсов по ИИ и напомнил про направления вне программы.",
+      "why_it_matters": "Учи.ру выстраивает воронку для родителей через контент, бота и промокоды, включая тему ГИА. Стоит оценить, нужен ли нам аналогичный бесплатный инструмент для родителей. Заявление про курсы по ИИ в школах стоит проверить по официальным источникам.",
+      "section": "Конкуренты",
+      "tags": [
+        "У конкурентов",
+        "EdTech и ИИ"
+      ],
+      "importance": 1,
+      "sources": [
+        {
+          "name": "Учи.ру (Telegram)",
+          "title": "Вы справились ✨ А вот и подарок — чат-бот с полезными материалами для родителей.",
+          "link": "https://t.me/uchi_ru_official/2978"
+        },
+        {
+          "name": "Учи.ру (Telegram)",
+          "title": "Новость дня: в школах появятся курсы по ИИ 🤖 А какие еще предметы пригодились бы детям в жизни?",
+          "link": "https://t.me/uchi_ru_official/2970"
+        },
+        {
+          "name": "Учи.ру (Telegram)",
+          "title": "Двое детей.",
+          "link": "https://t.me/uchi_ru_official/2969"
+        },
+        {
+          "name": "Учи.ру (Telegram)",
+          "title": "65% родителей уверены: лучшая мотивация для детей — вовремя сказанные слова поддержки ❤️ К такому выводу пришли эксперты Учи.ру и…",
+          "link": "https://t.me/uchi_ru_official/2968"
+        },
+        {
+          "name": "Учи.ру (Telegram)",
+          "title": "🦌 Отправляемся на...",
+          "link": "https://t.me/uchi_ru_official/2967"
+        },
+        {
+          "name": "Учи.ру (Telegram)",
+          "title": "Ребенок просит помочь с домашним заданием.",
+          "link": "https://t.me/uchi_ru_official/2965"
+        }
+      ]
+    },
+    {
+      "title": "Skysmart: «Чёрная пятница» стартовала раньше, скидка до 61% по промокоду, в том числе на Домашний лицей",
+      "summary": "До 4 ноября по промокоду ХВАТАЙ действует скидка до 61% на все направления, от школьных предметов до Домашнего лицея, и 9 месяцев разговорных клубов по английскому в подарок. Канал также раздаёт бесплатные шпаргалки по важным темам для повторения.",
+      "why_it_matters": "Skysmart продвигает Домашний лицей, продукт для семейного обучения, прямой аналог нашего. Агрессивная скидка в ноябре повышает ценовое давление в сезон распродаж. Стоит заранее продумать ответ на уровне акций и условий.",
+      "section": "Конкуренты",
+      "tags": [
+        "У конкурентов",
+        "Семейное образование"
+      ],
+      "importance": 2,
+      "sources": [
+        {
+          "name": "Skysmart для родителей (Telegram)",
+          "title": "Листайте карточки, там все подробности.",
+          "link": "https://t.me/Skysmart_for_parents/7764"
+        },
+        {
+          "name": "Skysmart для родителей (Telegram)",
+          "title": "Пусть это будет наш секрет 🖤 Скоро стартует Чёрная пятница в Skysmart, но для вас мы открываем её на неделю раньше!",
+          "link": "https://t.me/Skysmart_for_parents/7761"
+        },
+        {
+          "name": "Skysmart для родителей (Telegram)",
+          "title": "Скачивайте бесплатные шпаргалки с самыми важными темами, которые стоит повторить школьникам.",
+          "link": "https://t.me/Skysmart_for_parents/7753"
+        }
+      ]
+    },
+    {
+      "title": "Умскул (Telegram): бесплатные уроки по ОГЭ, старт Ноябрьского потока и контент про тревожность",
+      "summary": "Канал анонсировал бесплатные уроки на выходные 31 октября и 1 ноября (ОГЭ по химии и биологии, литература) и напомнил о старте Ноябрьского потока через три дня. Опубликован «антитревожный файл» с советами по подготовке к ОГЭ и ЕГЭ без выгорания. Также разобраны страхи выпускников и отмечено, что на экзаменах-2026 были ошибки в заданиях, повышенная сложность и новые формулировки.",
+      "why_it_matters": "Умскул использует бесплатные открытые уроки и тревожность выпускников как точку входа в платные потоки. Наблюдение про новые формулировки на экзаменах 2026 полезно проверить на нашем контенте подготовки к ГИА.",
+      "section": "Конкуренты",
+      "tags": [
+        "У конкурентов",
+        "ГИА"
+      ],
+      "importance": 1,
+      "sources": [
+        {
+          "name": "Умскул (Telegram)",
+          "title": "вчера мы окончательно разогнали ваши страхи, связанные с подготовкой 🐹 🎃 👻 но очень жаль, что spooky season закончился…",
+          "link": "https://t.me/umschool_official/14349"
+        },
+        {
+          "name": "Умскул (Telegram)",
+          "title": "кажется, мы разогнали все страхи 🥳 спасибо за помощь Алине, Артёму и вам всем, ребят!",
+          "link": "https://t.me/umschool_official/14345"
+        },
+        {
+          "name": "Умскул (Telegram)",
+          "title": "БЕСПЛАТНЫЕ УРОКИ НА ВЫХОДНЫЕ ⚠️ 🧠 ОГЭ 👉 31 ОКТЯБРЯ • Денис Марков 15:00 МСК | ПРАКТИКА МЕТОД ЭЛЕКТРОННОГО БАЛАНСА 🟦 ВК видео | 🟥 Ютуб •…",
+          "link": "https://t.me/umschool_official/14344"
+        },
+        {
+          "name": "Умскул (Telegram)",
+          "title": "ЗАПУСКАЕМ ЛОВУШКУ ДЛЯ СТРАХОВ 🪤 чего стоит реально бояться на экзамене?",
+          "link": "https://t.me/umschool_official/14341"
+        },
+        {
+          "name": "Умскул (Telegram)",
+          "title": "прочитала все ваши переживания по поводу экзаменов 👀️ ️️️️️ скоро запущу ловушку для них 🌀 🪤",
+          "link": "https://t.me/umschool_official/14340"
+        },
+        {
+          "name": "Умскул (Telegram)",
+          "title": "а между тем мы с Алиной Максимовой напоминаем вам, что осталось 3 дня до старта Ноябрьского потока 🌟 в гс-подкасте Алина рассказала…",
+          "link": "https://t.me/umschool_official/14332"
+        },
+        {
+          "name": "Умскул (Telegram)",
+          "title": "мы на полпути к победе над страхами, так что завтра немного пообщаемся, поболтаем — короче, чуть-чуть почилим 💪🏻 ️️️️ 💪🏻 ️️️️ 💪🏻 ️️️️ а…",
+          "link": "https://t.me/umschool_official/14327"
+        },
+        {
+          "name": "Умскул (Telegram)",
+          "title": "⚰️ ⚰️ ⚰️ экзамены-2026 рил удивили и вновь показали нам, что нужно быть готовыми ко всему: 🎃 к ошибкам в самих заданиях 🎃 к повышенному…",
+          "link": "https://t.me/umschool_official/14322"
+        }
+      ]
+    },
+    {
+      "title": "eurogymonline (Telegram): пост о том, что школа должна учить задавать вопросы",
+      "summary": "Канал опубликовал рассуждение о том, что школа должна давать правильные ответы и учить задавать вопросы, а оценивать нужно ход мысли, а не только результат.",
+      "why_it_matters": "Это имиджевый контент без продуктовых новостей. Показывает, как конкурент позиционирует свой подход к обучению, прямых угроз нет.",
+      "section": "Конкуренты",
+      "tags": [
+        "У конкурентов"
+      ],
+      "importance": 1,
+      "sources": [
+        {
+          "name": "eurogymonline (Telegram)",
+          "title": "❓ ШКОЛА ДОЛЖНА ДАВАТЬ ПРАВИЛЬНЫЕ ОТВЕТЫ ИЛИ УЧИТЬ ЗАДАВАТЬ ВОПРОСЫ?",
+          "link": "https://t.me/eurogymonline/855"
+        }
+      ]
+    },
+    {
+      "title": "Пекин определил сценарии применения ИИ в школах: домашние задания и физкультура",
+      "summary": "В Пекине составили перечни сценариев применения ИИ в школах: шесть типовых и восемь пилотных. Их представили 29 октября вместе с «Синей книгой о применении искусственного интеллекта в базовом образовании». Среди областей названы домашние задания и физкультура.",
+      "why_it_matters": "Сигнал тренда: государственное регулирование ИИ в школе через перечни разрешённых сценариев. Такой подход может прийти и в Россию, поэтому стоит следить за ним при разработке ИИ-функций.",
+      "section": "Мир: K-12 политика и практика",
+      "tags": [
+        "EdTech и ИИ"
+      ],
+      "importance": 2,
+      "sources": [
+        {
+          "name": "edtexno (Telegram)",
+          "title": "ИИ в китайских школах займётся домашкой и физкультурой В Пекине составили перечни сценариев, в которых школам стоит применять ИИ.",
+          "link": "https://t.me/edtexno/7822"
+        }
+      ]
+    },
+    {
+      "title": "Исследование: запрет смартфонов в исландских школах не улучшил психическое здоровье подростков",
+      "summary": "Учёные проанализировали данные 23 938 школьников 13–15 лет из 70 исландских школ. Запреты на смартфоны не привели к значимым изменениям в психическом здоровье подростков.",
+      "why_it_matters": "Дискуссия о запрете смартфонов в школах идёт и в России. Результат ставит под сомнение аргумент о пользе запретов для самочувствия детей. Для онлайн-школы это сигнал, что цифровая среда сама по себе не главный фактор благополучия.",
+      "section": "Исследования и данные",
+      "tags": [
+        "Исследования и данные"
+      ],
+      "importance": 2,
+      "sources": [
+        {
+          "name": "Мел",
+          "title": "Запрет смартфонов в школах не сделал подростков счастливее и дружелюбнее — исследование. Ученые изучили почти 24 тысячи подростков 13-15 лет",
+          "link": "https://mel.fm/novosti/691732-zapret-smartfonov-v-shkolakh-ne-sdelal-podrostkov-schastliveye-i-druzhelyubneye--issledovaniye"
+        }
+      ]
+    },
+    {
+      "title": "Аудит: 39 метаанализов об ИИ в образовании показали позитивный эффект, но в методологии серьёзные изъяны",
+      "summary": "The Hechinger Report сообщает об аудите исследований: 39 метаанализов (обзоров, объединяющих результаты многих работ) об ИИ в образовании дали положительные выводы, но в самих исследованиях нашли серьёзные недостатки.",
+      "why_it_matters": "Заявления об эффективности ИИ в обучении, в том числе рекламные, стоит проверять. Это важно для позиционирования ИИ-функций Домашней школы и при оценке заявлений конкурентов.",
+      "section": "Исследования и данные",
+      "tags": [
+        "Исследования и данные",
+        "EdTech и ИИ"
+      ],
+      "importance": 2,
+      "sources": [
+        {
+          "name": "The Hechinger Report",
+          "title": "39 meta-analyses, 39 positive findings: An audit finds serious flaws in research on AI in education",
+          "link": "https://hechingerreport.org/proof-points-ai-education-meta-analysis/"
+        }
+      ]
+    },
+    {
+      "title": "Новое исследование ИИ-репетитора: испытание в семь раз крупнее, выводы неоднозначнее",
+      "summary": "Британский стартап в декабре заявил, что его ИИ-репетитор по математике с проверкой человеком превосходит репетитора-человека, работающего в одиночку. Теперь компания провела рандомизированное контролируемое испытание в семь раз большего масштаба, и картина получилась сложнее.",
+      "why_it_matters": "Гибридная модель «ИИ плюс человек» остаётся главным кандидатом на масштабируемое репетиторство. Это стоит учитывать при разработке ИИ-помощников для учеников, но данные пока противоречивы.",
+      "section": "Исследования и данные",
+      "tags": [
+        "EdTech и ИИ",
+        "Исследования и данные"
+      ],
+      "importance": 2,
+      "sources": [
+        {
+          "name": "The 74",
+          "title": "Five Things You Should Know About New AI Tutor Study",
+          "link": "https://www.the74million.org/article/five-things-you-should-know-about-new-ai-tutor-study/"
+        }
+      ]
+    },
+    {
+      "title": "США: начался суд по делу о мошенничестве на $44 млн в онлайн-чартерной школе Indiana Virtual School",
+      "summary": "В федеральном суде начался процесс над бывшим директором закрытой Indiana Virtual School, которого обвиняют в завышении числа учеников ради финансовой выгоды.",
+      "why_it_matters": "Сигнал о повышенном внимании регуляторов к онлайн-школам, финансируемым по числу учеников. В России подобные риски связаны с учётом контингента и с отчётностью, это стоит иметь в виду при взаимодействии с регуляторами.",
+      "section": "Мир: K-12 политика и практика",
+      "tags": [
+        "Законодательство"
+      ],
+      "importance": 2,
+      "sources": [
+        {
+          "name": "Chalkbeat",
+          "title": "$44 million online charter school fraud trial begins in federal court",
+          "link": "https://www.chalkbeat.org/indiana/2026/10/27/indiana-virtual-school-fraud-trial-begins/"
+        }
+      ]
+    },
+    {
+      "title": "Вьетнам: к 2045 году английский должен стать вторым языком школьной системы",
+      "summary": "В 2025 году Вьетнам утвердил двадцатилетнюю программу. Она охватывает около 50 тыс. образовательных организаций, почти 30 млн учащихся и около миллиона преподавателей и администраторов.",
+      "why_it_matters": "Сигнал тренда: государственные программы массового двуязычия в школе. На российский рынок прямого влияния нет, но это пример спроса на языковое обучение.",
+      "section": "Мир: K-12 политика и практика",
+      "tags": [
+        "Исследования и данные"
+      ],
+      "importance": 1,
+      "sources": [
+        {
+          "name": "edtrends (Telegram)",
+          "title": "В 2025 году во Вьетнаме утвердили двадцатилетнюю программу: к 2045 году английский должен стать вторым языком школьной системы .",
+          "link": "https://t.me/edtrends/3811"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-02T06:52:24.724413+00:00",
+  "candidates_count": 369
+}
